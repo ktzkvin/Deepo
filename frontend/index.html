@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Deepo</title>
+    <link rel="stylesheet" href="/style.css?v=2" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="brand">
+          <span class="brand-mark"></span>
+          <span class="brand-name">Deepo</span>
+        </div>
+
+        <nav class="nav">
+          <a class="nav-link active" href="#">Traduire</a>
+          <a class="nav-link" href="#" aria-disabled="true">Fichiers</a>
+        </nav>
+
+        <div class="topbar-actions">
+          <button id="themeBtn" class="iconbtn" type="button" title="Thème" aria-label="Thème">🌙</button>
+          <button class="btn primary" type="button" id="demoBtn">Démo</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="page">
+      <section class="shell">
+        <div class="toolbar">
+          <div class="toolbar-left">
+            <div class="chip" id="modeChip">
+              <span class="dot"></span>
+              <span>Mode test lorem</span>
+            </div>
+          </div>
+
+          <div class="toolbar-right">
+            <button id="clearBtn" class="btn ghost" type="button">Effacer</button>
+          </div>
+        </div>
+
+        <section class="translator">
+          <div class="panel">
+            <div class="panel-head">
+              <div class="langbar">
+                <div class="dropdown" id="sourceDropdown">
+                  <button id="sourceBtn" class="langbtn" type="button" aria-expanded="false">
+                    <span id="sourceLabel">Détection auto</span>
+                  </button>
+
+                  <div id="sourceMenu" class="menu" role="menu" aria-hidden="true">
+                    <div class="menu-top">
+                      <input id="sourceSearch" class="menu-search" type="text" placeholder="Rechercher une langue" autocomplete="off" />
+                    </div>
+                    <div id="sourceList" class="menulist" role="listbox"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel-actions">
+                <button id="copyInputBtn" class="iconbtn" type="button" title="Copier" aria-label="Copier">
+                  <span class="icon">⧉</span>
+                </button>
+              </div>
+            </div>
+
+            <div class="panel-body">
+              <textarea id="inputText" class="textarea" placeholder="Écrivez ou collez votre texte ici."></textarea>
+            </div>
+
+            <div class="panel-foot">
+              <div class="meta">
+                <span id="inputCount">0</span>
+                <span>caractères</span>
+              </div>
+              <div class="meta">
+                <span>Traduction automatique</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="swap">
+            <button id="swapBtn" class="swapbtn" type="button" title="Inverser" aria-label="Inverser">
+              ⇄
+            </button>
+          </div>
+
+          <div class="panel">
+            <div class="panel-head">
+              <div class="langbar">
+                <div class="dropdown" id="targetDropdown">
+                  <button id="targetBtn" class="langbtn" type="button" aria-expanded="false">
+                    <span id="targetLabel">Français</span>
+                  </button>
+
+                  <div id="targetMenu" class="menu" role="menu" aria-hidden="true">
+                    <div class="menu-top">
+                      <input id="targetSearch" class="menu-search" type="text" placeholder="Rechercher une langue" autocomplete="off" />
+                    </div>
+                    <div id="targetList" class="menulist" role="listbox"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel-actions">
+                <button id="copyOutputBtn" class="iconbtn" type="button" title="Copier" aria-label="Copier">
+                  <span class="icon">⧉</span>
+                </button>
+              </div>
+            </div>
+
+            <div class="panel-body">
+              <textarea id="outputText" class="textarea" placeholder="Traduction" readonly></textarea>
+            </div>
+
+            <div class="panel-foot">
+              <div class="meta">
+                <span id="status">Prêt</span>
+              </div>
+              <button id="downloadBtn" class="iconbtn" type="button" title="Télécharger" aria-label="Télécharger">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <path d="M12 3v10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                  <path d="M8 11l4 4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  <path d="M5 21h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <script src="/app.js?v=2"></script>
+  </body>
+</html>
