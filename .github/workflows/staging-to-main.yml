@@ -1,0 +1,13 @@
+name: Staging to main
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  docker-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build image (no push)
+        run: docker build -t deepo:prod .
