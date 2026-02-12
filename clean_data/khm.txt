@@ -1,0 +1,821 @@
+Go.	ទៅ។
+Run!	រត់!
+Run.	រត់។
+Stop!	ឈប់!
+Cheers!	ជល់មួយ !
+Go now.	ទៅឥឡូវហ្នឹង។
+Listen.	ចូរ​ស្ដាប់​។
+Listen.	សូម​ស្ដាប់​។
+No way!	គ្មានគំនិតទេ !
+No way!	ចប់ហើយ !
+No way!	អត់មានទេ !
+No way!	គ្មានយោបល់ទេ !
+No way!	គ្តៀនគំនិត !
+No way!	កប់យោបល់ !
+Get out!	ចេញទៅ !
+Get out!	ទៅក្រៅទៅ !
+Go away!	ចេញទៅ !
+Go away!	ទៅក្រៅទៅ !
+Go away!	ទៅទៅ !
+Go away!	ទៅឱ្យឆ្ងាយ !
+Go away.	ទៅឱ្យឆ្ងាយ ។
+Go away.	ចាកចេញឆ្ងាយ ។
+Go away.	ឃ្លាតឆ្ងាយហើយ ។
+Go away.	ទៅបាត់ហើយ ។
+Go away.	ចេញឆ្ងាយហើយ ។
+Go home.	ទៅផ្ទះ។
+Go home.	ទៅផ្ទះទៅ។
+Goodbye!	លា​ហើយ​!
+Goodbye!	ជំរាបលា​!
+He runs.	គាត់រត់។
+Help me.	ជួយខ្ញុំផង ។
+Hit Tom.	វាយថម។
+Hit Tom.	វៃថម។
+Hit Tom.	វៃថមទៅ។
+Hold it!	ចាំបន្តិច!
+Hold it!	កាន់វា!
+Hold it!	កាន់!
+Hold on.	ចាំបន្តិច។
+Look up.	មើលទៅលើ។
+Open up.	បើកឡើង!
+Shut up!	ស្ងាត់ !
+Shut up!	ស្ងាត់ភ្លាម !
+Take it.	យកទៅ។
+Take it.	យកចុះ។
+Welcome.	សូមស្វាគមន៏ ។
+You run.	អ្នករត់។
+You run.	ឯងរត់។
+Don't go.	កុំទៅ។
+Find Tom.	រកថម។
+Find Tom.	ស្វែងរកថម។
+Go there.	ទៅនោះ។
+Hurry up.	ប្រញាប់ឡើង ។
+Hurry up.	លឿនឡើង ។
+Hurry up.	ឱ្យលឿន ។
+I can go.	ខ្ញុំទៅបាន។
+I'm fine.	ខ្ញុំសុខសប្បាយ ។
+Let's go!	តោះ!
+Let's go!	តោះទៅ !
+Let's go!	តោះយើង !
+Let's go!	តោះយើងទៅ !
+Let's go.	តោះ។
+She runs.	នាងរត់។
+Stand up!	ងើបឈរឡើង!
+Take Tom.	យកថម។
+What fun!	សប្បាយ​ណាស់ !
+What fun!	Sɑbaay-ə nəh!
+Answer me.	ឆ្លើយមក។
+Catch Tom.	ចាប់ថម។
+Catch him.	ចាប់វា។
+Catch him.	ចាប់គាត់។
+Find them.	រកពួកវា។
+Find them.	ស្វែងរកពួកវា។
+Find them.	រកពួកគាត់។
+Find them.	ស្វែងរកពួកគាត់។
+Follow me.	មកតាមខ្ញុំ ។
+Go to bed.	ចូលគេង។
+I am sick.	ខ្ញុំឈឺ ។
+I give up.	ខ្ញុំ​ចុះចាញ់​ហើយ​។
+I got hit.	ខ្ញុំត្រូវបានគេវាយ។
+I got hit.	ខ្ញុំត្រូវបានគេវាយត្រូវ។
+I hit Tom.	ខ្ញុំវាយថម។
+I hit Tom.	ខ្ញុំវៃថម។
+I'm sorry.	សុំទោស ។
+I'm sorry.	ខ្ញុំសុំទោស ។
+I'm sorry.	សុំទោសណា ។
+I'm tired.	ខ្ញុំ គឺ ហត់ ។
+I'm tired.	ខ្ញុំអស់កម្លាំង ។
+I'm tired.	អស់កម្លាំងណាស់ ។
+I'm tired.	ហត់ដល់ហើយ ។
+It's cold.	រងារ​។
+Of course!	ច្បាស់ជាអញ្ចឹងហើយ!
+Open fire!	បាញ់!
+See above.	មើល​ខាងលើ។
+She walks.	នាងដើរ។
+Stay home.	នៅផ្ទះ។
+Take care!	ថែរក្សាសុខភាពណា៎!
+Take care.	ថែរក្សាសុខភាព។
+Take this.	យកនេះ។
+Then what?	ហើយម៉េច?
+Then what?	ហើយយ៉ាងម៉េច?
+Then what?	ហើយម៉េចទៀត?
+Tom walks.	ថមដើរ។
+We can go.	យើងអាចទៅបាន។
+Answer Tom.	ឆ្លើយថម។
+Answer Tom.	ឆ្លើយទៅថម។
+Carry this.	កាន់អានេះ។
+Carry this.	លើកអានេះ។
+Get to bed.	ចូលគេង។
+Go see Tom.	ទៅជួប ថម។
+I hear you.	ខ្ញុំឮអ្នក។
+I hear you.	ខ្ញុំឮឯង។
+I love you.	បងស្រលាញ់អូន។
+I love you.	អូនស្រលាញ់បង។
+I ran home.	ខ្ញុំរត់ទៅផ្ទះ ។
+I'm hungry!	ខ្ញុំឃ្លាន !
+I'm hungry!	ខ្ញុំហេវ !
+I'm hungry!	ឃ្លានបាយ !
+I'm hungry!	ហេវបាយ !
+Is that so?	អញ្ចឹងមែន ?
+Is that so?	មែនអេ៎ ?
+It's close.	វានៅជិត។
+Keep quiet!	សូមស្ងាត់!
+Keep quiet!	ស្ងាត់!
+Keep quiet.	សូមស្ងាត់។
+Keep quiet.	ស្ងាត់។
+No problem.	​អត់បញ្ហា។
+Stay close.	នៅជិតនេះ។
+Stay close.	នៅជិតនេះហើយ។
+Take these.	យកនេះ។
+Tom drinks.	ថមផឹក។
+Tom hit me.	ថមវាយខ្ញុំ។
+Tom hit me.	ថមវៃខ្ញុំ។
+Was it fun?	សប្បាយអត់ ?
+What is it?	អីគេ​ហ្នឹង ?
+Break it up!	បំបែកវាចេញ។
+Don't worry.	កុំបារម្ភអី ។
+Don't worry.	កុំព្រួយណា៎ ។
+Don't worry.	កុំភ័យអី ។
+Go find Tom.	ទៅរកថម។
+Go find Tom.	ទៅស្វែងរកថម។
+Go get help.	ទៅទទួលជំនួយ។
+Go help Tom.	ទៅជួយ ថម។
+Go meet Tom.	ទៅជួប ថម។
+Go tell Tom.	ទៅប្រាប់ ថម។
+Go that way.	ទៅខាងនោះ។
+Go with Tom.	ទៅជាមួយ ថម។
+Hear me out.	ស្តាប់ខ្ញុំ។
+Help me out.	ជួយខ្ញុំផង ។
+Here, catch!	នេះ ចាប់!
+How are you?	សុខសប្បាយអត់ ?
+I also went.	ខ្ញុំបានទៅដែរ។
+I also went.	ខ្ញុំក៏បានទៅដែរ។
+I eat bread.	ខ្ញុំ​ញ៉ាំ​នំ​ប៉័ង​។
+I have time.	ខ្ញុំមានពេល ។
+I hear that.	ខ្ញុំឮវា។
+I like cats.	ខ្ញុំចូលចិត្តឆ្មា ។
+I like fish.	ខ្ញុំចូលចិត្តត្រី។
+I lost face.	ខ្ញុំបានបាក់មុខ។
+I lost face.	ខ្ញុំបានអាម៉ាស់មុខ។
+I love cats.	ខ្ញុំស្រលាញ់ឆ្មា ។
+I thank you.	ខ្ញុំសូមអរគុណដល់អ្នក ។
+I'm a woman.	ខ្ញុំ​គឺជា​មនុស្ស​ស្រី ។
+I'm thirsty.	ខ្ញុំស្រេកទឺក ។
+I'm thirsty.	ខ្ញុំឃ្លានទឹក ។
+Keep trying.	ខិតខំតទៅទៀត។
+Keep trying.	ខំទៀត។
+OK. I agree.	បាទ​! យល់ព្រម​ ។
+OK. I agree.	ចា៎​! យល់ព្រម ​។
+She hit him.	នាងវាយគាត់។
+She hit him.	នាងវៃគាត់។
+Stay in bed.	នៅលើគ្រែ។
+Tom was hit.	ថមត្រូវបានគេវាយ។
+Tom was hit.	ថមត្រូវបានគេវៃ។
+Walk slowly.	ដើរយឺតៗ។
+We can hear.	យើងអាចឮ។
+We can hear.	យើងអាចឮបាន។
+We hear you.	យើងឮអ្នក។
+We hear you.	យើងឮឯង។
+Where is it?	តើនៅកន្លែងណា ?
+Who are you?	តើអ្នកជានណា?
+Who hit Tom?	តើអ្នកណាវាយថម?
+Who hit Tom?	តើនរណាវាយថម?
+Who hit Tom?	តើអ្នកណាវៃថម?
+Who hit you?	តើអ្នកណាវាយអ្នក?
+Who hit you?	តើអ្នកណាវៃឯង?
+Are you sure?	តើអ្នកប្រាកដហេ៎ ?
+Are you sure?	តើប្រាកដ ?
+Are you sure?	តើអ្នកច្បាស់ហេ៎ ?
+Can you hear?	តើអ្នកស្តាប់ឮឬទេ?
+Can you hear?	តើអ្នកឮឬទេ?
+Come quickly!	ម៉ោអា៎លឿនម៉ោ!
+Face reality.	ប្រឈមមុខនឹងការពិត។
+Find the cat.	រកឆ្មាមើល ។
+Find the cat.	រកឆ្មា។
+Find the cat.	ស្វែងរកឆ្មា។
+Go to school.	ទៅសាលារៀន។
+Good evening.	សាយ័ណ្ហសួស្ដី។
+I also cried.	ខ្ញុំក៏បានយំដែរ។
+I also cried.	ខ្ញុំបានយំដែរ។
+I don't know.	ខ្ញុំ អត់ដឹង ។
+I don't know.	ខ្ញុំ មិនដឹងអីទេ ។
+I hear music.	ខ្ញុំឮចម្រៀង។
+I understand.	យល់​ហើយ ។
+I want money.	ខ្ញុំចង់បានលុយ ។
+I want to go.	ខ្ញុំចង់ទៅ។
+I was a chef.	ខ្ញុំធ្លាប់ជាចុងភៅ។
+It may break.	វាអាចនឹងបែក។
+Keep reading.	អានតទៀត។
+Keep reading.	បន្តការអាន។
+Keep running.	បន្តរត់។
+Look closely.	មើលឲ្យច្បាស់។
+Take a break.	សម្រាកទៅ។
+Take a break.	សូមសម្រាកចុះ។
+That's great!	ɑɑ nah!
+Things break.	អ្វីៗបែកបាក់។
+This is food.	នេះគឺជា អាហារ ។
+This is hard.	អា៎នេះពិបាក។
+Tom answered.	ថមបានឆ្លើយ។
+Tom hit Mary.	ថមវាយម៉ារី។
+Tom hit Mary.	ថមវៃម៉ារី។
+Tom was home.	ថម នៅផ្ទះ ។
+Words matter.	ពាក្យមានសារៈសំខាន់។
+You go first.	ទៅមុនទៅ ។
+You're wrong.	អ្នកខុសហើយ ។
+Are you happy?	តើអ្នកសប្បាយចិត្តទេ ?
+Are you happy?	តើសប្បាយទេ ?
+Are you happy?	សប្បាយអត់ ?
+Are you tired?	តើអ្នកហត់ឬទេ ?
+Are you tired?	តើអ្នកអស់កម្លាំង ?
+Are you tired?	ហត់អត់ ?
+Break it down.	បំបែកវាទៅ។
+Come back, OK?	ត្រលប់មកវិញណា !
+Do you follow?	យល់អត់?
+Go over there.	ទៅទីនោះ។
+He is falling.	គាត់កំពុងធ្លាក់ចុះ។
+I can't sleep.	ខ្ញុំ គេងអត់លក់ ។
+I hear sirens.	ខ្ញុំឮស៊ីរ៉ែន។
+I hear voices.	ខ្ញុំឮសម្លេង។
+I hear voices.	ខ្ញុំឮសំឡេង។
+I've got time.	ខ្ញុំមានពេល ។
+Is there time?	តើមានពេលទេ ?
+It hurts here.	ខ្ញុំឈឺកន្លែងនេះ ។
+Keep fighting.	វៃតទៀត។
+Keep fighting.	បន្តប្រយុទ្ធ។
+Keep fighting.	វៃគ្នាតទៀត។
+Make the beds.	រៀបចំគ្រែ។
+Make your bed.	រៀបចំគ្រែអ្នក។
+Mary is a fox.	ម៉ារី ​សិចស៊ី​ណាស់​ ។
+Some fish fly.	ត្រីខ្លះហើរ។
+Some fish fly.	ត្រីខ្លះហោះ។
+Start running.	ចាប់ផ្តើមរត់។
+Stop fighting!	ឈប់វៃ!
+Stop fighting!	ឈប់វៃគ្នា!
+Tom went home.	ថម ទៅផ្ទះ ។
+Watch closely.	ទស្សនាឲ្យច្បាស់។
+We met before.	យើងធ្លាប់ជួបគ្នា។
+We met before.	យើងធ្លាប់ជួបគ្នាហើយ។
+We're special.	យើងគឺពិសេស ។
+Where are you?	តើអ្នកនៅកន្លែងណា ?
+Where are you?	តើនៅកន្លែងណា ?
+Where are you?	តើឯងនៅណា ?
+Where are you?	តើនៅណាហ្នឹង ?
+Where are you?	នៅណាហ្នឹង ?
+You are wrong.	អ្នកខុសហើយ ។
+Are you hungry?	តើអ្នកឃ្លានទេ ?
+Are you hungry?	ឃ្លានអត់ ?
+Can I help you?	តើខ្ញុំអាចជួយអ្នកបានអត់ ?
+Can I help you?	តើខ្ញុំអាចជួយអីបានទេ ?
+Can I help you?	ខ្ញុំជួយអីបានអត់ ?
+Close the door.	បិទទ្វារ។
+Close the gate.	បិទរបង។
+Close the safe.	បិទទូរដែក។
+Do you like it?	ចូលចិត្តវាអត់ ?
+Do you love me?	តើអ្នកស្រលាញ់ខ្ញុំទេ ?
+Do you love me?	តើអូនស្រលាញ់បងហេ៎ ?
+Do you love me?	តើបងស្រលាញ់អូនអត់ ?
+Go get changed.	ទៅផ្លាស់ខោអាវ។
+Good afternoon.	ទិវា​សួស្ដី ។
+Happy New Year!	សួស្តី ឆ្នាំថ្មី !
+Happy New Year!	រីករាយ ឆ្នាំថ្មី !
+Happy New Year!	អបអរសាទរ ចូលឆ្នាំថ្មី !
+Have you eaten?	ញ៉ាំបាយហើយនៅ?
+Hit the brakes!	ចាប់ហ្វ្រាំង!
+Hit the brakes.	ចាប់ហ្វ្រាំង។
+I got a refund.	ខ្ញុំបានទទួលការសងប្រាក់វិញ។
+I love monkeys.	ខ្ញុំស្រឡាញ់សត្វស្វា។
+I love monkeys.	ខ្ញុំស្រលាញ់សត្វស្វា។
+I want to live.	ខ្ញុំចង់រស់។
+I went fishing.	ខ្ញុំបានទៅស្ទូចត្រី។
+I'd rather die.	ខ្ញុំ​ចង់​ស្លាប់​ជាង​។
+I'm exercising.	ខ្ញុំ ហាត់ប្រាណ ។
+It smells good!	ក្លិនវាគួរឱ្យឆ្ងាញ់ !
+It smells good!	ធំក្លិនគួរឱ្យឆ្ងាញ់ !
+It smells good!	ហិតក្លិនគួរឱ្យឆ្ងាញ់ !
+It's up to you.	តាម​ចិត្ត​អ្នក​។
+Keep listening.	ស្តាប់តទៀត។
+Keep listening.	បន្តការស្តាប់។
+Large or small?	ធំឬតូច?
+Large or small?	ធំឬក៏តូច?
+Leave me alone!	ទុកខ្ញុំនៅម្នាក់ឯងបានហើយ !
+Leave me alone!	ឱ្យខ្ញុំនៅម្នាក់់ឯង !
+Leave me alone!	ទុកខ្ញុំនៅស្ងាត់សិន !
+Leave my house.	ចេញពីផ្ទះខ្ញុំ។
+Leave my house.	ចេញពីផ្ទះខ្ញុំទៅ។
+Let me hear it.	ឲ្យខ្ញុំស្តាប់វា។
+Listen closely.	ស្តាប់ឲ្យច្បាស់។
+My tooth hurts.	ខ្ញុំឈឺធ្មេញ ។
+She loves cats.	នាងស្រលាញ់ឆ្មា ។
+Shut your trap!	បិទចំពុះ!
+That was close.	វាមើលទៅដូចជិត។
+That was close.	ដែលវានៅជិត។
+Wash your face.	លាងមុខ។
+Wash your face.	លាងមុខអ្នក។
+What about you?	ចុះអូនវិញ?
+What about you?	ចុះបងវិញ?
+Are you married?	តើអ្នករៀបការហើយ ?
+Are you married?	តើលោករៀបការហើយឬនៅ ?
+Are you married?	ឯងរៀបការហើយ ?
+Cats catch mice.	ឆ្មាចាប់កណ្ដុរ ។
+Close your book.	បិទសៀវភៅ។
+Close your book.	បិទសៀវភៅអ្នក។
+Close your eyes.	បិទភ្នែកអ្នក។
+Close your eyes.	បិទភ្នែក។
+Congratulations!	អបអរសាទរ!
+Do you trust me?	តើអ្នកជឿលើខ្ញុំទេ ?
+Don't be afraid.	កុំខ្លាច។
+Don't be scared.	កុំខ្លាច។
+He sounds angry.	គាត់​ហាក់​ដូច​ជា​ខឹង​។
+How is it going?	សុខសប្បាយអត់ ?
+How old are you?	តើអ្នកមានអាយុប៉ុន្មាន ?
+How old are you?	តើមានអាយុប៉ុន្មាន ?
+How old are you?	តើអាយុប៉ុន្មានទៅ ?
+How rude of you!	ឈ្លើយណាស់ !
+I have to sleep.	ខ្ញុំ ត្រូវការដេក ។
+I have two cats.	ខ្ញុំមានឆ្មាពីរ ។
+I hear laughing.	ខ្ញុំឮសម្លេងសើច។
+I hear laughing.	ខ្ញុំឮសំឡេងសើច។
+I love swimming.	ខ្ញុំ ស្រលាញ់កីឡាហែលទឹក ។
+It doesn't hurt.	អត់​ឈឺ​។
+It's too narrow.	វាតូចចង្អៀតណាស់។
+It's too narrow.	វាតូចចង្អៀតខ្លាំងណាស់។
+Leave it closed.	ទុកវាបិទ។
+Leave our house.	ចេញពីផ្ទះយើង។
+Leave our house.	ចេញពីផ្ទះយើងទៅ។
+My book is here.	សៀវភៅ​ខ្ញុំ​នៅ​ទី​នេះ​។
+Nobody answered.	គ្មាននរណាបានឆ្លើយ។
+Nobody answered.	គ្មាននរណាបានឆ្លើយនោះទេ។
+She adores cats.	នាងស្រលាញ់ឆ្មា ។
+Stop hitting me.	ឈប់វាយខ្ញុំ។
+Stop hitting me.	ឈប់វៃខ្ញុំទៅ។
+The house stank.	ផ្ទះនឹងស្អុយ។
+There's no time.	អត់​មាន​ពេល ។
+This dog is big.	ឆ្កែនេះ គឺធំ ។
+Tom also dances.	ថមក៏រាំដែរ។
+Tom also dances.	ថមរាំដែរ។
+Tom also smiled.	ថមក៏បានញញឹមដែរ។
+Tom also talked.	ថមក៏បាននិយាយដែរ។
+Tom also talked.	ថមបាននិយាយដែរ។
+Try another one.	សាកមួយទៀត។
+Wash the dishes.	លាង​ចាន ។
+We closed early.	យើងបិទមុនគេ។
+What time is it?	តើវាម៉ោងប៉ុន្មានហើយ ?
+What's her name?	តើគាត់ឈ្មោះអី?
+What's his name?	តើគាត់ឈ្មោះអី?
+Close the window.	បិទបង្អួច។
+Do you live here?	តើអ្នករស់នៅទីនេះ ?
+Do you live here?	តើលោករស់នៅនេះ ?
+Do you live here?	រស់នៅទីនេះមែន ?
+Have another cup.	យកកាទឹកមួយទៀត។
+He died suddenly.	គាត់ស្លាប់ដោយចៃដន្យ ។
+He loves fishing.	គាត់ស្រឡាញ់ការស្ទូចត្រី។
+How tall you are!	អ្នក​ខ្ពស់​ណាស់ !
+I am eating rice.	ខ្ញុំ​កំពុង​ញ៉ាំ​បាយ ។
+I hear something.	ខ្ញុំឮអ្វីមួយ។
+I like this city.	ខ្ញុំចូលចិត្តទីក្រុងនេះ។
+I'm not a doctor.	ខ្ញុំមិនមែនជា គ្រូពេទ្យទេ ។
+It's worth a try.	សាកមើលក៏បានដែរ ។
+It's worth a try.	សាកមើលគ្រាន់បើជាង ។
+Let's play cards.	តោះ យើងលេងបៀរ ។
+Light the candle.	អុចទៀន។
+Make your choice.	សម្រេចចិត្ត។
+My face twitches.	មុខរបស់ខ្ញុំញ័រ។
+Search the house.	ឆែកផ្ទះនេះទៅ។
+She smiled sadly.	នាងញញឹមលាយលំនិងទុក្ខដែរ ។
+Something hit me.	អ្វីមួយបុកខ្ញុំ។
+Something hit me.	អ្វីមួយត្រូវខ្ញុំ។
+Stop hitting Tom.	ឈប់វាយថម។
+Stop hitting Tom.	ឈប់វៃថម។
+Stop hitting Tom.	ឈប់វាយថមទៅ។
+Stop hitting Tom.	ឈប់វៃថមទៅ។
+Take precautions.	ប្រុងប្រយ័ត្ន។
+That looks close.	វាមើលទៅដូចជិត។
+That looks close.	ដែលមើលទៅជិត។
+There's no water.	អត់​មាន​ទឹក​។
+This is above me.	វានៅលើខ្ញុំ។
+Tom is with Mary.	ថម នៅ​ជាមួយ ម៉ារី​ ។
+Tom loves soccer.	ថម ស្រលាញ់ កីឡាបាល់ទាត់ ។
+Tom stayed close.	ថមនៅជិត។
+What did you say?	ថាម៉េច?
+What do you want?	តើអ្នកចង់បានអ្វី ?
+What do you want?	តើចង់បានអីហ្នឹង ?
+What do you want?	តើឯងចង់បានអី ?
+What do you want?	ចង់បានអី ?
+What is his name?	តើគាត់ឈ្មោះអី?
+What's your name?	តើ​អ្នក​ឈ្មោះ​អ្វី​?
+What's your name?	អ្នក​ឈ្មោះ​អី​?
+What's your name?	តើគាត់ឈ្មោះអី?
+What's your name?	តើ​លោក​ឈ្មោះ​អី ?
+Do you understand?	យល់អត់?
+Don't do it again.	កំុធ្វើអញ្ចឹងទៀត។
+Don't you like it?	អត់​ចូលចិត្ត​វា​ទេ​?
+Her eyes are blue.	ភ្នែករបស់នាងពណ៌ខៀវ ។
+I don't want meat.	ខ្ញុំ​មិន​ចង់​បាន​សាច់​ទេ ។
+I have a headache.	ខ្ញុំឈឺឡាតែត ។
+I have a headache.	ខ្ញុំឈឺក្បាល ។
+I have a question.	ខ្ញុំមានសំនួរ។
+I have a question.	ខ្ញុំមានសំណួរ។
+I have a question.	ខ្ញុំមានសំនួរមួយ។
+I have a question.	ខ្ញុំមានសំណួរមួយ។
+I heard about Tom.	ខ្ញុំបានលឺអំពីថម។
+I know a shortcut.	ខ្ញុំស្គាល់ផ្លូវកាត់ ។
+It's for tourists.	គឺសម្រាប់ភ្ញៀវទេសចរណ៍។
+It's not worth it.	វាមិនលើគ្នាទេ ។
+Light the candles.	អុចទៀន។
+Please wait a bit.	សូមចាំបន្តិច ។
+Somebody answered.	នរណាម្នាក់បានឆ្លើយ។
+Thanks for coming.	អរគុណ ដែលបានមកលេង ។
+The cup was empty.	ពែងនេះគឺទទេស្អាត។
+The roses are red.	កុលាប ពណ៌ក្រហម។
+They went fishing.	ពួកគេបានទៅស្ទូចត្រី។
+This is difficult.	អា៎នេះពិបាក។
+Tom likes monkeys.	ថមចូលចិត្តសត្វស្វា។
+Tom returned home.	ថម ត្រឡប់ទៅផ្ទះវិញ ។
+What do you think?	តើឯងគិតយ៉ាងណា ?
+What is your name?	តើគាត់ឈ្មោះអី?
+What is your name?	តើ​លោក​ឈ្មោះ​អី ?
+What is your name?	ឈ្មោះអី?
+What's the matter?	មាន​រឿង​អី​?
+Where do you live?	តើអ្នករស់នៅឯណា ?
+Where do you live?	តើលោករស់នៅឯណា ?
+Where do you live?	តើអ្នករស់កន្លែងណា ?
+Where do you work?	តើធ្វើការនៅណា​?
+Where do you work?	ធ្វើការនៅណា​?
+Where is the food?	ម្ហូប នៅឯណា ?
+Why can't we walk?	ហេតុអ្វីបានយើងមិនអាចដើរ?
+Why can't we walk?	ហេតុអ្វីបានយើងដើរមិនបាន?
+Why can't we walk?	ហេតុអ្វីបានយើងដើរមិនកើត?
+Why does Tom work?	ហេតុអ្វីបានជាថមធ្វើការងារ?
+Did she sleep well?	តើនាងគេងបានល្អហេ ?
+Does it taste okay?	តើរស់ជាតិយ៉ាងម៉េចដែរ?
+I don't have a cat.	ខ្ញុំអត់មានឆ្មាទេ។
+I don't have a cat.	ខ្ញុំអត់មានឆ្មា។
+I don't understand.	ខ្ញុំ មិនយល់ទេ ។
+I don't understand.	អត់យល់ ។
+I have a toothache.	ខ្ញុំឈឺធ្មេញ ។
+I like Korean food.	ខ្ញុំចូលចិត្ត ម្ហូបកូរ៉េ ។
+I need to be alone.	ខ្ញុំត្រូវការនៅម្នាក់ឯង ។
+I want to be alone!	ខ្ញុំចង់នៅម្នាក់ឯង !
+I'll be seeing you.	ថ្ងៃក្រោយជួបគ្នា។
+I'll see you later.	ថ្ងៃក្រោយជួបគ្នា។
+I'm sorry I'm late.	សុំទោសដែលខ្ញុំមកយឺត ។
+It happened before.	វាបានកើតពីមុន។
+It happened before.	វាបានកើតឡើងពីមុនរួបមកហើយ។
+It's not important.	អត់​សំខាន់​ទេ​។
+It's not important.	មិន​សំខាន់​ទេ​។
+Leaves are falling.	ស្លឹកឈើកំពុងធ្លាក់ចុះ។
+Leaves are falling.	ស្លឹកឈើកំពុងធ្លាក់។
+My mother is angry.	ម៉ាក់​ខ្ញុំ​ខឹង​។
+Schools are closed.	សាលាត្រូវបានបិទ។
+Schools are closed.	សាលារៀនត្រូវបានបិទ។
+Shake before using.	ក្រឡុកមុននឹងប្រើ។
+Shake before using.	ក្រឡុកសិនបានប្រើ។
+There's no problem.	​អត់បញ្ហា។
+Tom likes swimming.	ថម ចូលចិត្តហែលទឹក។
+We need more flour.	យើងត្រូវការម្សៅទៀត។
+What narrow stairs!	ជណ្តើររដ៏តូចចង្អៀត!
+What's the problem?	មាន​បញ្ហា​អី​?
+Where are you from?	តើ​អ្នក​ជនជាតិ​អ្វី​?
+Where do I go then?	អញ្ចឹង​ខ្ញុំ​ទៅ​ណា​?
+Why are you crying?	តើហេតុអី្វអ្នកយំ ?
+Why are you crying?	តើហេតុអីអូនយំ ?
+Why are you crying?	តើមូលហេតុអីជាអ្នកយំ ?
+Why are you crying?	ហេតុអីបានជាអូនយំ ?
+Why are you crying?	ហេតុអីបានយំ ?
+You like elephants.	អ្នកចូលចិត្តដំរី ។
+A bird soared above.	ចាបមួយហោះនៅលើ។
+Do you like bowling?	អ្នក​ចូលចិត្ត​លេង​បោះប៊ូល​ទេ​?
+Don't do that again.	កុំធ្វើបែបហ្នឹងទៀត ។
+Everybody applauded.	មនុស្សគ្រប់គ្នាបានអបអរសាទរ។
+Freedom is not free.	សេរីភាព​មិន​មែន​ហ៊្វ្រី​ទេ​។
+Glass breaks easily.	កញ្ចក់ងាយនឹងបែក។
+His face brightened.	ទឹកមុខរបស់គាត់បានប្រសើរឡើង។
+I do not have a cat.	ខ្ញុំអត់មានឆ្មាទេ។
+I do not have a cat.	ខ្ញុំអត់មានឆ្មា។
+I have a dictionary.	ខ្ញុំមានវចនានុក្រម។
+I know you're lying.	ខ្ញុំដឹងថាអ្នកកហុក ។
+I will be back soon.	ខ្ញុំ នឹងមកវិញលឿន ។
+I will be back soon.	ខ្ញុំ នឹងមកវិញឆាប់ៗនេះ ។
+I will be back soon.	ខ្ញុំ នឹងត្រលប់មកឆាប់ៗនេះ ។
+I'll see you around.	ថ្ងៃក្រោយជួបគ្នា។
+I'm a light sleeper.	ខ្ញុំ​គឺជាអ្នក​គេង​ល្វាស ។
+I'm fully recovered.	ខ្ញុំ​បាន​ជា​វិញ​ទាំងស្រុង​។
+I've got a question.	ខ្ញុំមានសំនួរ។
+I've got a question.	ខ្ញុំមានសំណួរ។
+I've got a question.	ខ្ញុំមានសំនួរមួយ។
+I've got a question.	ខ្ញុំមានសំណួរមួយ។
+It snowed yesterday.	ម្សិលមិញ​ធ្លាក់​ព្រិល​។
+Kids like ice cream.	ក្មេងៗ ចូលចិត្តការ៉េម ។
+Let's start working.	តោះយើងចាប់ផ្តើមធ្វើការ ។
+Monkeys climb trees.	ស្វាឡើងដើមឈើ។
+Monkeys climb trees.	សត្វស្វាឡើងដើមឈើ។
+Please make the bed.	សូមរៀបចំគ្រែ។
+The law was changed.	ច្បាប់​ត្រូវ​បាន​ប្តូរ​។
+They carry firearms.	ពួកគេកាន់កាំភ្លើង។
+They carry firearms.	ពួកវាកាន់កាំភ្លើង។
+This was my mistake.	នេះ​ជា​កំហុស​របស់​ខ្ញុំ ។
+This was my mistake.	Anih ciə kɑmhoh bɑh ɲom.
+Tom drinks too much.	ថម ផឹកស្រាច្រើនពេក ។
+Tom drinks too much.	Tom pək sea cəən pek.
+Tom is good-hearted.	ថម ចិត្តល្អ ។
+Tom watched closely.	ថមបានមើលច្បាស់។
+What are you saying?	តើនិយាយអីហ្នឹង ?
+What are you saying?	តើលោកកំពុងនិយាយអី ?
+What smells so good?	តើឈ្ងុយអីគេហ្នឹង ?
+Where are you going?	តើលោកត្រូវការទៅណា ?
+Where are you going?	តើឯងទៅណាហ្នឹង ?
+Where are you going?	តើអ្នកទៅកន្លែងណា ?
+Where are you going?	តើលោកត្រូវទៅណា ?
+Where is the toilet?	បង្គន់​នៅ​ណា​?
+Where's my suitcase?	វ៉ាលីស៍ខ្ញុំនៅណា?
+Who wrote this book?	នរណា​បាន​និពន្ធ​សៀវភៅ​នេះ​?
+Your friend is here.	ពួកម៉ាក​របស់​អ្នក​នៅ​ទីនេះ​។
+Are you volunteering?	តើ​អ្នក​កំពុង​ស្ម័គ្រចិត្ត​ឬ​?
+Do you speak English?	Ceh yəy ɑŋgleih ɑt?
+Do you speak English?	តើ​អ្នក​ចេះ​និយាយ​ភាសា​អង់គ្លេស​ទេ ?
+Find the differences.	រកភាពខុសគ្នា។
+Find the differences.	ស្វែងរកភាពខុសគ្នា។
+I can't walk anymore.	ខ្ញុំមិនអាចដើរបានតទៅទៀតទេ។
+I must talk with Tom.	ខ្ញុំនឹងត្រូវនិយាយជាមួយ Tom។
+I'll catch you later.	ថ្ងៃក្រោយជួបគ្នា។
+I'm looking for work.	ខ្ញុំរកការងារធ្វើ។
+I've got a toothache.	ខ្ញុំឈឺធ្មេញ ។
+It doesn't bother me.	ខ្ញុំមិនប្រកាន់ទេ ។
+It is already eleven.	ម៉ោង​ដប់មួយ​ហើយ​។
+It was hot yesterday.	ម្សិលមិញ​ក្តៅ​ណាស់​។
+Monkeys like bananas.	សត្វស្វាស្រឡាញ់ចេក។
+Monkeys like bananas.	សត្វស្វាចូលចិត្តផ្លែចេក។
+Monkeys love bananas.	សត្វស្វាស្រឡាញ់ចេក។
+Please wait a moment.	សូមចាំបន្តិច ។
+She has a good heart.	នាង​មាន​ចិត្ត​ល្អ​។
+Sign above this line.	ចុះហត្ថលេខានៅខាងលើបន្ទាត់នេះ។
+Thank you for coming.	អរគុណ ដែលបានមកលេង ។
+The car turned right.	ឡានបត់ស្ដាំ ។
+The monkey came down.	សត្វស្វាបានចុះក្រោម។
+Tom is annoying Mary.	ថម កំពុង​រំខាន ម៉ារី ។
+Tom needs some flour.	ថមត្រូវការម្សៅខ្លះ។
+Tom needs some sleep.	ថម ត្រូវការពេលគេងបន្តិច ។
+Water reflects light.	ទឹកឆ្លុះពន្លឺ។
+Where is the problem?	បញ្ហា​នៅ​ណា​?
+Where's the bathroom?	បន្ទប់ទឹកនៅណា?
+Where's the restroom?	បន្ទប់ទឹកនៅណា?
+You aren't my mother.	អ្នកមិនមែនជាម្ដាយខ្ញុំទេ ។
+Above all, be patient.	សំខាន់ជាងគេ ត្រូវអត់ធ្មត់។
+Africa is a continent.	អាហ្វ្រិក គឺជាទ្វីបមួយ។
+Do not be so critical.	កុំរិះគន់គេពេក ។
+Everyone loves sports.	មនុស្សទាំងអស់សុទ្ធតែ ស្រលាញ់ កីឡា ។
+He will come tomorrow.	គាត់មកនៅថ្ងៃស្អែក ។
+He will come tomorrow.	ថ្ងៃស្អែក គាត់នឹងមោ ។
+How long did you stay?	តើអ្នកបានស្នាក់នៅរយៈពេលប៉ុន្មាន ?
+I never hear anything.	ខ្ញុំមិនដែលឮអ្វីទេ។
+I usually get up at 8.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+I want to go with you.	ខ្ញុំ​ចង់​ទៅ​ជាមួយ​អ្នក​។
+I'm looking for a job.	ខ្ញុំរកការងារធ្វើ។
+Monkey see, monkey do.	ស្វាឃើញ ស្វាធ្វើ។
+She's taller than him.	នាងខ្ពស់ជាងគាត់។
+Tom is unable to walk.	ថមមិនអាចដើរបាន។
+Tom is unable to walk.	ថមមិនអាចដើរ។
+Tom is unable to walk.	ថមមិនអាចដើរបានទេ។
+Where are you staying?	ស្នាក់នៅណា?
+Where is the bathroom?	បន្ទប់ទឹកនៅណា?
+Where is the restroom?	បន្ទប់ទឹកនៅណា?
+He's probably sleeping.	គាត់ ប្រហែលកំពុងដេក ។
+Health is above wealth.	សុខភាពសំខាន់ជាងភាពមានបាន។
+His handwriting is bad.	អក្សរ​សរសេរ​ដៃ​របស់​គាត់​អាក្រក់​។
+I am a college student.	ខ្ញុំ​គឺ​និស្សិត​។
+I don't have any money.	ខ្ញុំមិនមានលុយទេ ។
+I don't have any money.	ខ្ញុំអត់លុយទេ ។
+I don't speak Japanese.	ខ្ញុំ​អត់​និយាយ​ភាសា​ជប៉ុន​ទេ​។
+I often walk to school.	ខ្ញុំភាគច្រើនដើរទៅសាលា។
+I promise to work hard.	ខ្ញុំសន្យាថាខំធ្វើការ ។
+I want to learn karate.	ខ្ញុំ ចង់រៀនក្បាច់គុន ការ៉ាតេដូរ ។
+I was playing with Tom.	ខ្ញុំបានលេងជាមួយថម។
+Tom can sleep anywhere.	ថម អាចដេកកន្លែងណាក៏បាន ។
+Tom has three children.	ថម មាន​កូន​បី​នាក់​។
+Tom is a heavy sleeper.	ថម គឺជា​អ្នក​គេង​ស្កប់ស្កល់ ។
+I don't have much money.	ខ្ញុំមិនមានលុយច្រើនទេ ។
+I need to be left alone.	ខ្ញុំត្រូវការនៅម្នាក់ឯង ។
+Monkeys are intelligent.	សត្វស្វាមានភាពវៃឆ្លាត។
+Monkeys are intelligent.	សត្វស្វាមានភាពឈ្លាសវៃ។
+Tom must be sleeping in.	ថមប្រាកដជាគេងជ្រុលហើយ។
+What are you looking at?	កំពុងមើលអីហ្នឹង?
+What do you want to buy?	ចង់ទិញអី?
+What do you want to eat?	តើអូនចង់ញ៉ាំអី ?
+What do you want to eat?	ចង់ញ៉ាំអី?
+Where is the guesthouse?	ផ្ទះសំណាក់នៅណា?
+Wires carry electricity.	ខ្សែភ្លើងនាំយកអគ្គិសនី។
+Bread is made from flour.	នំប៉័ងត្រូវបានធ្វើឡើងពីម្សៅ។
+Business before pleasure.	អាជីវកម្មមុនភាពពេញចិត្ត។
+Do we need anything else?	តើយើងត្រូវការអីទៀតទេ ?
+Flour is made from wheat.	ម្សៅត្រូវបានធ្វើពីស្រូវសាលី។
+Flour is made into bread.	ម្សៅត្រូវបានធ្វើទៅជានំប៉័ង។
+He speaks five languages.	Goat yiəy peam pʰiəsaa.
+He speaks five languages.	គាត់​និយាយ​ប្រាំ​ភាសា ។
+How could you think that?	តើអ្នកអាចគិតថាយ៉ាងម៉េចដែរ ?
+I can't find the receipt.	ខ្ញុំរកបង្កាន់ដៃមិនឃើញទេ។
+I had to go to a meeting.	ខ្ញុំរវល់ទៅចូលរួមការប្រជុំ។
+I hear footsteps outside.	ខ្ញុំឮសម្រិបជើងនៅខាងក្រៅ។
+I know that you're lying.	ខ្ញុំដឹងថាអ្នកកហុក ។
+I'll be seeing you later.	ថ្ងៃក្រោយជួបគ្នា។
+I'll try to persuade Tom.	ខ្ញុំនឹងព្យាយាមបញ្ចុះបញ្ចូលថម។
+Let's walk home together.	តោះយើងដើរទៅផ្ទះទាំងអស់គ្មា។
+That's Mary's ex-husband.	គាត់ជាអតីតស្វាមីរបស់ម៉ារី។
+The air here is terrible.	ខ្យល់នៅទីនេះអាក្រក់។
+The book is on the table.	សៀវភៅ គឺនៅលើតុ ។
+The book is on the table.	សៀវភៅនៅលើតុ ។
+The book is on the table.	សៀវភៅទុកលើតុ ។
+The room has two windows.	បន្ទប់​នេះ​មាន​បង្អួច​ពីរ ។
+They welcomed Tom aboard.	ពួកគេបានស្វាគមន៍ថមទៅលើយន្តហោះ។
+Tom attended the wedding.	ថម ញ៉ាំការ ។
+Tom felt a little guilty.	ថម​មាន​ទោស​តិច​។
+Tom walked into the bank.	ថមបានដើរទៅធនាគារ។
+Tom will do that somehow.	ថមនឹងធ្វើវាតាមរបៀបណាមួយ។
+Which sports do you like?	តើកីឡាអីដែលឯងចូលចិត្ត ?
+You've made me what I am.	អ្នកបានធ្វើឱ្យខ្ញុំជាខ្ញុំ។
+Do you think they're dead?	តើអ្នកគិតថាពួកគេស្លាប់ទេ?
+He speaks French fluently.	គាត់និយាយបារាំងញាប់ ។
+I don't understand at all.	ខ្ញុំ អត់យល់សោះ ។
+I heard something outside.	ខ្ញុំ​បាន​ឮ​សំឡេង​អ្វី​មួយ​នៅ​ខាង​ក្រៅ​។
+I usually get up at eight.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+I'm sure you're very busy.	ខ្ញុំប្រាកដថា អ្នករវល់ណាស់ ។
+Is it OK if I go in jeans?	តើ​វា​មិន​អី​ទេ​បើ​ខ្ញុំ​ទៅ​ដោយ​ស្លៀក​ខោ​កាប៊ូយ​?
+Tell me why you're crying.	ប្រាប់ខ្ញុំពីមូលហេតុដែលអ្នកយំ។
+The king abused his power.	ស្តេចលោភនឹងអំណាច​ ។
+The matter is all settled.	រឿងនេះត្រូវបានផ្សះផ្សារួចហើយ ។
+There's no perfect system.	មិនមានប្រព័ន្ធល្អឥតខ្ចោះទេ។
+This isn't drinking water.	នេះមិនមែនជាទឹកផឹកនោះទេ។
+Tom had Mary wash the car.	ថម ឱ្យ ម៉ារី លាង​ឡាន​។
+Tom put on his sunglasses.	ថម ពាក់​វ៉ែនតា​របស់​គាត់ ។
+Tom walked away from Mary.	ថមបានដើរចេញពីម៉ារី។
+We'll be back before dark.	យើងនឹងមកវិញមុនប្រលប់។
+Do you think I look strong?	តើអ្នកគិតថាខ្ញុំខ្លាំងឬទេ?
+He is very a dangerous man.	គាត់ជាបុរសដែលគួរឲ្យគ្រោះថ្នាក់ណាស់ ។
+He speaks Chinese fluently.	គាត់និយាយចិនញាប់ ។
+He speaks English fluently.	គាត់និយាយអង់គ្លេសញាប់ ។
+I think Tom killed himself.	ខ្ញុំគិតថា ថម សម្លាប់ខ្លួន ។
+It's late already. Go home.	ឥឡូវល្ងាចហើយ ទៅទះសិនចុះ ។
+It's neither fish nor meat.	វាមិនមែនជាសាច់ត្រីហើយក៏មិនមែនវាសាច់។
+Tom left before I got here.	ថមបានចាកចេញមុននឹងខ្ញុំមកដល់។
+Tom left before I got here.	ថមបានចេញទៅមុននឹងខ្ញុំមកដល់។
+What are you talking about?	តើអ្នកកំពុងនិយាយអំពីអ្វី ?
+What are you talking about?	និយាយរឿងអី ?
+He may be on the next train.	ប្រហែលជាគាត់ជិះរថភ្លើងជើងក្រោយ ។
+There's a full moon tonight.	យប់នេះមានព្រះច័ន្ទរះពេញណា ។
+They grind wheat into flour.	ពួកគេកិនស្រូវសាលីឲ្យទៅជាម្សៅ។
+Today we have a lot of food.	ថ្ងៃនេះយើង មានម្ហូបច្រើន។
+Tom wants to eat fried rice.	ថម ចង់ញ៉ាំបាយឆា ។
+What more could one ask for?	យើងត្រូវការអីទៀត ម៉េច ?
+What sport do you like best?	តើកីឡាអីដែលឯងចូលចិត្ត ?
+You can also do it this way.	អ្នកក៏អាចធ្វើវាតាមនេះដែរ។
+You can also do it this way.	ឯងក៏អាចធ្វើវាតាមនេះដែរ។
+Do you want something to eat?	ចង់ញ៉ាំអីអត់ ?
+Don't forget to bring it, OK?	កុំភ្លេចយកមកផងណា !
+I don't want you to kill Tom.	ខ្ញុំអត់ចង់ឱ្យអ្នកសម្លាប់ ថម ទេ ។​
+I'll tell you how to do that.	ខ្ញុំនឹងប្រាប់អ្នកពីរបៀបធ្វើវា។
+I'm very disappointed in you.	ខ្ញុំខកចិត្តអ្នកណាស់ ។
+That man is taller than Mary.	បុរសនោះខ្ពស់ជាងម៉ារី ។
+The king crushed his enemies.	ស្តេចផ្ចាញ់នឹងសត្រូវ ។
+The paper is under the table.	ក្រដាសនៅក្រោមតុ ។
+Tom said Mary hopes she wins.	ថមនិយាយថាម៉ារីសង្ឃឹមថានាងឈ្នះ។
+Tom told us not to swim here.	ថមបានប្រាប់យើងកុំឱ្យហែលទឹកនៅទីនេះ។
+Tom, what sports do you like?	ថម តើឯងស្រលាញ់កីឡាអី ?
+We import flour from America.	យើងនាំចូលម្សៅពីអាមេរិក។
+You can also do it like this.	អ្នកក៏អាចធ្វើវាដូច្នេះដែរ។
+You can also do it like this.	ឯងក៏អាចធ្វើវាដូច្នេះដែរ។
+"Thank you." "You're welcome."	«អរគុណ» «អត់អីអេ៎»
+Do you want to see my new car?	តើអ្នកចង់ឃើញឡានថ្មីរបស់ខ្ញុំដែរឬទេ?
+I don't have any money at all.	ខ្ញុំអត់មានលុយសោះ ។
+I don't know any martial arts.	ខ្ញុំ អត់ចេះក្បាច់គុនអីទេ ។
+Is it you who'll buy the food?	តើឯងជាអ្នកទិញម្ហូប ?
+Men believe what they want to.	មនុស្សប្រុសជឿជាក់លើអ្វីដែលគេចង់។
+She is married to an American.	នាង​បាន​រៀបការ​ជាមួយ​ជនជាតិ​អាមេរិក​។
+The king governed the country.	ស្តេច​បាន​គ្រប់គ្រង​ប្រទេស​។
+We all know that you're angry.	យើងទាំងអស់ដឹងហើយថា ឯងខឹង ។
+We've seen that happen before.	យើងបានឃើញវាកើតឡើងពីមុនរួចមកហើយ។
+Call me if you're able to come.	ទូរស័ព្ទមកខ្ញុំប្រសិនបើអ្នកអាចមកបាន។
+English is spoken in Singapore.	ភាសាអង់គ្លេស​ត្រូវ​បាន​និយាយ​នៅ​ប្រទេស​សិង្ហបុរី​។
+Everyone else is drinking beer.	អ្នកដទៃកំពុងផឹកស្រា។
+Everyone else is drinking beer.	អ្នកដទៃកំពុងពិសាស្រា។
+I didn't want to humiliate Tom.	ខ្ញុំ​មិន​ចង់​ធ្វើ​ឱ្យ ថម អាម៉ាស់​មុខ​ទេ​។
+I didn't want to humiliate Tom.	ខ្ញុំ​មិន​មាន​បំណង ធ្វើ​ឱ្យ ថម​អាម៉ាស់​មុខ​ទេ​។
+I'm almost sure that's correct.	ខ្ញុំស្ទើរតែប្រាកដថាវាត្រឹមត្រូវ។
+The children are already tired.	ក្មេង​ៗ ​គឺ​អស់​កំលាំង​ហើយ ​។
+Tom fell off of his motorcycle.	ថម ដួលម៉ូតូ ។
+Tom helped me pack my suitcase.	ថមបានជួយខ្ញុំរៀបវ៉ាលីរបស់ខ្ញុំ។
+We'll share our food with them.	យើងចែក ម្ហូបទៅពួកគេ ។
+Would you come with me, please?	ទៅ​ជា​មួយ​ខ្ញុំ​បាន​ទេ​?
+You have to go to the hospital.	អ្នក​ត្រូវ​ទៅ​មន្ទីរពេទ្យ​។
+Did she have any weapons on her?	តើនាងមានអាវុធលើនាងដែរឬទេ?
+Do you know who wrote this book?	តើ​អ្នក​ដឹង​ថា​នរណា​បាន​និពន្ធ​សៀភៅ​នេះ​?
+He can't answer their questions.	គាត់មិនអាចឆ្លើយសំណួររបស់ពួកគេ។
+My older brother has a mustache.	បងញុំមានពុកមាត់ ។
+The company employs 500 workers.	ក្រុមហ៊ុន​ជួល​បុគ្គលិក ៥០០ នាក់ ។
+The company employs 500 workers.	Kɑmhun cuul mnuh peam hɔɔy neak.
+The design is quite interesting.	ការរចនាឡើង គួរអោយចាប់អារម្មណ៍គួរសម ។
+They're preparing a meal for us.	ពួកគេរៀបចំបាយទឹកសំរាប់យើង ។
+Tom bought drinks for everybody.	ថមបានទិញទឹកក្រូចឲ្យគ្រប់គ្នា។
+Tom thought that was a bad idea.	ថម គិតថា នោះគឺជាគំនិតដ៏អាក្រក់ ។
+What's the point of fighting it?	តើឯងបានអ្វីពីការវៃគ្នា?
+What's the point of fighting it?	តើឯងបានអ្វីពីការឈ្លោះគ្នា?
+Yesterday my uncle bought a dog.	ម្សិលមិញ​ពូ​ខ្ញុំ​ទិញ​ឆ្កែ​។
+Am I holding the brush correctly?	តើខ្ញុំកាន់ជក់ត្រឹមត្រូវទេ?
+I love you more than you love me.	ខ្ញុំ​ស្រលាញ់​អ្នក​ខ្លាំង​ជាង​អ្នក​ស្រលាញ់​ខ្ញុំ​។
+I never do that unless I have to.	ខ្ញុំមិនដែលធ្វើវាទេ លុះត្រាតែខ្ញុំត្រូវធ្វើ។
+I thought we covered this before.	ខ្ញុំស្មានថាយើងនិយាយពីរឿងនេះពីមុនមកហើយ។
+The lake is about 25 meters deep.	បឹង​នេះ​មាន​ជំរៅ​ប្រហែល 25 ម៉ែត្រ​។
+This is a difficult math problem.	មួយ​នេះ​គឺជា​ចំណោត​នៃ​គណិតវិទ្យា​ដ៏​ពិបាក ។
+We just ate sushi and drank beer.	ពួកយើង​ទើបតែ​ញ៉ាំ​ស៊ូស៊ី និង​ផឹក​ស្រាបៀរ​។
+You may choose any book you like.	អ្នក​អាច​ជ្រើសរើស​សៀវភៅ​មួយ​ណា​ដែល​អ្នក​ចូលចិត្ត​បាន​។
+Do you want me to get rid of this?	តើ​អ្នក​ចង់​ឱ្យ​ខ្ញុំ​ហ្នឹង​បោះចោល​អ្វី​មួយ​នេះ​ឬ​?
+Don't worry about making mistakes.	កុំ​ព្រួយ​បារម្ភ​ពី​ការ​ធ្វេី​កំហុស​។
+I don't think that that's correct.	ខ្ញុំ​មិន​គិត​ថា​វា​ត្រឹម​ត្រូវ​ទេ។
+I usually get up at eight o'clock.	ជាធម្មតាខ្ញុំក្រោកពីគេងនៅម៉ោង ៨ ។
+Our class has forty-five students.	ថ្នាក់យើង មានសិស្ស សែសិបប្រាំនាក់ ។
+Tom has a lot of carry-on luggage.	ថមមានវ៉ាលីអូសច្រើន។
+I think it's somewhere around here.	ខ្ញុំ​គិត​ថា​វា​នៅ​កន្លែង​ណា​មួយ​ក្បែរ​ៗ​នេះ​។
+I'm spending tonight at a friend's.	យប់នឹងខ្ញុំនៅផ្ទះមិត្តភក្តិ។
+That child caused a lot of trouble.	កូន​គ្មេង​នោះ​បាន​បង្ករ​បញ្ហា​ច្រើន​។
+Tom arrived at the party with Mary.	ថម មក​ដល់​ពិធីជប់លៀង​ជាមួយ ម៉ារី​ ។
+Tom isn't worried about his grades.	ថម អត់បារម្ភរឿងចំណាត់ថ្នាក់គាត់ទេ។
+Tom isn't worried about his grades.	ថម អត់ខ្វល់អំពីចំណាត់ថ្នាក់គាត់ទេ។
+Would the two of you quit fighting?	តើអ្នកទាំងពីរឈប់វៃគ្នាបានទេ?
+Would the two of you quit fighting?	តើឯងពីរនាក់ឈប់វៃគ្នាបានអត់?
+I couldn't keep myself from yawning.	ខ្ញុំមិនអាចឈប់ខ្លួនឯងមិនឲ្យស្ងាបបាន។
+I didn't know there was a pond here.	ខ្ញុំមិនដឹងថានៅទីនេះមានបឹងសោះ។
+I thought I heard something outside.	ខ្ញុំ​បាន​គិត​ថា ខ្ញុំ​បាន​ឮ​សំឡេង​អ្វី​មួយ​នៅ​ខាង​ក្រៅ​។
+This food doesn't taste good at all.	ម្ហូបនេះ មិនឆ្ងាញ់សោះ ។
+We were certain of winning the game.	យើង​បាន​ប្រាកដ​ថា យើង​នឹង​ឈ្នះ​ល្បែង​នេះ​។
+You may bring whoever wants to come.	នរណាចង់ម៉ោ នាំម៉ោក៏បានដែរ ។
+Eat more, or you won't gain strength.	ញ៉ាំឱ្យច្រើន បើមិនអញ្ចឹង អ្នកអត់មានកំលាំងទេ ។
+I don't have anything to give to you.	ខ្ញុំគ្មានអ្វីឱ្យអ្នកទេ ។
+I don't know anything about his past.	ខ្ញុំអត់ដឹងអីទាំងអស់អំពីរឿងអតីតកាលរបស់គាត់ ។
+I don't know anything about his past.	ខ្ញុំអត់ដឹងអីផងអំពីអតីតកាលរបស់គាត់ ។
+She stood looking out toward the sea.	នាង​បាន​កំពុង​ឈរ​សំឡឹង​ទៅ​កាន់​សមុទ្រ​។
+Tom took a lot of pictures in Boston.	ថមបានថតរូបជាច្រើននៅបូស្តុន។
+When we made fun of her, she blushed.	នៅពេលដែលយើងបង្អាប់លេងដាក់នាង មុខនាងឡើងក្រហម ។
+I'm sorry I didn't come by last night.	សុំទោស​ដែល​អត់​បាន​មក​យប់​មិញ​។
+Tom ate the stew right out of the pot.	ថម ញុាំ​សម្ល​ក្នុង​ឆ្នាំង​!
+You're not supposed to eat on the job.	អ្នកមិនគួរញ៉ាំនៅពេលធ្វើការទេ ។
+Atoms cannot be seen with your own eye.	បរិមាណូមិនអាចមើលឃើញដោយភ្នែកទទេបានទេ ។
+He achieved his aim of studying abroad.	គាត់​បាន​សម្រេច​គោល​បំណង​ទៅ​សិក្សា​នៅ​បរទេស។
+I didn't think that you'd ever met Tom.	ខ្ញុំមិននឹកស្មានថាអ្នកធ្លាប់ជួបថមទេ។
+I hope that you're not catching a cold.	ខ្ញុំសង្ឃឹមថាឯងមិនឈឺ។
+I hope that you're not catching a cold.	ខ្ញុំសង្ឃឹមថាអ្នកមិនឈឺ។
+I hope that you're not catching a cold.	ខ្ញុំសង្ឃឹមថាអ្នកមិនឈឺចុះ។
+I hope that you're not catching a cold.	ខ្ញុំសង្ឃឹមថាឯងមិនឈឺចោះ។
+I'll enjoy showing you around the city.	ខ្ញុំនឹងមានភាពរីករាយក្នុងការណែនាំអ្នកជុំវិញទីក្រុង។
+She gave birth to a daughter yesterday.	ម្សិលមិញ នាង​បង្កើត​បាន​កូន​ស្រី​ម្នាក់ ។
+What is the difference between A and B?	តើ A និង B ខុសគ្នាយ៉ាងណា ?
+Do you always do everything you're told?	តើអ្នកធ្វើអ្វីដែលគេប្រាប់ឲ្យធ្វើរហូត?
+I can read German, but I can't speak it.	ខ្ញុំ​ចេះ​អាន​អាល្លឺម៉ង់ ប៉ុន្តែ​ខ្ញុំ​មិន​ចេះ​និយាយ​វា​ទេ ​។
+My credit card was stolen on the subway.	កាតឥណទាន​ខ្ញុំត្រូវបានគេលួចនៅរថភ្លើងក្រោមដី ។
+This book is easy enough for me to read.	សៀវភៅនេះ ត្រូវនឹងខ្ញុំស្រួលអាន ។
+You should always think before speaking.	ឯងត្រូវគិតសិនសុំនិយាយ។
+You should always think before speaking.	អ្នកត្រូវគិតសិនមុននឹងនិយាយ។
+Do you know the reason why Tom is crying?	តើអ្នកដឹងពីមូលហេតុដែលធ្វើឲ្យ Tom យំដែរឬទេ?
+Everyone knows that I'm Tom's girlfriend.	គេគ្រប់គ្នាដឹងថាខ្ញុំជាមិត្តស្រីរបស់ថម។
+The umbrella Tom was carrying wasn't his.	ឆ័តដែលថមបានកាន់មិនមែនជាឆ័តរបស់គាត់ទេ។
+Tom carried Mary's suitcases to her room.	ថមបានកាន់វ៉ាលីរបស់ម៉ារីចូលទៅក្នុងបន្ទប់របស់គាត់។
+Tom often forgets to use his turn signal.	ថម គាត់តែងតែភ្លេចភ្លើងសីញ៉ូ។
+You were really cute when you were a kid.	អ្នកពិតជាគួរឲ្យស្រលាញ់ណាស់ កាលនៅក្មេង។
+He was a very smart lawyer and politician.	គាត់​ជា​មេធាវី​ហើយ​អ្នកនយោបាយ​ឆ្លាត​ខ្លាំង​ណាស់​។
+Last night, we watched television together.	យប់មិញ មើលទូរទស្សន៍ជាមួយគា្ន ។
+Tom said Mary wanted to eat lunch with him.	ថមបាននិយាយថាម៉ារីចង់ញ៉ាំអាហារថ្ងៃត្រង់ជាមួយគាត់។
+Would you like to come inside for a minute?	តើអ្នកចង់ចូលក្នុងបន្តិចទេ?
+I didn't even know that you had a boyfriend.	ខ្ញុំ​​មិន​ដឹង​ថា​អ្នក​មាន​មិត្តប្រុសសោះ។
+I didn't know I needed to do that by myself.	ខ្ញុំមិនដឹងថាខ្ញុំត្រូវការធ្វើវាដោយខ្លួនឯងទេ។
+Newspapers lay scattered all over the floor.	កាសែតបានដាក់ដោយគ្មានសណ្តាប់ធ្នាប់ពាសពេញកំរាល ។
+I was told that you might be able to help me.	មាន​គេ​ប្រាប់​ខ្ញុំ​ថា អ្នក​អាច​ជួយ​ខ្ញុំ​បាន​។
+Tom told me he doesn't want to work with you.	ថម បាន​ប្រាប់​ខ្ញុំ​ថា គាត់​មិន​ចង់​ធ្វើការ​រួម​គ្នា​ជាមួយ​អ្នក​ទេ​!
+Don't let this codebook fall into enemy hands.	កុំឲ្យសៀវភៅកូដធ្លាក់ក្នុងដៃសត្រូវ។
+Don't let this codebook fall into enemy hands.	សូមកុំឲ្យសៀវភៅកូដធ្លាក់ក្នុងដៃសត្រូវ។
+I like to think I know what I'm talking about.	ខ្ញុំចង់គិតថា ខ្ញុំដឹងអ្វីដែល ខ្ញុំនិយាយ ។
+The young girl carrying a flute seemed annoyed.	ក្មេងស្រីដែលកំពុងកាន់ខ្លុយនោះហាក់ដូចជាត្រូវបានគេរំខាន។
+This cake contains flour, milk, eggs and sugar.	នំខេក​នេះ​មាន​ដាក់​ម្សៅ ទឹកដោះគោ ពងមាន់ និង ស្ករ​។
+I just thought you might want to go, that's all.	ខ្ញុំគ្រាន់តែគិតថាអ្នកចង់ទៅនោះទេ។
+The girl carrying a mandolin was very beautiful.	ម្នាក់ស្រីកំពុងកាន់ម៉ង់ដូលីននោះពិតជាស្រស់ស្អាតណាស់។
+The girl carrying a mandolin was very beautiful.	ម្នាក់ស្រីដែលកំពុងកាន់ម៉ង់ដូលីននោះពិតជាស្រស់ស្អាតណាស់។
+You still have a lot to learn about relationships.	អ្នក​ត្រូវការ​រៀន​ឲ្យ​ច្រើន​បន្ថែម​ទៀត​ស្តី​អំពី​សម្ព័ន្ធភាព​។
+Out of twenty students, only one has read the book.	ក្នុង​និស្សិត​ម្ភៃ​នាក់ តែ​ម្នាក់​បាន​អាន​សៀវភៅ​នោះ​។
+Do unto others as you would have others do unto you.	ចូរ​អ្នក​ធ្វើ​លើ​គេ ដូចដែល​អ្នក​ចង់​ឱ្យ​អ្នក​ដទៃ​ធ្វើ​មក​លើ​អ្នក​វិញ​ដូច្នេះ​ដែរ ។
+I know that Tom could do that by himself if he tried.	ខ្ញុំដឹងថាថមអាចធ្វើវាបានបើគាត់ព្យាយាម។
+The security guards escorted Tom out of the building.	សន្តិសុខបាននាំថមចេញពីអគារ។
+Tom has wanted to study French since he was thirteen.	Tom ចង់រៀនភាសាបារាំងតាំងពីគាត់នៅអាយុ១៣ឆ្នាំ។
+He is studying English, but he is also studying German.	គាត់រៀនភាសាអង់គ្លេស ប៉ុន្តែគាត់ក៏រៀនភាសាអាល្លឺម៉ង់ដែរ ។
+I didn't know that you wanted to do that by yourselves.	ខ្ញុំមិនដឹងថាអ្នកចង់ធ្វើវាដោយខ្លួនឯងទេ។
+Tom dropped to his knees and put his hands on his head.	Tom លុតជង្គង់ ហើយដាក់ដៃលើក្បាលរបស់គាត់។
+What's something that always puts a smile on your face?	អ្វី​ដែល​តែង​តែ​ធ្វើឲ្យអ្នកញញឹម?
+What have you done with my pen? It was here a minute ago.	តើ​អ្នក​មាន​យក​ប៊ិច​ខ្ញុំ​ទេ​? ព្រោះអី​ម៉ិញ​វា​នៅ​ទីនេះ​តើ​!
+What have you done with my pen? It was here a minute ago.	តើ​អ្នក​មាន​យក​ប៊ិច​ខ្ញុំ​ទេ​? ព្រោះអី​ម៉ិញ​វា​នៅ​ទីនេះ​តើ​។
+We've got to get up early tomorrow. We're going on a picnic.	យើងត្រូវក្រោកពីព្រលឹមនៅថ្ងៃស្អែក។ យើង​នឹងទៅ​ដើរ​លេង​កម្សាន្ត។
+Burj Khalifa is currently the tallest skyscraper in the world.	បច្ចុប្បន្ននេះ បឹច ខាលីហ្វា គឺជាអគារដែលខ្ពស់ជាងគេនៅលើពិភពលោក ។
+Do you remember the first time that we went swimming together?	តើអ្នកចាំពេលពួកយើងទៅហែលទឹកជាមួយគ្នាលើកដំបូងទេ?
+I thought I told you that you should get to the concert early.	ខ្ញុំគិតថា ខ្ញុំបានប្រាប់អ្នកហើយ គួរតែទៅកន្លែងប្រគំតន្ត្រីឲ្យបានឆាប់ ។
+I just want to be able to visit my children whenever I want to.	ខ្ញុំគ្រាន់តែចង់ទៅលេងកូនខ្ញុំតាមចិត្តខ្ញុំ ។
+We often took a walk along the seashore together in the morning.	យើងតែងតែដើរលេងតាមមាត់សមុទ្រជាមួយគ្នានៅពេលព្រឹក។
+He won't be able to escape from there without a miracle, will he?	គាត់​មិន​អាច​គេច​ពី​ទីនោះ​បាន​ទេ លុះត្រាតែ​មាន​អព្ភូតហេតុ មែន​ទេ​?
+In 1971 the United Kingdom changed its currency to the decimal system.	នៅឆ្នាំ ១៩៧១ ចក្រភពអង់គ្លេសបានផ្លាស់ប្តូររូបិយប័ណ្ណរបស់គេទៅក្នុងប្រព័ន្ធទសភាគ ។
+Mary is the only other girl who said she was interested in doing that.	Mary គឺជាក្មេងស្រីតែម្នាក់គត់ដែលនិយាយថានាងចាប់អារម្មណ៍នឹងការធ្វើដូច្នេះ។
+Tom told Mary she should probably not put so much stuff in her suitcase.	ថមបានប្រាប់ម៉ារីថានាងមិនគួរដាក់របស់ច្រើននៅក្នុងវ៉ាលីរបស់នាងទេ។
+I was supposed to go to Australia last week, but something came up and I couldn't.	ខ្ញុំត្រូវទៅប្រទេសអូស្ត្រាលីនៅអាទិត្យមុន​ ប៉ុន្តែខ្ញុំជាប់អ្វីបន្តិចមិនបានទៅ។
+I beg your pardon for troubling you, but you seem to be a mechanic, and that's just the sort of man I'm looking for.	ខ្ញុំសុំអភ័យទោសដែលខ្ញុំរំខានអ្នក ប៉ុន្តែអ្នកមើលទៅដូចជាអ្នកជាងម៉ាស៊ីន ហើយអ្នកជាបុរសដែលខ្ញុំកំពុងស្វែងរក។

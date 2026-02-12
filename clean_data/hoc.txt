@@ -1,0 +1,496 @@
+Duck!	Ungut́enn me!
+Duck!	Bohḱ naeć!
+Duck!	Ungut́enn pe!
+Help!	Mar á!
+Help!	Mar á dengań pe!
+Jump.	Ućenn.
+Stop!	Hokann me!
+Stop!	Hokann pe!
+Stop!	Hokaê me!
+Stop!	Hokaê pe!
+Hello!	𑢮𑣉𑣙𑣁𑣜!
+Hello.	𑢮𑣉𑣙𑣁𑣜.
+I see.	𑢡𑣍 𑣓𑣈𑣚𑣈𑣕𑣁𑣓𑣁𑣍.
+Thanks!	𑢷𑣂𑣕𑣂𑣈𑣖!
+Thanks.	𑢷𑣂𑣕𑣂𑣈𑣖.
+Go slow.	𑢾𑣃𑣁 𑣞𑣃𑣁 𑣕𑣈 𑣞𑣈𑣓𑣄 𑣗𑣈𑣓.
+See you!	𑢯𑣁𑣓𑣗 𑣕𑣈𑣗𑣃 𑣓𑣈𑣘𑣈𑣚𑣁!
+See you.	𑢯𑣁𑣓𑣗 𑣕𑣈𑣗𑣃 𑣓𑣈𑣘𑣈𑣚𑣁.
+Welcome.	𑢨𑣚𑣁.
+You run.	𑢡𑣖 𑣓𑣂𑣜𑣈𑣖𑣈.
+He spoke.	𑢦𑣓𑣂𑣄 𑣌𑣁𑣎𑣂𑣚𑣈𑣑𑣁.
+I gagged.	Ulaê lekań rika yana.
+It works.	𑢳𑣈𑣓𑣁 𑣘𑣁𑣈𑣒𑣂 𑣈𑣖𑣈 𑣕𑣁𑣓𑣁.
+Poor dog.	𑢼𑣈𑣊𑣋𑣈𑣄 𑣞𑣈𑣕𑣁.
+After you.	𑢡𑣗𑣈𑣓 𑣏𑣁𑣓𑣁𑣗.
+Dogs bark.	𑢾𑣈𑣕𑣁 𑣌𑣉 𑣗𑣃𑣗𑣃𑣄𑣅𑣈.
+Dogs bark.	Seta ko buḱea.
+He smiled.	𑢦𑣓𑣂𑣄 𑣚𑣁𑣓𑣔𑣁𑣌𑣈𑣑𑣁.
+I'm awake.	Evn akanań.
+Say hello.	𑢮𑣉𑣙𑣁𑣜 𑣌𑣁𑣎𑣂𑣘𑣈.
+See above.	𑢯𑣈𑣕𑣁𑣓 𑣓𑣈𑣚𑣈𑣘𑣈.
+You idiot!	𑢡𑣗𑣈𑣓 𑣗𑣉𑣌𑣁!
+Hello, Tom.	𑢮𑣉𑣙𑣁𑣜, 𑢲𑣉𑣖.
+I upgraded.	Upgrade ket́ań.
+No problem!	𑢮𑣁𑣓 𑣉𑣞𑣃𑣗𑣂𑣔𑣙𑣁 𑣗𑣁𑣓𑣉𑣄.
+Stay awake.	Evn akanoḱ me.
+Stay awake.	Evn akanoḱ pe.
+This works.	𑢳𑣈𑣅𑣁 𑣘𑣁𑣈𑣒𑣂.
+Tom cussed.	Tom mage ket́ać.
+We marched.	March ket́aliń.
+Am I losing?	Paḍuoḱ tanań chi?
+Am I racist?	Racist geań chi?
+He's my age.	𑢡𑣈 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Hello again.	𑢡𑣜𑣖𑣂𑣞𑣈 𑣎𑣉𑣙𑣁𑣜.
+I can count.	Leka daeań.
+I can shoot.	Tuń daeań.
+I can shoot.	Toḍe daeań.
+I sell land.	Oteń akarińa.
+I sell rice.	Chauliń aákarińa.
+Many thanks.	𑢦𑣞𑣃 𑣆𑣞𑣃 𑣗𑣂𑣕𑣂𑣈𑣖.
+Tom's awake.	Tom evn akanać.
+Work slowly.	𑢶𑣁𑣈 𑣖𑣁𑣈 𑣘𑣁𑣈𑣒𑣂 𑣘𑣈.
+Yes, I know.	𑢨𑣅𑣁, 𑢡𑣍 𑣁𑣔𑣁𑣓𑣁𑣍.
+Am I winning?	Daeoḱ tanań chi?
+Good morning.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄.
+Hello, girls.	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢶𑣁𑣆𑣌𑣉.
+I want money.	𑢡𑣍 𑣘𑣉𑣆𑣞𑣁𑣍 𑣓𑣁𑣖𑣕𑣁𑣓𑣁.
+I want vodka.	Vodka honaṅ.
+I'm your age.	𑢡𑣍 𑣁𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣍.
+Is Tom awake?	Tom evn akanać chi?
+See you soon!	𑢦𑣞𑣃 𑣁𑣀𑣍𑣁 𑣗𑣃 𑣓𑣈𑣘𑣈𑣚𑣁!
+See you soon!	𑢦𑣞𑣃 𑣁𑣍𑣎𑣁 𑣗𑣃 𑣓𑣘𑣁𑣖𑣁!
+Tom is awake.	Evn lenań.
+Unbelievable!	Kań sarioḱa!
+Welcome back.	𑢡𑣜 𑣖𑣂𑣞𑣈 𑣈𑣚𑣁𑣋𑣁.
+Am I eligible?	Eligible geań chi?
+Are you awake?	Evn akanam?
+Flowers bloom.	𑢸𑣃𑣒𑣁𑣇 𑣗𑣁𑣛𑣁.
+I want cheese.	Cheese honaṅ.
+It isn't gold.	Samaom do kaa.
+It isn't gold.	Ena Samaom do kaa.
+It's not gold.	𑢳𑣈𑣓𑣁 𑢾𑣉𑣓𑣁 𑣌𑣁𑣌𑣁𑣓𑣁.
+See you again.	𑢡𑣜𑣉𑣗𑣃 𑣓𑣈𑣘𑣈𑣚𑣁.
+They're awake.	Evn akanakô.
+Tom is my age.	𑢲𑣉𑣖 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+You're my age.	𑢡𑣖 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣖.
+Am I suspected?	Ań re tómon menaḱ chi?
+Hello, I'm Tom.	𑢮𑣉𑣙𑣁𑣋𑣈, 𑢡𑣍 𑣔𑣉 𑢲𑣉𑣖 𑣌𑣁𑣓𑣁𑣍.
+I sell magnets.	Magnet koń akarińa.
+I sell tickets.	Ticket koń akarińa.
+Read this book.	𑢳𑣈𑣓 𑣘𑣃𑣕𑣂 𑣘𑣁𑣛𑣁𑣉 𑣗𑣈𑣓.
+Tom freed Mary.	Tom Mary ć raa ket́ića.
+Tom has a Ford.	Tom taḱ Ford menaḱa.
+Tom said hello.	𑢲𑣉𑣖 𑣎𑣉𑣙𑣁𑣜𑣋𑣈 𑣌𑣁𑣎𑣂 𑣌𑣈𑣑𑣁.
+You're welcome.	𑢡𑣘𑣈𑣖𑣁𑣓𑣌𑣉 𑣈𑣚𑣁𑣋𑣁.
+Even Tom smiled.	Tom jaket́eć landa noḱ ket́a.
+He writes books.	𑢡𑣌𑣂𑣓 𑣘𑣃𑣕𑣂 𑣌𑣉𑣌𑣂𑣓 𑣉𑣚𑣁.
+Her father died.	𑢡𑣌𑣂𑣓𑣁𑣄 𑣁𑣘𑣃 𑣋𑣉𑣈𑣄 𑣅𑣁𑣓𑣁.
+I like potatoes.	𑢡𑣍 𑣁𑣚𑣃𑣍 𑣞𑣃𑣌𑣃𑣅𑣁.
+I love potatoes.	𑢡𑣍 𑣁𑣚𑣃𑣍 𑣞𑣃𑣌𑣃𑣁𑣄.
+Is someone here?	Jahća nentaḱ?
+Is someone here?	Nentaḱ jahća?
+It was ages ago.	𑢳𑣈𑣓𑣁 𑣖𑣃𑣓𑣃𑣈 𑣁𑣅𑣁𑣜𑣕𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁.
+My father walks.	𑢡𑣘𑣃𑣍 𑣞𑣈𑣓𑣈𑣅𑣁𑣄.
+Nice seeing you!	𑢡𑣗𑣈𑣓 𑣓𑣈𑣚 𑣌𑣁𑣕𑣈 𑣗𑣃𑣋𑣂𑣚𑣈 𑣁𑣔𑣁𑣌𑣈𑣑𑣁!
+What is his age?	𑢡𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣏𑣂𑣖𑣂𑣓?
+What's his name?	Aćaḱ Nutum chenaḱa?
+What's his name?	Nutum tać chenaḱa?
+What's your age?	𑢡𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣏𑣂𑣖𑣂𑣓?
+Cut the potatoes.	𑢡𑣚𑣃 𑣌𑣉 𑣋𑣈𑣑𑣚𑣈𑣖.
+I sell umbrellas.	𑢡𑣍 𑢯𑣁𑣕𑣉𑣖 𑣁𑣌𑣜𑣂𑣊𑣈 𑣕𑣁𑣓𑣁.
+I sell umbrellas.	Chatom koń aákarińa.
+I want a bicycle.	Ań miat́ Bicycle honaṅ.
+I'm against this.	Nena darom reń tingu akana.
+I'm all worn out.	Laga chaba akanań.
+Is Tom your name?	Tom do amaḱ Nutum chi?
+May I smoke here?	Nentaḱ reń moḱsiṕ redo?
+My father smokes.	𑢡𑣘𑣃𑣍 𑣞𑣂𑣋𑣁𑣜𑣈𑣒 𑣞𑣈𑣗𑣈𑣄.
+Tom stayed awake.	Tom evn akan geć tae kena.
+Tom wasn't crazy.	Tom kać baya lena.
+Good morning, Mom.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑢶𑣁𑣁.
+Good morning, Tom!	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑢲𑣉𑣖!
+Good morning, Tom.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑢲𑣉𑣖.
+He is just my age.	𑢡𑣈𑣅𑣉 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+I am the same age.	𑢡𑣍𑣉 𑣈𑣓𑣁 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣍.
+I owe Tom nothing.	Tom taḱ kań rii akana.
+Pass the potatoes.	𑢡𑣚𑣃 𑣓𑣈𑣘𑣁 𑣈𑣖𑣁𑣍𑣖𑣈.
+Peel the potatoes.	𑢡𑣚𑣃 𑣇𑣜𑣂𑣘𑣈.
+That was ages ago.	𑢨𑣓𑣁 𑣆𑣞𑣃 𑣎𑣃𑣋 𑣁𑣅𑣁𑣜 𑣜𑣈 𑣕𑣁𑣆𑣌𑣈𑣓𑣁.
+Tom is Mary's age.	𑢲𑣉𑣖 𑣔𑣉 𑢶𑣈𑣜𑣂 𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆.
+What is your name?	Amaḱ Nutum do?
+Do you like ginger?	𑢡𑣘𑣈 𑣁𑣔𑣁𑣘𑣈 𑣞𑣃𑣌𑣃𑣁𑣄 𑣏𑣂?
+Do you like ginger?	Ada m sukutea?
+Do you like ginger?	Ada m sukutea chi?
+Good morning, Mama.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑢶𑣁𑣁.
+He is about my age.	𑢡𑣈 𑣎𑣘𑣁𑣄 𑣎𑣘𑣁𑣄 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Hello, how are you?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑣁𑣖 𑣏𑣂𑣚𑣌𑣈 𑣖𑣈𑣓𑣁𑣄 𑣖𑣈𑣅𑣁?
+I always work hard.	Ań jaoge Paeṭi reń lagatiṅ len gea.
+I'm about your age.	𑢡𑣍 𑣎𑣉𑣌𑣁 𑣁𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣍.
+I'm twice your age.	𑢡𑣍 𑣁𑣖𑣈𑣕𑣈 𑣗𑣁𑣜𑣞𑣂𑣜𑣖𑣈𑣍 𑣖𑣜𑣀𑣁.
+Potatoes are cheap.	𑢡𑣚𑣃 𑣞𑣁𑣞𑣕𑣁 𑣋𑣈𑣅𑣁.
+That's Tom's horse.	Enić Tom aḱ Sadom.
+Tom is just my age.	𑢲𑣉𑣖 𑣓𑣁𑣄 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Tom likes potatoes.	𑢲𑣉𑣖 𑣁𑣚𑣃 𑣆𑣞𑣃 𑣞𑣃𑣌𑣃𑣁𑣄.
+Tom loves potatoes.	𑢲𑣉𑣖 𑣁𑣚𑣃 𑣆𑣞𑣃 𑣞𑣃𑣌𑣃𑣁𑣄.
+Want some potatoes?	𑢮𑣉𑣌𑣁𑣓𑣉𑣄 𑣁𑣚𑣃 𑣔𑣉𑣜𑣌𑣁𑣜 𑣏𑣂?
+We're the same age.	𑢡𑣗𑣃 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣗𑣃.
+Boil those potatoes.	𑢨𑣓𑣁 𑣁𑣚𑣃𑣌𑣉 𑣗𑣁𑣘𑣙𑣁𑣈𑣖.
+Can you tell me why?	Chenaḱmenteaḱm kaji daeańa?
+Everyone is welcome.	𑢾𑣁𑣗𑣈𑣓 𑣌𑣈 𑣈𑣚𑣁𑣋𑣁.
+Go say hello to Tom.	𑢾𑣈𑣓𑣌𑣁𑣕𑣈 𑢲𑣉𑣖 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣆𑣖𑣈.
+I hate this village.	𑢡𑣍 𑣓𑣈𑣓 𑣙𑣁𑣕𑣃 𑣌𑣁𑣍 𑣞𑣃𑣌𑣃𑣁𑣄.
+I said good morning.	𑢡𑣍 𑣌𑣁𑣎𑣂𑣌𑣈𑣑𑣁 𑣞𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄.
+I want a gold cross.	𑢡𑣍 𑣖𑣂𑣈𑣑 𑣞𑣉𑣓𑣁 𑣌𑣉𑣜𑣞 𑣔𑣉𑣜𑣌𑣁𑣜𑣈 𑣕𑣁𑣓𑣁𑣍.
+I'm about Tom's age.	𑢡𑣍 𑣎𑣉𑣌𑣁 𑢲𑣉𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣍.
+I'm twice Tom's age.	𑢡𑣍 𑢲𑣉𑣖𑣈𑣕𑣈 𑣗𑣁𑣜 𑣞𑣂𑣜𑣖𑣈𑣍 𑣖𑣜𑣀𑣁.
+Peel these potatoes.	𑢳𑣈𑣓𑣁 𑣁𑣚𑣃 𑣌𑣉 𑣇𑣜𑣂𑣕𑣁𑣄𑣘𑣈.
+She is about my age.	𑢡𑣈 𑣎𑣘𑣁𑣄 𑣎𑣘𑣁𑣄 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣄.
+Tom is about my age.	𑢲𑣉𑣖 𑣎𑣘𑣁𑣄 𑣎𑣘𑣁𑣄 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Tom is really tired.	Tom sariteć laga akana.
+Tom is twice my age.	𑢲𑣉𑣖 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜𑣈𑣕𑣈 𑣗𑣁𑣜𑣞𑣂𑣜𑣖𑣈 𑣖𑣜𑣀𑣁.
+Umbrellas sell well.	𑢯𑣁𑣕𑣉𑣖 𑣗𑣃𑣋𑣂 𑣁𑣌𑣙𑣜𑣂𑣊𑣉𑣁𑣄.
+Umbrellas sell well.	Chatom ko bugi akarińoḱa.
+Can you guess my age?	𑢯𑣈𑣓𑣁𑣄 𑣁𑣖 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜𑣈𑣖 𑣁𑣒𑣌𑣁𑣜 𑣔𑣁𑣆𑣅𑣁𑣁𑣖 𑣏𑣂?
+Did you let Tom rest?	Tom dom jirao iri ket́ića?
+Good morning, ladies.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑣈𑣜𑣁𑣌𑣉.
+Good morning, people!	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑣙𑣉𑣉𑣌𑣉
+He is about your age.	𑢡𑣈 𑣎𑣉𑣌𑣁 𑣁𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+I have less than you.	Am aete huḍiń menaḱa ań taḱ re.
+I'm never not hungry.	Jahìmita ó Rengeć banoḱ gedo baṅińa.
+It tastes very sweet.	Esu nogot́ ge jomoḱa.
+They're the same age.	𑢡𑣌𑣂𑣓 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣌𑣂𑣓.
+Tom is around my age.	𑢲𑣉𑣖 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣎𑣘𑣁𑣄 𑣜𑣂𑣓𑣂𑣆.
+Tom ordered potatoes.	𑢲𑣉𑣖 𑣁𑣚𑣃 𑣖𑣁𑣋𑣁𑣉 𑣌𑣁𑣑𑣁𑣄.
+Tom said hello to me.	𑢲𑣉𑣖 𑣁𑣍𑣈 𑣎𑣉𑣙𑣁𑣜𑣁 𑣑𑣂𑣍𑣈𑣄.
+We're about your age.	𑢡𑣌𑣂𑣓 𑣁𑣘𑣈𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣎𑣘𑣁𑣄 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣌𑣂𑣓.
+You are about my age.	𑢡𑣖 𑣘𑣃𑣜𑣁 𑣁𑣍𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣖.
+You can't retire yet.	Kam retire daea auri.
+Can you guess her age?	𑢡𑣖 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈𑣖 𑣇𑣔𑣃𑣗 𑣔𑣁𑣆𑣅𑣁 𑣏𑣂?
+He lives in a village.	𑢡𑣈 𑣖𑣂𑣈𑣑 𑣙𑣁𑣕𑣃𑣜𑣈 𑣕𑣆𑣓𑣁.
+Hello, how's business?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢬𑣁𑣜𑣗𑣁𑣜𑣌𑣉 𑣏𑣂𑣚𑣌𑣁 𑣏𑣁𑣚𑣃𑣁 𑣌𑣁𑣓𑣁?
+Hello, my name is Tom.	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢡𑣍𑣄 𑣓𑣃𑣕𑣃𑣖 𑣔𑣉 𑢲𑣉𑣖 𑣌𑣁𑣓𑣁.
+I have a son your age.	𑢡𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣁𑣍𑣁𑣄 𑣖𑣂𑣈𑣑 𑣌𑣉𑣁𑣙𑣉𑣓 𑣖𑣂𑣓𑣈𑣆𑣈.
+I used to be your age.	𑢡𑣍 𑣁𑣘𑣈𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓𑣈𑣍 𑣕𑣁𑣆𑣌𑣈𑣓𑣁.
+She did it on purpose.	Adaan aeteć enka ket́a.
+She is about your age.	𑢡𑣈 𑣁𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣎𑣘𑣁𑣄 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+She is aged seventeen.	𑢡𑣈 𑣋𑣈𑣚-𑣁𑣆𑣅𑣁 𑣞𑣂𑣜𑣖𑣁𑣄 𑣙𑣉𑣗𑣁𑣉 𑣕𑣁𑣓𑣁𑣄.
+She's still under age.	𑢡𑣈 𑣓𑣁𑣄𑣉 𑣌𑣉𑣖 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆.
+Tell Tom I said hello.	𑢲𑣉𑣖 𑣇𑣔𑣃𑣗𑣁𑣆𑣘𑣈 𑢡𑣍 𑣎𑣉𑣙𑣁𑣜𑣈𑣍 𑣌𑣁𑣎𑣂 𑣕𑣁𑣓𑣁.
+That's a nice village.	𑢨𑣓𑣁 𑣖𑣂𑣈𑣑 𑣗𑣁𑣐𑣂𑣈 𑣙𑣁𑣕𑣃 𑣌𑣁𑣓𑣁.
+That's a nice village.	Esu bugi lekan Hatu ena.
+That's a nice village.	Ena esu bugi lekan Hatu.
+They are the same age.	𑢹𑣁𑣓𑣌𑣃 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓𑣌𑣉.
+Tom is about your age.	𑢲𑣉𑣖 𑣎𑣉𑣌𑣁 𑣁𑣖𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Tom is in the village.	𑢲𑣉𑣖 𑣙𑣁𑣕𑣃𑣜𑣈 𑣖𑣂𑣓𑣈𑣆𑣈.
+Tom told Mary his age.	𑢲𑣉𑣖 𑢶𑣈𑣜𑣂𑣌𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈 𑣇𑣔𑣃𑣗𑣁𑣎𑣁𑣄.
+Who's on duty tonight?	Tisiṅg Nida okoć Duty reića?
+With age comes wisdom.	𑢧𑣖𑣈𑣜 𑣚𑣉𑣄 𑣕𑣈 𑣋𑣂𑣅𑣁𑣓𑣉 𑣗𑣁𑣑𑣙𑣁𑣉𑣁𑣄.
+Do you like ginger ale?	𑢯𑣈𑣓𑣁𑣄 𑣁𑣘𑣈 𑣁𑣔𑣁 𑣓𑣃𑣇 𑣞𑣃𑣌𑣃𑣁𑣄𑣘𑣈 𑣏𑣂?
+Good morning, everyone.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑣞𑣁𑣗𑣈𑣓 𑣙𑣉𑣉 𑣌𑣉.
+He has a heart of gold.	𑢡𑣈𑣕𑣁𑣄𑣜𑣈 𑣞𑣉𑣓𑣁𑣜𑣈𑣅𑣁𑣄 𑣔𑣂𑣚 𑣖𑣈𑣓𑣁𑣄.
+He is from our village.	𑢡𑣈 𑣁𑣚𑣈𑣅𑣁𑣄 𑣙𑣁𑣕𑣃 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+He is from our village.	Ać do ale Hatu renić.
+He is from our village.	Ać do abu Hatu renić.
+Our luggage was stolen.	Ale Luggage kumbuu yana.
+That's easy to explain.	Ena do lavar te explain daeoḱa.
+They brought umbrellas.	𑢹𑣁𑣓𑣌𑣃 𑢯𑣁𑣕𑣉𑣖 𑣌𑣉 𑣁𑣋𑣃𑣌𑣈𑣑𑣁.
+They brought umbrellas.	Chatom kokô agu ket́a.
+This is a common error.	Nena do jaoren Erka ge.
+Tom is still under age.	𑢲𑣉𑣖 𑣓𑣁𑣄𑣉 𑣙𑣃𑣛𑣂𑣍 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Tom isn't a big talker.	Tom imin do kać jagar baaà.
+Tom said hello to Mary.	𑢲𑣉𑣖 𑢶𑣈𑣜𑣂 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜 𑣌𑣁𑣎𑣂 𑣌𑣂𑣅𑣈𑣄.
+We aren't the same age.	𑢡𑣚𑣈 𑣞𑣉𑣖𑣁𑣓 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁 𑣌𑣁𑣓𑣁𑣚𑣈.
+Where are we right now?	Nahḱ do okontaḱ rebua?
+Bacteria are everywhere.	Bacteria do sabentaḱ menaḱkôa.
+Bacteria are everywhere.	Bacteria do goṭamuli menaḱkôa.
+Good morning, everybody.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑣞𑣁𑣗𑣈𑣓 𑣌𑣉.
+Good morning, gentlemen.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑣓𑣃𑣕𑣃𑣓𑣁𑣖 𑣙𑣉
+He doesn't look his age.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣌𑣁𑣄 𑣓𑣈𑣚𑣈 𑣕𑣁𑣓𑣁.
+Hello, is anybody there?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑣈𑣓𑣑𑣈 𑣉𑣌𑣉𑣈 𑣖𑣈𑣓𑣁𑣄 𑣌𑣉𑣁 𑣏𑣂?
+Is that difficult to do?	Ena difficult gea chi?
+Is that difficult to do?	Ena do hambal Paeṭi chi?
+Just buy Tom some candy.	Tom joka Candy kiriń noḱać me.
+Say hello to Tom for me.	𑢡𑣍 𑣚𑣁𑣋𑣂𑣑 𑢲𑣉𑣖 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣆𑣘𑣈.
+That man looks like Tom.	En hoo Tom lekać neloḱa.
+The cup is made of gold.	𑢳𑣈𑣓𑣁 𑣌𑣉𑣘 𑣞𑣉𑣓𑣁 𑣜𑣈 𑣗𑣁𑣆𑣅𑣁 𑣌𑣁𑣓𑣁.
+The village was flooded.	𑢹𑣁𑣕𑣃𑣜𑣈 𑣗𑣁𑣁𑣓𑣈 𑣅𑣁𑣓𑣁.
+Tom is about Mary's age.	𑢲𑣉𑣖 𑣎𑣉𑣌𑣁 𑢶𑣈𑣜𑣂 𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Tom solved that problem.	Tom en Problem eć solve ket́a.
+We haven't met for ages.	𑢡𑣚𑣈 𑣆𑣞𑣃 𑣎𑣃𑣋𑣈𑣕𑣈 𑣌𑣁𑣚𑣈 𑣓𑣘𑣁𑣖𑣁 𑣌𑣁𑣓𑣁.
+We're both the same age.	𑢡𑣚𑣂𑣍 𑣗𑣁𑣜𑣉 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣚𑣂𑣍.
+When did he come of age?	𑢡𑣈 𑣏𑣃𑣆𑣚𑣈𑣄 𑣗𑣃𑣛𑣈 𑣅𑣁𑣓𑣁𑣄?
+Who's taller, you or me?	Okoć láḱ salangia, am chi ań?
+Can you taste the ginger?	𑢡𑣘𑣈 𑣁𑣔𑣁 𑣜𑣈𑣅𑣁𑣄 𑣞𑣃𑣁𑣔𑣘𑣈 𑣁𑣔𑣁𑣓𑣁 𑣏𑣂?
+Don't let Tom use my car.	Tom ańaḱ Car alam har irieća.
+Gold's heavier than iron.	𑢾𑣉𑣓𑣁 𑣖𑣈𑣀𑣐𑣈𑣑𑣈 𑣕𑣈𑣉 𑣉𑣎𑣉𑣓𑣁.
+Gold's heavier than iron.	Samaom do Meeht́ aete hambala.
+Gold's heavier than iron.	Samaom do Meeht́ aete ó hambala.
+Good morning, sweetheart.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄, 𑣎𑣂𑣗𑣉𑣓 𑣎𑣃𑣛𑣂.
+He died at the age of 70.	𑢡𑣘𑣈𑣄𑣙𑣂𑣞𑣂 𑣋𑣈𑣚𑣈𑣅𑣁 𑣞𑣂𑣜𑣖𑣈 𑣇𑣖𑣈𑣜 𑣜𑣈 𑣁𑣈 𑣋𑣉𑣓𑣉𑣄 𑣅𑣁𑣓𑣁𑣄.
+He looks old for his age.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈 𑣕𑣈𑣅𑣉 𑣗𑣃𑣛𑣈 𑣓𑣈𑣚𑣉𑣄 𑣕𑣁𑣓𑣁.
+He was alone in the room.	Room re eskarć taekena.
+Hello, Tom. Good morning.	𑢾𑣁𑣋𑣃𑣓 𑣞𑣈𑣕𑣁𑣄 𑣜𑣈𑣅𑣁𑣄. 𑣎𑣉𑣙𑣁𑣜𑣋𑣈, 𑢲𑣉𑣖.
+Hello, Tom. Good morning.	𑢮𑣃𑣙𑣁𑣜, 𑢲𑣉𑣖.𑢾𑣁𑣋𑣃𑣓 𑣞𑣂𑣕𑣁𑣄.
+Hello, everyone, I'm Tom.	𑢾𑣁𑣗𑣈𑣓 𑣌𑣉𑣋𑣈, 𑢮𑣉𑣙𑣁𑣜, 𑢡𑢭 𑢲𑣉𑣖 𑣌𑣁𑣓𑣁𑣍.
+Hello, how are you doing?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢡𑣖 𑣏𑣂𑣚𑣌𑣈𑣈 𑣕𑣁𑣓𑣁𑣖?
+I just want to say hello.	𑢡𑣍 𑣞𑣁𑣖𑣁 𑣎𑣉𑣙𑣁𑣜 𑣞𑣃𑣌𑣃 𑣚𑣂𑣑𑣂𑣍𑣁.
+People lived in villages.	𑢹𑣉𑣉𑣌𑣉 𑣙𑣁𑣕𑣃𑣜𑣈 𑣌𑣉 𑣕𑣆𑣓𑣁.
+She lives in the village.	𑢡𑣈 𑣙𑣁𑣕𑣃𑣜𑣈𑣄 𑣕𑣆𑣓𑣁.
+Tom died at an early age.	𑢲𑣉𑣖 𑣙𑣃𑣛𑣂𑣍 𑣇𑣖𑣈𑣜 𑣜𑣈𑣋𑣈 𑣋𑣉𑣓𑣉𑣄 𑣅𑣁𑣓𑣁𑣄.
+Tom is around Mary's age.	𑢲𑣉𑣖 𑢶𑣈𑣜𑣂𑣈𑣄 𑣇𑣖𑣈𑣜 𑣎𑣘𑣁𑣄 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+We're about the same age.	𑢡𑣚𑣁𑣀 𑣎𑣉𑣌𑣁 𑣞𑣉𑣖𑣁𑣓 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣚𑣁𑣀.
+You don't have to eat it.	Ena kam jomê reó.
+Your son has come of age.	𑢡𑣖𑣁𑣄 𑣙𑣉𑣓𑣖𑣈𑣞𑣈𑣑 𑣗𑣃𑣛𑣈 𑣅𑣁𑣓 𑣋𑣈𑣅𑣁𑣄.
+Gold is heavier than iron.	𑢾𑣉𑣓𑣁 𑣖𑣈𑣀𑣐𑣈𑣑𑣈 𑣕𑣈𑣉 𑣘𑣃𑣜𑣁𑣄 𑣉𑣎𑣉𑣓 𑣋𑣈𑣅𑣁.
+He keeps his age a secret.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈𑣄 𑣇𑣌𑣃 𑣅𑣁𑣄.
+He looks good for his age.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣚𑣁𑣋𑣂𑣑 𑣗𑣃𑣋𑣂𑣓𑣈𑣄 𑣓𑣈𑣚𑣉𑣁.
+How often do you buy eggs?	Chimin chimin re Jarom dom kiírińa?
+I didn't mean to wake you.	Evn ichim teaḱ do kań sanaṅ kena.
+I don't want to say hello.	𑢡𑣍 𑣎𑣉𑣙𑣁𑣜 𑣌𑣁 𑣞𑣃𑣌𑣃𑣍 𑣕𑣁𑣓𑣁.
+I live in a small village.	𑢡𑣍 𑣖𑣂𑣈𑣑 𑣙𑣃𑣛𑣂𑣍 𑣙𑣁𑣕𑣃𑣜𑣈𑣍 𑣕𑣆𑣓𑣁.
+I was told not to do that.	'Ena alamà' kô metat́ińa.
+I'm waiting for my mother.	Engańeń tangi tana.
+It seemed like ages to me.	𑢳𑣈𑣓𑣁 𑣁𑣍 𑣚𑣁𑣋𑣂𑣑 𑣆𑣞𑣃 𑣎𑣃𑣋 𑣚𑣈𑣌𑣁𑣍 𑣁𑣔𑣁𑣈 𑣕𑣁𑣆𑣌𑣈𑣓𑣁.
+It's a quaint old village.	𑢳𑣑𑣓𑣁 𑣖𑣂𑣈𑣑 𑣖𑣁𑣜𑣈 𑣙𑣁𑣕𑣃 𑣌𑣁𑣓𑣁.
+Tom has committed suicide.	Tom doć goćenn eana.
+Tom has committed suicide.	Goćenn eanać Tom.
+Tom looks old for his age.	𑢲𑣉𑣖 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈 𑣕𑣈𑣅𑣉 𑣗𑣃𑣛𑣈 𑣓𑣈𑣚𑣉𑣁𑣄.
+We live in the atomic age.	𑢡𑣗𑣃 𑣘𑣉𑣜𑣖𑣁𑣐𑣃 𑣎𑣃𑣋 𑣜𑣈𑣗𑣃 𑣕𑣁𑣆𑣓 𑣕𑣁𑣓𑣁.
+We surrounded the village.	𑢡𑣚𑣈 𑣙𑣁𑣕𑣂𑣚𑣈 𑣈𑣞𑣈𑣑 𑣌𑣈𑣑𑣁.
+We surrounded the village.	Hatule eset́ biur ket́a.
+All the villagers know him.	𑢾𑣁𑣗𑣈𑣓 𑣙𑣁𑣕𑣃𑣜𑣈𑣓𑣌𑣉 𑣁𑣈𑣌𑣉 𑣇𑣜𑣃𑣖 𑣕𑣁𑣎𑣁.
+All the villagers know him.	Hatu ren ko sabenkô urum tat́ića.
+All the villagers know him.	Hatu ren saben ko chirgal tat́ića.
+Everyone, say hello to Tom.	𑢾𑣁𑣗𑣈𑣓 𑣌𑣉𑣋𑣈, 𑢲𑣉𑣖 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜 𑣌𑣁𑣎𑣂𑣅𑣁𑣆 𑣘𑣈.
+Gold weighs more than iron.	𑢾𑣉𑣓𑣁 𑣜𑣈𑣅𑣄 𑣉𑣎𑣉𑣓 𑣖𑣈𑣀𑣐𑣈𑣑𑣈 𑣕𑣈 𑣘𑣃𑣜𑣁𑣄 𑣕𑣁𑣅𑣃𑣁.
+Has Tom stayed here before?	Tom ayar ko nentaḱ reć tae akana chi?
+He looks young for his age.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈𑣕𑣈𑣅𑣉 𑣞𑣈𑣘𑣈𑣑𑣈𑣄 𑣓𑣈𑣚𑣉𑣄 𑣕𑣁𑣓𑣁.
+He said hello to the woman.	𑢡𑣈 𑣌𑣃𑣆𑣙𑣉𑣓 𑣌𑣉 𑣎𑣉𑣙𑣁𑣜𑣁𑣑 𑣌𑣉𑣁𑣄.
+Hello? Are you still there?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢡𑣘𑣈 𑣓𑣁𑣄𑣉 𑣈𑣓𑣑𑣈 𑣖𑣈𑣓𑣁𑣄 𑣘𑣈𑣅𑣁 𑣏𑣂?
+I hate the taste of ginger.	𑢡𑣍 𑣁𑣔𑣁 𑣜𑣈𑣅𑣁𑣄 𑣞𑣃𑣁𑣔 𑣌𑣁𑣍 𑣞𑣃𑣌𑣃𑣁𑣄.
+I haven't seen you in ages.	𑢡𑣍 𑣁𑣖𑣌𑣈 𑣆𑣞𑣃 𑣎𑣃𑣋𑣈𑣕𑣈 𑣌𑣁𑣍 𑣓𑣈𑣚𑣁𑣑 𑣖𑣈𑣅𑣁.
+I just wanted to say hello.	𑢡𑢭 𑣞𑣁𑣖𑣁 𑣎𑣉𑣙𑣁𑣜 𑣞𑣃𑣌𑣃𑣍 𑣕𑣁𑣓𑣁.
+She and I are the same age.	𑢡𑣈 𑣁𑣜 𑢡𑣍 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓.
+She is lying about her age.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣗𑣂𑣝𑣉𑣈𑣜𑣈 𑣏𑣌𑣁𑣑𑣈𑣈 𑣌𑣁𑣎𑣂 𑣕𑣁𑣓𑣁.
+She keeps her age a secret.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜 𑣌𑣉 𑣇𑣌𑣃 𑣎𑣉𑣋𑣁𑣉 𑣅𑣁𑣄.
+That doesn't really matter.	Enado sari te jahn Kaji ge káa.
+That soil is rich in humus.	𑢨𑣓𑣁 𑣙𑣁𑣞𑣁 𑣔𑣉 𑣌𑣙𑣉𑣕𑣉 𑣞𑣁𑣌𑣁𑣖𑣕𑣈 𑣘𑣈𑣜𑣈𑣄𑣁 𑣌𑣁𑣓𑣁.
+This soil is rich in humus.	𑢳𑣈𑣓𑣁 𑣙𑣁𑣞𑣁 𑣔𑣉 𑣌𑣙𑣉𑣕𑣉 𑣞𑣁𑣌𑣁𑣖𑣕𑣈 𑣘𑣈𑣜𑣈𑣄𑣁 𑣌𑣁𑣓𑣁.
+You and I are the same age.	𑢡𑣖 𑣁𑣜 𑣁𑣍 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣚𑣁𑣀.
+You worked more than I did.	Ań aete láḱm paeṭi ket́a.
+Bacteria are microorganisms.	Bacteria do Manjivt́ ko.
+He had to leave the village.	𑢡𑣈 𑣙𑣁𑣕𑣃 𑣗𑣁𑣋𑣈 𑣘𑣁𑣛𑣁𑣉 𑣌𑣂𑣈.
+He retired at the age of 65.	𑢡𑣈 𑣁𑣘𑣈𑣄𑣙𑣂𑣞𑣂 𑣖𑣉𑣐𑣈𑣅𑣁 𑣞𑣂𑣜𑣖𑣈 𑣇𑣖𑣈𑣜 𑣜𑣈 𑣏𑣁𑣌𑣜𑣂𑣆 𑣕𑣈 𑣔𑣃𑣗𑣈𑣅𑣁𑣓𑣁 𑣌𑣂𑣓.
+Hello, who am I speaking to?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢡𑣍 𑣉𑣌𑣉𑣈 𑣚𑣉𑣄𑢭 𑣎𑣁𑣋𑣁𑣜 𑣕𑣁𑣓𑣁?
+I haven't seen her for ages.	𑢡𑣍 𑣆𑣞𑣃 𑣎𑣃𑣋𑣈𑣕𑣈 𑣁𑣌𑣂𑣓 𑣌𑣁𑣚𑣂𑣍 𑣓𑣈𑣚 𑣕𑣁𑣎𑣁.
+I haven't seen you for ages.	𑢡𑣍 𑣁𑣖𑣌𑣈 𑣆𑣞𑣃 𑣎𑣃𑣋𑣈𑣕𑣈 𑣌𑣁𑣍 𑣓𑣈𑣚𑣁 𑣌𑣁𑣑𑣖𑣈𑣅𑣁.
+Is your blood pressure high?	Mayom Pressure tamm high gea chi?
+My house is in this village.	𑢡𑣍𑣁𑣄 𑣉𑣁𑣄 𑣙𑣁𑣕𑣃𑣜𑣈 𑣖𑣈𑣓𑣁𑣄𑣁.
+She looks young for her age.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈𑣕𑣈𑣅𑣉 𑣙𑣘𑣃𑣓𑣃𑣖𑣈𑣄 𑣓𑣈𑣚𑣉𑣄 𑣕𑣁𑣓𑣁.
+The path led to the village.	𑢳𑣈𑣓𑣁 𑣙𑣉𑣜𑣁 𑣙𑣁𑣕𑣃𑣘𑣁 𑣞𑣈𑣓𑣉𑣁.
+The village needs your help.	𑢹𑣁𑣕𑣃 𑣁𑣗𑣈𑣓𑣁𑣄 𑣔𑣈𑣊𑣁 𑣚𑣁𑣋𑣁𑣕𑣂𑣍 𑣕𑣁𑣓𑣁𑣄.
+The village needs your help.	Hatu ren ko amaḱ Dengakô asitińoḱ tana.
+This goblet is made of gold.	𑢳𑣈𑣓𑣁 𑣓𑣃𑣇𑣋𑣂𑣚𑣁𑣞 𑣞𑣉𑣓𑣁𑣜𑣈 𑣗𑣁𑣆𑣅𑣁𑣌𑣁𑣓𑣁.
+Those chairs are in the way.	En Chair ko do seén Hora rea.
+Tom looks young for his age.	𑢲𑣉𑣖 𑣁𑣅𑣁𑣄 𑣇𑣖𑣈𑣜𑣈 𑣕𑣈𑣅𑣉 𑣞𑣈𑣘𑣈𑣑𑣈𑣄 𑣓𑣈𑣚𑣉𑣁.
+Tom ran back to the village.	𑢲𑣉𑣖 𑣁𑣜𑣉 𑣙𑣁𑣕𑣃𑣘𑣁 𑣓𑣂𑣜 𑣙𑣂𑣎𑣃𑣇 𑣅𑣁𑣓𑣁𑣄.
+Tom said that you were sick.	Hasuoḱ tanam -mente Tom kaji let́a.
+We can rest in this village.	𑢡𑣗𑣃𑣖𑣁𑣓𑣌𑣉 𑣓𑣈𑣓𑣁 𑣙𑣁𑣕𑣃𑣜𑣈 𑣎𑣂𑣜𑣈𑣇 𑣔𑣆𑣅𑣁𑣈𑣗𑣃
+What do you know about dogs?	Seta ko reaḱ chenaḱm adaana?
+Why do people do bad things?	hoo ko chenaḱmente et́kanaḱkô paiṭiêa?
+All that glitters isn't gold.	𑢾𑣁𑣗𑣈𑣓 𑣏𑣁𑣖𑣌𑣁𑣉 𑣕𑣈𑣅𑣁𑣄 𑣞𑣉𑣓𑣁 𑣌𑣁𑣌𑣁𑣓𑣁.
+Everybody was staring at Tom.	Saben Tom paakô heta akat́ taekena.
+Gold will not buy everything.	𑢾𑣉𑣓𑣁 𑣞𑣁𑣗𑣈𑣓𑣄 𑣌𑣁𑣄 𑣌𑣂𑣜𑣂𑣊𑣈𑣅𑣁.
+I still get lonely sometimes.	Misa-misa koń eskarmukuńoḱa.
+Love is worth more than gold.	𑢡𑣞𑣜𑣁 𑣞𑣉𑣓𑣁𑣈𑣕𑣈𑣅𑣉 𑣘𑣃𑣜𑣁𑣄 𑣋𑣉𑣓𑣉𑣊𑣁.
+She is living in the village.	𑢡𑣈 𑣙𑣁𑣕𑣃𑣜𑣈𑣄 𑣕𑣆𑣓 𑣕𑣁𑣓𑣁𑣄.
+Tom lives in a small village.	𑢲𑣉𑣖 𑣙𑣁𑣛𑣂𑣍 𑣙𑣁𑣕𑣃𑣜𑣄 𑣕𑣆𑣓𑣁.
+Tom lives in a small village.	Tom huḍiṅ lekan Hatu reć taena.
+Tom probably won't be chosen.	Tom toraṅ kać salaoḱa.
+Tom should've talked to Mary.	Tom do Mary ić jagar kat́ić teaḱ ge honaṅ.
+Tom was shot in his left leg.	Tom do lenga Kaṭa reć toḍe lena.
+You'll be a grandmother soon.	Anjaa gem Jiaṅoḱa.
+You're not as tall as Tom is.	Tom imin kam salangià.
+All that glitters is not gold.	𑢾𑣁𑣗𑣈𑣓 𑣏𑣁𑣖𑣌𑣁𑣉 𑣎𑣂𑣓𑣞𑣉𑣌𑣉 𑣞𑣉𑣓𑣁 𑣌𑣁 𑣌𑣁𑣓𑣁.
+Have ever been to our village?	𑢯𑣃𑣆𑣚𑣈 𑣁𑣚𑣈 𑣙𑣁𑣕𑣃𑣖 𑣙𑣂𑣎𑣃𑣈 𑣌𑣁𑣓𑣁?
+He died at the age of seventy.	𑢡𑣈 𑣁𑣘𑣈𑣄𑣙𑣂𑣞𑣂 𑣋𑣈𑣚𑣈𑣅𑣁 𑣞𑣂𑣜𑣖𑣈 𑣇𑣖𑣈𑣜 𑣜𑣈 𑣌𑣂𑣓 𑣋𑣉𑣓𑣉𑣄 𑣅𑣁𑣓𑣁𑣄.
+Our school is in this village.	𑢡𑣚𑣈𑣅𑣁𑣄 𑣆𑣞𑣌𑣃𑣚 𑣓𑣈𑣓 𑣙𑣁𑣕𑣃𑣜𑣈 𑣖𑣈𑣓𑣁𑣄.
+Our school is in this village.	Ale School nen Hatu rea.
+Our school is in this village.	School tale nen Hatu rea.
+Please say hello to your wife.	𑢡𑣖𑣁𑣄 𑣈𑣜𑣁𑣌𑣈 𑣎𑣉𑣙𑣁𑣜 𑣌𑣁𑣂𑣅𑣁𑣆𑣖𑣈𑣋𑣁.
+Even notebooks can be recycled.	Notebook ko ó recycle daeoḱa.
+Gold is far heavier than water.	𑢾𑣉𑣓𑣁 𑣔𑣁𑣄𑣈 𑣕𑣈𑣅𑣉 𑣆𑣞𑣃 𑣉𑣎𑣉𑣓𑣁.
+His methods are not scientific.	Aćaḱ Sensaṕhora Science lekate banoḱa.
+I dropped by just to say hello.	𑢡𑣍 𑣞𑣁𑣖𑣁 𑣎𑣉𑣙𑣁𑣜𑣈 𑣚𑣁𑣋𑣂𑣑 𑣁𑣁𑣄 𑣌𑣁𑣆𑣎𑣍.
+I know everyone in the village.	𑢡𑣍 𑣙𑣁𑣕𑣃𑣜𑣈 𑣞𑣁𑣗𑣈𑣓𑣈𑣍 𑣇𑣜𑣃𑣖 𑣕𑣁𑣑𑣌𑣉𑣁.
+I thought I'd say hello to Tom.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣓𑣁𑣍 𑣁𑣍 𑢲𑣉𑣖 𑣌𑣈𑣍 𑣎𑣉𑣙𑣁𑣜𑣁𑣆𑣈.
+Is it scientifically plausible?	Ena Science lekate hoba daeoḱ lekanaḱ chi?
+Please say hello to him for me.	𑢡𑣚𑣂𑣍 𑣚𑣁𑣋𑣂𑣑 𑣁𑣈 𑣎𑣉𑣙𑣁𑣜𑣂 𑣘𑣈𑣋𑣈.
+The village has a long history.	𑢹𑣁𑣕𑣃 𑣜𑣈𑣅𑣁𑣄𑣁 𑣆𑣞𑣃𑣖𑣁𑣜𑣈 𑣆𑣕𑣂𑣙𑣁𑣞 𑣖𑣈𑣓𑣁𑣄𑣁.
+The village has no electricity.	𑢹𑣁𑣕𑣃𑣜𑣈 𑣆𑣚𑣈𑣌𑣒𑣂𑣜𑣂 𑣗𑣁𑣕𑣂 𑣗𑣁𑣓𑣉𑣁.
+The village has no electricity.	En Hatu re Electricity banoḱa.
+The village has no electricity.	Hatu re Electricity banoḱa.
+The villagers weren't friendly.	𑢹𑣁𑣕𑣃 𑣜𑣈𑣓𑣌𑣉 𑣌𑣁𑣌𑣉 𑣖𑣈𑣞𑣁 𑣔𑣙𑣁𑣜𑣁𑣓𑣁.
+The villagers weren't friendly.	Hatu ren ko do, japagar jupuḍi lekann ko do kakô taêkena.
+Tom admitted he stole the gold.	𑢲𑣉𑣖 𑣖𑣁𑣓𑣁𑣕𑣂𑣍 𑣌𑣈𑣑𑣁𑣄 𑣏𑣂 𑣁𑣈𑣋𑣈 𑣞𑣉𑣓𑣁 𑣌𑣃𑣖𑣗𑣃𑣁 𑣌𑣁𑣑𑣁𑣄.
+Tom bought some sweet potatoes.	Tom joka Sangać kiriń let́a.
+Tom walked through the village.	𑢲𑣉𑣖 𑣙𑣁𑣕𑣃𑣈𑣕𑣈 𑣞𑣈𑣓𑣉𑣅𑣁𑣓𑣁𑣄.
+Tom will probably be disgusted.	Tom doć hilaṅoḱa toraṅ.
+Towns are larger than villages.	𑢷𑣁𑣎𑣁𑣜𑣌𑣉 𑣙𑣁𑣕𑣃 𑣌𑣉𑣈𑣕𑣈 𑣖𑣁𑣜𑣁𑣊 𑣕𑣆𑣓𑣁.
+Towns are larger than villages.	Town ko Hatu ko aete maraṅa.
+Worms can be good for the soil.	𑢵𑣂𑣎𑣃𑣌𑣉 𑣙𑣁𑣞𑣁 𑣚𑣁𑣋𑣂𑣑 𑣗𑣃𑣋𑣂𑣓𑣁𑣌𑣉.
+Gold is more valuable than iron.	𑢾𑣉𑣓𑣁 𑣖𑣈𑣀𑣐𑣈𑣑𑣈 𑣕𑣈 𑣘𑣃𑣜𑣁𑣏 𑣋𑣉𑣓𑣊𑣁.
+Gold is much heavier than water.	𑢾𑣉𑣓𑣁 𑣔𑣁𑣄𑣈 𑣕𑣈𑣅𑣉 𑣘𑣃𑣜𑣁𑣄 𑣙𑣁𑣖𑣗𑣁𑣚𑣁.
+Love is more precious than gold.	𑢡𑣞𑣜𑣁 𑣞𑣉𑣓𑣁𑣈𑣕𑣈𑣅𑣉 𑣘𑣃𑣜𑣁𑣄 𑣋𑣉𑣓𑣉𑣊 𑣋𑣈𑣅𑣁.
+Please say hello to your family.	𑢴𑣁𑣅𑣁𑣌𑣈𑣕𑣈 𑣁𑣖𑣁𑣄 𑣉𑣁𑣄 𑣜𑣈𑣓𑣌𑣉 𑣎𑣉𑣙𑣁𑣜𑣁 𑣌𑣉𑣖𑣈.
+Say hello to your father for me.	𑢡𑣍 𑣘𑣁𑣈𑣕𑣈 𑣁𑣘𑣃𑣍 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣆𑣖𑣈.
+The storm laid the village flat.	𑢵𑣉𑣘𑣙𑣁𑣓 𑣕𑣈 𑣙𑣁𑣕𑣃 𑣜𑣁𑣘𑣃𑣑 𑣏𑣁𑣗𑣁𑣅𑣁𑣓𑣁.
+Tom is approximately Mary's age.	𑢲𑣉𑣖 𑣘𑣃𑣜𑣁 𑢶𑣈𑣜𑣂 𑣇𑣖𑣈𑣜 𑣜𑣂𑣓𑣂𑣆 𑣌𑣁𑣓𑣁𑣄.
+Tom looked out the front window.	Tom ayar paa reaḱ Window aeteć koyoḱ ooḱl ket́a.
+We live on different continents.	Eṭaḱ-eṭaḱ Continent relaṅa.
+We live on different continents.	Eṭaḱ-eṭaḱ Continent relińa.
+You aren't a carpenter, are you?	Am do Carpenter káa, kachia?
+Does Tom still do that every day?	Tom nahḱ ó enać paeṭia chi?
+Please say hello to your parents.	𑢴𑣁𑣅𑣁𑣌𑣈𑣕𑣈 𑣁𑣘𑣈𑣅𑣁𑣄 𑣈𑣊𑣋𑣁 𑣁𑣘𑣃 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣌𑣉𑣘𑣈.
+Say hello to your parents for me.	𑢡𑣍 𑣚𑣁𑣋𑣂𑣑 𑣁𑣘𑣈𑣅𑣁 𑣈𑣊𑣋𑣁 𑣁𑣘𑣃 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣁 𑣌𑣂𑣓𑣘𑣈.
+The bus stopped in every village.	𑢾𑣁𑣗𑣈𑣓 𑣙𑣁𑣕𑣃𑣜𑣈 𑣗𑣉𑣞 𑣕𑣂𑣊𑣃𑣅𑣁𑣄.
+The planes flew over the village.	𑢧𑣑𑣇 𑣋𑣁𑣑𑣂 𑣌𑣉 𑣙𑣁𑣕𑣃 𑣏𑣈𑣕𑣁𑣓𑣕𑣈 𑣁𑣘𑣂𑣜𑣈𑣅𑣁𑣓.
+We can learn a lot from children.	Hon ko taḱ aete esuaḱbu etonn daea.
+We're approximately the same age.	𑢡𑣚𑣈 𑣘𑣃𑣜𑣈 𑣘𑣃𑣜𑣂 𑣖𑣂𑣑 𑣇𑣖𑣈𑣜 𑣜𑣈𑣓 𑣌𑣁𑣓𑣁𑣚𑣈.
+Did the two of you meet in Boston?	Boston reben napam lena chi?
+Don't let anybody leave this room.	Jahć ó nen Room alam bage irikôa.
+Everybody in the village knew him.	𑢹𑣁𑣕𑣃𑣜𑣈𑣓 𑣞𑣁𑣗𑣈𑣓 𑣁𑣈 𑣇𑣜𑣃𑣖𑣏𑢷𑣁 𑣌𑣎𑣈𑣌𑣉.
+He returned to his native village.	𑢡𑣈 𑣁𑣅𑣁𑣄 𑣎𑣁𑣓𑣁𑣖 𑣙𑣁𑣕𑣃 𑣜𑣃𑣈 𑣅𑣁𑣓𑣁𑣄.
+I didn't know Tom was your father.	Tom do Apum mente kań adaan taekena.
+I reached the village before dark.	𑢳𑣃𑣗𑣁𑣉𑣄 𑣁𑣅𑣁𑣜𑣕𑣈 𑣁𑣍 𑣙𑣁𑣕𑣃𑣍 𑣗𑣈𑣒𑣁𑣅𑣁𑣓𑣁.
+I'll have to talk to Tom about it.	Ena reaḱ do Tom loḱń jagar te hobana.
+My mother looks young for her age.	𑢡𑣍𑣁𑣄 𑣈𑣊𑣋𑣁𑣍 𑣁𑣌𑣂𑣓𑣁𑣄 𑣇𑣖𑣈𑣜𑣈 𑣕𑣈𑣅𑣉 𑣙𑣁𑣘𑣓𑣃𑣖 𑣌𑣂𑣓 𑣓𑣈𑣚𑣉𑣁𑣄.
+Plants absorb water from the soil.	𑢴𑣁𑣜𑣃𑣌𑣉 𑣙𑣁𑣞𑣁𑣅𑣈 𑣕𑣈 𑣔𑣁𑣄 𑣌𑣉 𑣎𑣈𑣖𑣗𑣈𑣑𑣈𑣅𑣁𑣌𑣉.
+Speech is silver, silence is gold.	𑢮𑣁𑣋𑣁𑣜 𑣋𑣁𑣓𑣈𑣜𑣈𑣔𑣉 𑣜𑣃𑣘𑣁 𑣌𑣁𑣓𑣁, 𑢹𑣁𑣘𑣁 𑣕𑣁𑣆 𑣔𑣁𑣆𑣜𑣈𑣔𑣉 𑣞𑣉𑣓𑣁 𑣌𑣁𑣓𑣁.
+The village is beyond those trees.	𑢹𑣁𑣕𑣃 𑣈𑣓𑣁 𑣔𑣁𑣜𑣃𑣆𑣕𑣈 𑣗𑣁𑣙𑣁𑣜𑣈 𑣖𑣈𑣓𑣁𑣄.
+The village was dead after sunset.	𑢾𑣂𑣊𑣂 𑣙𑣁𑣞𑣃𑣜𑣈𑣅𑣁𑣓 𑣗𑣁𑣔 𑣙𑣁𑣕𑣃𑣌𑣉 𑣋𑣉𑣎 𑣙𑣁𑣘𑣁 𑣚𑣈𑣓𑣁.
+You've got to take a look at this.	Nenam nelê tege hobaoḱa.
+Bacteria will not breed in alcohol.	Bacteria ko Alcohol re kakô posa sangeoḱa.
+I opened the can, but it was empty.	Can reaḱ Danaloṕeń hoṭaḱ ket́a, ena mendo sama ge taekena.
+I went swimming with Tom yesterday.	Hola Tom loḱ oyareń sen lena.
+Pasteur experimented with bacteria.	Pasteur do Bacteria loḱć experiment ket́a.
+Plants take in water from the soil.	𑢴𑣁𑣜𑣃𑣌𑣉 𑣙𑣁𑣞𑣁𑣈𑣕𑣈 𑣔𑣁𑣄𑣌𑣉 𑣆𑣔𑣂𑣅𑣈.
+That disease is caused by bacteria.	En Rua do Bacteria te hoba akana.
+The soldiers killed many villagers.	𑢾𑣈𑣓𑣂𑣌 𑣌𑣉 𑣆𑣞𑣃 𑣙𑣁𑣕𑣃𑣜𑣈𑣓𑣌𑣉 𑣓𑣉𑣎 𑣚𑣈𑣑𑣌𑣉𑣁𑣌𑣉.
+The soldiers killed many villagers.	Soldier ko esu sange Hatu ren kokô goć ket́koa.
+This river runs through my village.	𑢳𑣈𑣓𑣁 𑣋𑣁𑣛𑣁 𑣁𑣚𑣈 𑣙𑣁𑣕𑣃 𑣘𑣁𑣈𑣕𑣈 𑣙𑣁𑣛𑣂𑣈 𑣌𑣁𑣓𑣁.
+Tom can help Mary do that tomorrow.	Tom Gapa Mary enać cika denga daevaića.
+When did your daughter come of age?	𑢡𑣖𑣁𑣄 𑣙𑣉𑣓 𑣈𑣜𑣁 𑣏𑣃𑣆𑣚𑣁𑣄 𑣖𑣜𑣀𑣈 𑣅𑣁𑣓𑣁𑣄?
+You should know better at your age.	𑢡𑣖 𑣁𑣖𑣁𑣄 𑣓𑣈𑣓 𑣇𑣖𑣈𑣜 𑣜𑣈𑣋𑣈 𑣗𑣁𑣐𑣂𑣈 𑣈𑣕𑣉𑣈 𑣕𑣁𑣄 𑣜𑣈𑣅𑣁𑣄 𑣔𑣉𑣜𑣌𑣁𑣜.
+You'd have to be insane to do that.	Bayaoḱ tan re enaṅ ena dom paeṭiêa honaṅ.
+About thirty villagers were injured.	𑢨𑣓𑣌𑣁𑣔𑣉 𑣙𑣁𑣕𑣃𑣜𑣈𑣓 𑣙𑣂𑣞𑣂𑣋𑣈𑣚𑣈𑣅𑣁 𑣙𑣉𑣉 𑣌𑣉 𑣒𑣉𑣉𑣁 𑣌𑣁𑣓𑣁𑣌𑣉.
+Has that been scientifically proven?	Ena Science lekate uduṕ bit́ akana chi?
+I thought I'd drop by and say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑢡𑣍 𑣈𑣓𑣑𑣈𑣍 𑣞𑣈𑣓𑣉𑣁 𑣁𑣜 𑣎𑣉𑣙𑣁𑣜𑣈𑣍 𑣌𑣁𑣎𑣂𑣈 𑣌𑣉𑣁.
+I thought that I'd say hello to Tom.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑣏𑣂 𑢡𑣍 𑢲𑣉𑣖 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜 𑣌𑣁𑣎𑣂𑣈𑣍.
+The soldiers surrounded the village.	𑢾𑣈𑣓𑣂𑣌 𑣌𑣉 𑣋𑣉𑣒𑣁 𑣙𑣁𑣕𑣃𑣌𑣉 𑣋𑣙𑣈𑣜𑣇 𑣚𑣈𑣑𑣁𑣌𑣉.
+The soldiers surrounded the village.	Soldier ko Hatukô eset́ biur ket́a.
+We need to find someone to help Tom.	Tom dengaćnićbu namić teaḱ menaḱa.
+Why don't you say hello to everyone?	𑢡𑣗𑣈𑣓 𑣏𑣈𑣓𑣁𑣄 𑣏𑣂𑣌𑣈 𑣞𑣁𑣗𑣈𑣓𑣌𑣉 𑣌𑣁𑣘𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣌𑣉 𑣕𑣁𑣓𑣁?
+My younger sister didn't say "hello."	𑢡𑣍𑣁𑣄 𑣙𑣃𑣛𑣂𑣍 𑣖𑣂𑣞𑣂𑣌𑣃𑣆 𑣁𑣚𑣉𑣖 𑣎𑣉𑣙𑣁𑣜𑣈𑣅𑣁.
+Please say hello to your wife for me.	𑢡𑣍 𑣚𑣁𑣋𑣂𑣑 𑣁𑣖𑣁𑣄 𑣈𑣜𑣁𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣂𑣖𑣈𑣋𑣁.
+They supplied the village with water.	𑢹𑣁𑣓𑣌𑣃 𑣙𑣁𑣕𑣃𑣜𑣈 𑣔𑣁𑣄𑣌𑣉 𑣈𑣖𑣁𑣑 𑣌𑣉𑣁.
+Tom is looking for a vending machine.	Tom do Vending Machine eć nel baa tana.
+Why don't you say hello to everybody?	𑢡𑣗𑣈𑣓 𑣞𑣁𑣗𑣈𑣓𑣌𑣉𑣋𑣈 𑣏𑣈𑣓𑣁𑣄 𑣏𑣂𑣌𑣈 𑣌𑣁𑣘𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣌𑣉 𑣕𑣁𑣓𑣁?
+I thought Tom would say hello to Mary.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑢲𑣉𑣖 𑢶𑣈𑣜𑣂 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣂𑣅𑣈𑣈.
+Sometimes bears come into our village.	𑢶𑣂𑣞𑣈 𑣖𑣂𑣞𑣈 𑣗𑣁𑣓𑣁𑣌𑣉 𑣁𑣚𑣈 𑣙𑣁𑣕𑣃𑣜𑣈𑣌𑣉 𑣙𑣂𑣎𑣃𑣈.
+They called the village New Amsterdam.	𑢹𑣁𑣓𑣌𑣃 𑣙𑣁𑣕𑣃𑣌𑣈 𑣓𑣁𑣖𑣁 𑢡𑣖𑣁𑣞𑣒𑣜𑣑𑣁𑣖 𑣓𑣃𑣕𑣃𑣖𑣕𑣈 𑣌𑣉 𑣌𑣈𑣅𑣁 𑣌𑣈𑣑𑣁.
+They called the village New Amsterdam.	Nama Hatukô New Amsterdam ket́a.
+They called the village New Amsterdam.	Nama Hatu dokô New Amsterdam ket́a.
+They supplied the villagers with food.	𑢹𑣁𑣓𑣌𑣃 𑣙𑣁𑣕𑣃 𑣜𑣈𑣓𑣌𑣉 𑣎𑣉𑣖𑣁𑣄 𑣌𑣉 𑣈𑣖𑣁𑣑 𑣌𑣉𑣁.
+This village doesn't have electricity.	𑢳𑣈𑣅𑣁 𑣙𑣁𑣕𑣃𑣜𑣈 𑣆𑣚𑣈𑣌𑣒𑣂𑣜𑣂 𑣗𑣁𑣕𑣂 𑣗𑣁𑣓𑣉𑣁.
+Tom said that he was afraid of snakes.	'Biń koń borotekôa' ć men ket́a Tom.
+Tom said that he was afraid of snakes.	Tom men ket́a 'Biń koń borotekôa.'
+I was scared and so was everybody else.	Boro let́ań, saben koó geda.
+Many villagers were killed by soldiers.	𑢾𑣂𑣘𑣁𑣙𑣂𑣌𑣉 𑣆𑣞𑣃 𑣙𑣁𑣕𑣃𑣜𑣈𑣓 𑣙𑣉𑣉𑣌𑣉 𑣋𑣉𑣎 𑣌𑣈𑣑 𑣌𑣉𑣁𑣌𑣉.
+The explosion frightened the villagers.	𑢾𑣌𑣕𑣉 𑣘𑣙𑣃𑣒𑣈𑣇𑣅𑣁𑣓𑣈𑣕𑣈 𑣙𑣁𑣕𑣃 𑣜𑣈𑣓𑣌𑣉 𑣗𑣉𑣜𑣉 𑣌𑣈𑣑𑣁𑣌𑣉.
+The village is surrounded by mountains.	𑢹𑣁𑣕𑣃𑣔𑣉 𑣗𑣃𑣜𑣃 𑣌𑣉𑣕𑣈 𑣈𑣞𑣈𑣑𑣁𑣌𑣁𑣓𑣁.
+Tom didn't want to come here yesterday.	Tom hola nentaḱ kać hućoḱ sanaṅ kena.
+Tom is standing in front of the school.	Tom School samanaṅ reć tingu akana.
+Tom said hello to everyone in the room.	𑢲𑣉𑣖 𑣌𑣁𑣖𑣜𑣁 𑣗𑣂𑣕𑣁𑣜 𑣜𑣈𑣓 𑣕𑣁𑣆 𑣞𑣁𑣗𑣈𑣓𑣌𑣉𑣋𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣑 𑣌𑣉𑣁𑣄.
+Viruses are much smaller than bacteria.	Virus ko do Bacteria aete ó esu renákô huḍińa.
+You've forgotten to tie your shoelaces.	Amaḱ Shoelace tolem riiń tat́a.
+Gold is the most precious of all metals.	𑢾𑣁𑣗𑣈𑣓 𑣔𑣙𑣁𑣕𑣃 𑣌𑣉𑣈𑣕𑣈 𑣞𑣉𑣓𑣁 𑣆𑣞𑣃 𑣋𑣉𑣓𑣊𑣁.
+Hello, this is Tom. Can I speak to Mary?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑣓𑣂𑣆𑣔𑣉 𑢲𑣉𑣖 𑣌𑣁𑣓𑣁𑣄. 𑢡𑢭 𑢶𑣈𑣜𑣂 𑣚𑣉 𑣎𑣁𑣋𑣁𑣜 𑣔𑣁𑣆𑣅𑣁𑣏𑣂𑢭?
+I don't want to tell you how I did that.	Ena chilika teń Paeṭi ket́a menteaḱ ká kajiam sanaṅiń tana.
+I intend to buy my wife a gold bracelet.	𑢡𑣍 𑣁𑣍𑣁𑣄 𑣈𑣜𑣁 𑣚𑣁𑣋𑣂𑣑 𑣖𑣂𑣈𑣑 𑣞𑣉𑣓𑣁 𑣜𑣈𑣅𑣁𑣄 𑣗𑣜𑣁𑣞𑣚𑣈𑣒 𑣌𑣂𑣜𑣂𑣊 𑣞𑣃𑣌𑣃𑣍 𑣕𑣁𑣓𑣁.
+Keep going straight through the village.	𑢾𑣂𑣔𑣈 𑣙𑣁𑣕𑣃 𑣕𑣁𑣚𑣁𑣈𑣕𑣈 𑣞𑣈𑣓𑣉𑣄𑣘𑣈.
+Please say hello to your parents for me.	𑢡𑣍 𑣚𑣁𑣋𑣂𑣑 𑣁𑣘𑣈𑣅𑣁 𑣈𑣊𑣋𑣁 𑣁𑣘𑣃𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣁 𑣌𑣂𑣓𑣘𑣈𑣋𑣁.
+Quite a lot of people heard Tom yelling.	Sange noḱ ge hoo ko Tom kakala tankô ayumat́ića.
+Sometimes bears wander into our village.	𑢶𑣂𑣞𑣈 𑣖𑣂𑣞𑣈 𑣗𑣁𑣓𑣁𑣌𑣉 𑣁𑣗𑣃𑣄𑣁 𑣙𑣁𑣕𑣃𑣜𑣈𑣌𑣉 𑣙𑣉𑣓𑣉𑣜𑣁.
+That old house is thought to be haunted.	En papari Oaḱ do 'Bonga ko menaḱa' kô menêa.
+The pilot hinted that it might be a UFO.	Ena do UFO toraṅ -mente Pilot kaji ingul ket́a.
+The tornado destroyed the whole village.	𑢳𑣈𑣓𑣁 𑣕𑣉𑣘𑣙𑣁𑣓𑣕𑣈 𑣞𑣁𑣗𑣈𑣓 𑣙𑣁𑣕𑣃 𑣌𑣉 𑣜𑣁𑣘𑣃𑣑 𑣏𑣁𑣗𑣁 𑣌𑣈𑣑𑣁𑣄.
+The tornado destroyed the whole village.	Horlosi te goṭa Hatu raput́ chaba yana.
+This book will never be published again.	Nen Sapagom do anḍoḱ jahchiula ó ká publish oḱa.
+Tom said hello to everybody in the room.	𑢲𑣉𑣖 𑣌𑣁𑣖𑣜𑣁 𑣗𑣂𑣕𑣁𑣜 𑣜𑣈𑣓 𑣕𑣁𑣆 𑣞𑣁𑣗𑣈𑣓 𑣌𑣉𑣋𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣑 𑣌𑣉𑣁𑣄.
+Would you like to have your hair washed?	Bohḱbaleben sipi ichina chi?
+Botany is the scientific study of plants.	Botany do Siń ko reaḱ Science lekatenn Study.
+Do you think that you can do that for us?	Ena dom paeṭi daeale lekam adaêa?
+Do you think that you can do that for us?	Ena dom paeṭi daeabu lekam adaêa?
+I thought Tom would stop by to say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑢲𑣉𑣖 𑣎𑣉𑣙𑣁𑣜𑣈 𑣚𑣁𑣋𑣂𑣑𑣈 𑣕𑣁𑣆 𑣜𑣃𑣁𑣓𑣁𑣄.
+I thought that I'd drop by and say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑣏𑣂 𑢡𑣍 𑣈𑣓𑣑𑣈𑣍 𑣞𑣈𑣓𑣉𑣁 𑣁𑣜 𑣎𑣉𑣙𑣁𑣜𑣈𑣍 𑣌𑣁𑣎𑣂𑣈 𑣌𑣉𑣁.
+Who do you think will get the gold medal?	𑢩𑣌𑣉𑣈 𑣞𑣉𑣓𑣁 𑣘𑣉𑣔𑣉𑣌 𑣓𑣁𑣖𑣈𑣅𑣁𑣄 𑣖𑣈𑣓𑣕𑣈 𑣁𑣘𑣈𑣘𑣈 𑣇𑣛𑣃𑣈𑣕𑣁𑣓𑣁?
+Who do you think will win the gold medal?	𑢩𑣌𑣉𑣈 𑣞𑣉𑣓𑣁 𑣘𑣉𑣔𑣌 𑣔𑣁𑣅𑣃𑣁 𑣖𑣈𑣓𑣕𑣈 𑣘𑣈 𑣇𑣛𑣃𑣈𑣕𑣁𑣓𑣁?
+I don't have enough money to go to Boston.	Boston senoḱ imin Puisa banoḱa tań.
+I thought Tom would drop by and say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆𑣌𑣈𑣓𑣁𑣍 𑢲𑣉𑣖 𑣁𑣍 𑣞𑣃𑣗𑣁 𑣙𑣂𑣎𑣃𑣇 𑣌𑣁𑣕𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣍𑣁𑣄.
+I thought Tom would stop by and say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑢲𑣉𑣖 𑣕𑣁𑣆𑣜𑣃𑣁 𑣌𑣁𑣕𑣈 𑣎𑣉𑣙𑣁𑣜𑣈𑣅𑣁.
+The villagers are suspicious of outsiders.	𑢹𑣁𑣕𑣃𑣜𑣈𑣓 𑣙𑣉𑣉 𑣌𑣉 𑣗𑣁𑣙𑣁𑣜𑣈 𑣜𑣈𑣓𑣌𑣉 𑣌𑣁𑣌𑣉 𑣗𑣂𑣞𑣈𑣞 𑣌𑣉 𑣕𑣁𑣓𑣁.
+Tom used to work for a big firm in Boston.	Tom do Boston re miat́ maraṅ Firm lagit́eć paeṭi kena.
+Tunisia has a history of labor emigration.	Tunisia re Labour koaḱ Disumbanage reaḱ Sidaehonoba menaḱa.
+Gold is more precious than any other metal.	𑢾𑣉𑣓𑣁 𑣈𑣒𑣁𑣄 𑣔𑣙𑣁𑣕𑣃 𑣌𑣉𑣈𑣕𑣈 𑣘𑣃𑣜𑣁𑣄 𑣋𑣉𑣓𑣉𑣊𑣁.
+I thought that Tom would say hello to Mary.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑣏𑣂 𑢲𑣉𑣖 𑢶𑣈𑣜𑣂 𑣌𑣈 𑣎𑣉𑣙𑣁𑣜𑣂𑣅𑣈𑣈.
+I'll probably get fired if I don't do that.	Nena kań paeṭiê rekô har enḍaḱńa toraṅ.
+Tom closed his eyes and thought about Mary.	Tom Met́ japit́ keet́ Mary reaḱć uḍuḱ ket́a.
+There are lots of rice paddies in this area.	𑢳𑣈𑣓𑣁 𑣔𑣙𑣁𑣜𑣁 𑣔𑣙𑣁𑣜𑣂 𑣎𑣁𑣋𑣁𑣜𑣈 𑣆𑣞𑣃 𑣏𑣁𑣇𑣚𑣂 𑣗𑣁𑣗𑣁 𑣖𑣈𑣓𑣁𑣄.
+Turmeric gives food an intense yellow color.	𑢾𑣁𑣞𑣁𑣊 𑣎𑣉𑣖𑣕𑣈𑣅𑣁𑣄 𑣌𑣉𑣜𑣈 𑣆𑣞𑣃𑣞𑣁𑣞𑣁𑣊 𑣜𑣁𑣀𑣋 𑣈𑣖𑣈𑣅𑣁𑣄.
+Wisdom does not automatically come with age.	𑢷𑣃𑣔𑣂𑣌𑣉 𑣓𑣂𑣎𑣈𑣕𑣈 𑣇𑣖𑣈𑣜 𑣚𑣉 𑣕𑣈𑣅𑣉 𑣌𑣁 𑣙𑣂𑣎𑣃𑣁𑣄.
+No mountain in Japan is higher than Mt. Fuji.	Japan ren jahn Buru ó Fuji Buru aete ká usula.
+They must have found out about what happened.	Hobayan teaḱ doko ada nam ket́ gea toraṅ.
+I thought that Tom would stop by to say hello.	𑢡𑣍 𑣇𑣛𑣃𑣇 𑣚𑣈𑣑𑣁𑣍 𑣏𑣂 𑢲𑣉𑣖 𑣎𑣉𑣙𑣁𑣜𑣈 𑣚𑣁𑣋𑣂𑣑 𑣕𑣁𑣆𑣜𑣃𑣁𑣓𑣁𑣄.
+Those who were there thought it was pure gold.	𑢨𑣓𑣑𑣈 𑣕𑣁𑣆𑣌𑣈𑣓 𑣙𑣉𑣉𑣌𑣉 𑣓𑣈𑣓𑣁 𑣋𑣈 𑣞𑣁𑣘𑣁 𑣞𑣉𑣓𑣁 𑣖𑣈𑣓𑣕𑣈 𑣇𑣛𑣃𑣇 𑣚𑣈𑣑𑣁𑣌𑣉.
+We all knew that gold was heavier than silver.	𑢡𑣚𑣈 𑣞𑣉𑣗𑣈𑣓 𑣚𑣈 𑣁𑣔𑣁𑣓 𑣕𑣁𑣆𑣌𑣈𑣓𑣁 𑣏𑣂 𑣞𑣉𑣓𑣁 𑣜𑣃𑣘𑣁𑣈𑣕𑣈𑣅𑣉 𑣙𑣁𑣖𑣗𑣁𑣚 𑣕𑣁𑣆𑣌𑣈𑣓𑣁.
+I thought that Tom would drop by and say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣍 𑣏𑣂 𑢲𑣉𑣖 𑢡𑢭 𑣕𑣁𑣄 𑣙𑣂𑣎𑣃𑣁𑣄 𑣁𑣜 𑣎𑣉𑣙𑣁𑣜𑣈𑣆𑣅𑣁𑣄
+I thought that Tom would stop by and say hello.	𑢡𑣍 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣁𑣍 𑣏𑣂 𑢲𑣉𑣖 𑣁𑣒𑣌𑣁𑣉𑣓𑣉𑣄 𑣌𑣁𑣕𑣈 𑣎𑣉𑣙𑣁𑣜𑣁𑣍𑣁𑣄.
+Tom wanted to know where he could buy turmeric.	𑢲𑣉𑣖 𑣁𑣒𑣌𑣁𑣜 𑣞𑣃𑣌𑣃𑣆 𑣕𑣁𑣓𑣁 𑣏𑣂 𑣁𑣈 𑣞𑣁𑣞𑣁𑣊 𑣉𑣌𑣉𑣓𑣈𑣕𑣈 𑣌𑣂𑣜𑣂𑣊 𑣔𑣁𑣆𑣅𑣁𑣄.
+Tom wanted to know where he could buy turmeric.	Tom do, okon taḱ re Sasaṅeń kiriń daea -menteć chirgal sanaṅ kena.
+Tom told me he thought that Mary was downstairs.	'Mary do Lataròaḱ reićań menêa' -mente Tom kajiat́ińa.
+You're not the only one who doesn't believe Tom.	Tom aḱ Kaji ká sarioḱnić am sekar ge do káa.
+Tom planted the rice seedlings in the rice paddy.	𑢲𑣉𑣖 𑣗𑣁𑣗𑣁 𑣎𑣁𑣀𑣊 𑣕𑣉𑣛𑣁 𑣌𑣈𑣑𑣁𑣄.
+Is it true that both Tom and Mary want to do that?	Tom anḍoḱ Mary barhoo enakin paeṭi sanaṅ tan teaḱ do sari chi?
+What makes you think that it was Tom who did this?	Ena do Tom ge enka ket́a mente chenaḱmentem uḍuḱê tana?
+I don't think that Tom is still willing to do that.	Tom nahḱ ó enać paeṭi sanaṅ tan leka do kań adaêa.
+I don't think that Tom is still willing to do that.	Tom nahḱ ó enać paeṭi sanaṅ tan leka do kań adaića.
+Tom, Mary, John and Alice are all in the classroom.	Tom, Mary, John anḍoḱ Alice saben do Classroom rekôa.
+Do you think Tom will reach the top of the mountain?	Tom do Buruchuṭić beṭaê lekam adaê tana?
+Do you think Tom will reach the top of the mountain?	Tom Buruchuṭić beṭaê lekam adaê tana?
+Do you think Tom will reach the top of the mountain?	Tom do Buruchuṭić beṭaè lekam adaić tana?
+Do you think Tom will reach the top of the mountain?	Tom Buruchuṭić beṭaê lekam adaić tana?
+There was a time when we told each other everything.	Sabenaḱle japagar upuduṕ taeken miat́ Dipilaṅ ó taekena.
+I don't have a CD player, but I bought the CD anyway.	Ań taḱ CD Player banoḱa, enreó, CD doń kiriń ket́ gea.
+Back in high school, I got up at 6 a.m. every morning.	High School redo, jao Setaḱ 6 a.m. reń birit́ kena.
+Did you know that Tom was going to Australia with Mary?	Tom do Mary loḱ Australia ć senoḱ taekena menteaḱ dom adaan taekena chi?
+Don't forget to turn off the TV before you go to sleep.	Gitić japit́enn ayar TV off taa teaḱ alam riińêa.
+That may mean nothing to you, but it means a lot to me.	Ena amaḱ lagit́ jahn Gonoṅ banoḱa, ańaḱ lagit́ mendo esu gonoṅana.
+I've always wondered what it'd be like to have siblings.	Unḍi-Boko ko taenn re chilikaà toraṅ -mente jaogeń uḍuḱ baa akat́a.
+Hello, it's me. Could you come pick me up at the station?	𑢮𑣉𑣙𑣁𑣜𑣋𑣈, 𑢡𑣍 𑣌𑣁𑣎𑣂𑣕𑣁𑣓𑣁𑣍. 𑣁𑣖 𑣁𑣍𑣌𑣈 𑣆𑣔𑣂 𑣚𑣁𑣋𑣂𑣑 𑣒𑣈𑣞𑣉𑣓𑣈𑣖 𑣙𑣂𑣎𑣃𑣇 𑣔𑣁𑣆𑣅𑣁𑣖 𑣏𑣂?
+I thought that it might be cocaine, but it was only flour.	Cocaine chi -menteń uḍuḱ let́a, ena mendo Holoṅ ge sama.
+Any problem can be solved if you are persistent and patient.	Persistent anḍoḱ patient gemm taenn redo, jahlekan Problem reó solve daeoḱa.
+Tom's mother gave him some apples to take with him to school.	Tom Engate ać School idi tóraê lagit́ chiminaṅ Apple eć emat́ića.
+Tom said there were still a lot things that needed to be done.	'Paeṭiè teaḱ anḍoḱ ge sange menaà' mente Tom kaji ket́a.
+My boyfriend works at a language school and loves it very much.	Ań jagarić Sepeet́ do miat́ Language School reć paeṭia, onḍoḱ ena esuć rãasatea.
+The last person that I told my idea to thought that I was nuts.	Ańaḱ Idea koń kajiat́ić tayomdauaḱ hoo do 'ń baya tana' ć men ket́a.
+Even though he lives next door, he doesn't even say hello to us.	𑢡𑣈 𑣇𑣛𑣃𑣈 𑣕𑣁𑣆 𑣌𑣈𑣓𑣁𑣄 𑣏𑣂 𑣎𑣁𑣘𑣁𑣄𑣜𑣈 𑣖𑣂𑣓𑣁𑣆𑣈, 𑢡𑣈 𑣁𑣚𑣈𑣉 𑣌𑣁𑣄 𑣎𑣉𑣙𑣁𑣜𑣁 𑣚𑣈𑣅𑣁.
+I have been acquainted with the mayor for more than twenty years.	Mayor loḱ hisi Sirma aete ó laaḱń upurum akana.
+I put the report card in the drawer so my mother wouldn't see it.	Engań alakać nelêkâ mente Report Card do Drawer reń em ket́a.
+Do you know what the differences between emoticons and emojis are?	Emoticon onḍoḱ Emoji tala reaḱ Sapaniń dom adaana chi?
+Tom was the only one who didn't know that Mary had moved to Australia.	Mary Australia'ć senoḱ yan teaḱ ká adaanić do Tom sekar.
+A long time ago when Pluto was still a planet, there was a boy named Tom.	Esu sirma ayar, Pluto do Planet ge menoḱ taeken imita, Tom nutumann miat́ Hon taekena.
+Tom had no idea that Mary was planning to stay in Australia for three more days.	Mary do Australia re onḍoḱ apé singi taen teaḱć uḍuḱ baiê tana -mente Tom ká jatić aṭkar let́a.
+Since there are rice paddies near my house, I often hear frogs croaking all night long this time of year.	𑢡𑣍𑣁𑣄 𑣉𑣁𑣄 𑣎𑣁𑣘𑣁𑣄𑣜𑣈 𑣗𑣁𑣗𑣁 𑣗𑣁𑣈𑣔𑣂𑣌𑣉 𑣖𑣈𑣓𑣁𑣁𑣄, 𑣈𑣓𑣁𑣖𑣈𑣓𑣕𑣈 𑢡𑣍 𑣎𑣁𑣉𑣞𑣂𑣜𑣖𑣈 𑣓𑣈𑣓 𑣞𑣖𑣉𑣈 𑣁𑣅𑣃𑣗 𑣎𑣁𑣌𑣈 𑣜𑣉𑣒𑣈 𑣌𑣉𑣁𑣄 𑣜𑣁𑣁𑣄𑣍 𑣁𑣅𑣃𑣖𑣈𑣅𑣁.
+Since there are rice paddies near my house, I often hear frogs croaking all night long this time of year.	Ańaḱ Oaḱ japaḱ Baba Ote ko menaḱ te, sirma re nimitaṅ do Choke ko goṭa Nidakô raḱ taneń ayum baakôa.

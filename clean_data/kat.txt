@@ -1,0 +1,242 @@
+Cheers!	გაუმარჯოს!
+Come in.	მობრძანდით
+See you.	ნახვამდის.
+Welcome.	კეთილი იყოს თქვენი მობრძანება!
+Find Tom.	ტომი იპოვე.
+After you.	თქვენ შემდეგ.
+I'm happy.	ბედნიერი ვარ.
+You idiot!	იდიოტო!
+You tried.	შენ ეცადე.
+Definitely!	უეჭველად!
+I need you.	მჭირდები.
+I want you.	მინდიხარ.
+You called?	შენ დარეკე?
+You decide.	შენ გადაწყვიტე.
+Are you mad?	გაგიჟდი?
+Are you mad?	გიჟი ხარ?
+He loves me.	მას მე უყვარვარ.
+How are you?	როგორ ბრძანდებით?
+I'm not old.	მე არ ვარ ხნიერი.
+That's easy.	ადვილია.
+That's ugly.	მახინჯია.
+The TV's on.	ტელევიზორი ჩართულია.
+You said it!	ეს შენ თქვი!
+You're sick!	ავად ხარ!
+Can you come?	შეგიძლია მოხვიდე?
+Find the cat.	კატა იპოვე.
+I have to go.	მე უნდა წავიდე.
+I'm very shy.	მე ძალიან მორცხვი ვარ.
+Welcome home.	კეთილი იყოს შენი შინ დაბრუნება.
+Are you crazy?	გაგიჟდი?
+Are you smart?	ჭკვიანი ხარ?
+Are you there?	აქ ხარ?
+Begin, please.	დაიწყე, გთხოვთ.
+How about you?	და შენ?
+No, thank you.	არა, მადლობა.
+See you again.	კიდევ გნახავთ.
+You all right?	კარგად ხარ?
+You are lying.	იტყუები.
+You are lying.	იტყუებით.
+Begin cleaning.	გასუფთავება დაიწყე.
+Do you love me?	შენ მე გიყვარვარ?
+I've done this.	მე ეს გავაკეთე.
+That'll be fun.	გასართობი იქნება/
+This is my cow.	ეს ჩემი ძროხაა.
+This is my dog.	ეს ჩემი ძაღლია.
+You're welcome.	არაფრის.
+Congratulations!	გილოცავ!
+Do you remember?	გახსოვს?
+Do you remember?	გახსოვთ?
+Green suits you.	მწვანე გიხდება.
+This is suicide!	ეს თვითმკვლელობაა.
+I like doughnuts.	მე მიყვარს დონატები
+I will shoot him.	ვესვრი!
+I'm on your side.	მე შენს მხარეს ვარ.
+My stomach hurts.	მტკივა კუჭი.
+Nice to meet you.	სასიამოვნოა თქვენი გაცნობა.
+She began crying.	მან დაიწყო ტირილი
+Tom can't answer.	ტომს არ შეუძლია პასუხი.
+Tom is here, too.	ტომიც აქაა.
+What's your name?	რა გქვია?
+Who did Tom mean?	ვინ იგულისხმა ტომმა?
+He is still young.	ის ჯერ კიდევ ახალგაზრდაა.
+I like simplicity.	მომწონს სიმარტივე
+I like simplicity.	მე მომწონს სიმარტივე
+I like simplicity.	სიმარტივე მომწონს
+That's impressive.	შთამბეჭდავია.
+The house is warm.	სახლი თბილია.
+The lovers kissed.	შეყვარებულებმა აკოცეს.
+You're disgusting!	ამაზრზენი ხარ!
+I'll read the book.	წიგნს წავიკითხავ.
+I'm writing a book.	მე წიგნს ვწერ.
+Someone's knocking.	ვიღაც აკაკუნებს.
+You like elephants.	შენ სპილოები მოგწონს.
+Get used to it, kid.	შეეჩვიე, ბავშვო.
+I'll give you money.	მე მოგცემ ფულს.
+Tom has better plan.	ტომს უკეთესი გეგმა აქვს.
+We need a volunteer.	ჩვენ გვჭირდება მოხალისე.
+You'd better not go.	უკეთესი იქნებოდა, რომ არ წასულიყავი.
+He committed suicide.	მან თავი მოიკლა.
+I have two daughters.	ორი ქალიშვილი მყავს.
+Please take me along.	გთხოვ წამიყვანე
+Tom knew I was awake.	ტომმა იცოდა რომ მეღვიძა.
+Why are you sleeping?	რატომ გძინავს?
+Why are you sleeping?	რატომ გძინავთ?
+You're not listening.	არ უსმენ.
+He is lost in thought.	ფიქრებში დაიკარგა.
+I had to stay at home.	სახლში დარჩენა მომიწია
+I want to talk to her.	მინდა მასთან ლაპარაკი.
+I want to talk to you.	მინდა შენთან ლაპარაკი.
+I'm at the restaurant.	რესტორანში ვარ.
+Nobody understands me.	არავის არ ესმის ჩემი.
+She attempted suicide.	მან თავის მოკვლა სცადა.
+That man is a soldier.	ეგ კაცი ჯარისკაცია.
+We have a reservation.	გვაქვს დაჯავშნა.
+Who wrote these poems?	ვინ დაწერა ეს პოემები?
+Why don't you love me?	რატომ არ გიყვარვარ?
+You should be at home.	სახლში უნდა იყო.
+All people breathe air.	ყველა ადამიანი ჰაერს სუნთქავს.
+Can you get permission?	შეგიძლია პირობა მომცე?
+How was your honeymoon?	როგორი იყო თქვენი თაფლობის თვე?
+I don't speak Japanese.	მე არ ვიცი იაპონურად ლაპარაკი.
+I'll give you an apple.	მე მოგცემ ვაშლს.
+The train came on time.	მატარებელი დროზე მოვიდა.
+They are very cheerful.	ძალიან მხიარული არიან.
+Today is a working day.	დღეს სამუშაო დღეა.
+Who lent you that book?	ვინ გათხოვა ეს წიგნი?
+You have my permission.	შენ გაქვს ჩემი ნებართვა.
+You need my permission.	შენ გჭირდება ჩემი ნებართვა
+A bear can climb a tree.	დათვს შეუძლია ხეზე ცოცვა.
+I like studying history.	მე მიყვარს ისტორიის სწავლა.
+I'd like three of these.	სამი ცალი მომეცით გეთაყვა.
+I'll give you a present.	მე მოგცემ საჩუქარს.
+Please extend this visa.	გთხოვთ გააგრძელოთ ეს ვიზა.
+Who gave you permission?	ვინ მოგცა ნებართვა?
+I want a good dictionary.	კარგი ლექსიკონი მინდა.
+I'm the man of the house.	მე სახლის კაცი ვარ.
+The flowers are blooming.	ყვავილები ყვავდებიან.(აყვავილების პროცესი)
+You must clean your room.	შენი ოთახი უნდა დაალაგო.
+Do you have a middle name?	შუა სახელი გაქვს?
+He's the man of the house.	ის სახლის კაცია.
+I didn't work last Monday.	წინა ორშაბათს არ მიმუშავია.
+I will tell you the truth.	სიმართლეს გეტყვი.
+She cut the apple in half.	მან ვაშლი შუაზე გაჭრა.
+Tom lives in a huge house.	ტომი უდიდეს სახლში ცხოვრობს.
+You can go if you want to.	შეგიძლია წახვიდე თუ გინდა.
+I don't think Tom is right.	არ მგონია რომ ტომი სწორია.
+I want to talk to you, Tom.	მინდა შენთან ლაპარაკი, ტომო.
+Read after me all together.	ყველამ გაიმეორეთ ჩემს შემდეგ.
+We have to make the change.	ჩვენ უნდა შევიტანოთ ცვლილება.
+We've resolved the problem.	ჩვენ მოვაგვარეთ პრობლემა.
+Every hotel in town is full.	ყველა სასტუმრო ქალაქში სავსეა.
+I think Tom lives in Boston.	მე მგონი ტომი ბოსტონში ცხოვრობს.
+No more than 50 people came.	50 კაცამდე მოვიდა.
+She is dressed like a bride.	პატარძალივით აცვია.
+There is a book on the desk.	მერხზე წიგნია.
+Tom is a good soccer player.	ტომი კარგი ფეხბურთელია.
+Which one of those is yours?	აქედან შენი რომელია?
+I don't think that's allowed.	არ მგონია რომ ეგ დაშვებულია.
+I've attempted suicide twice.	თავის მოკვლა ორჯერ ვცადე.
+It didn't even cross my mind.	აზრადაც არ მომსვლია.
+Tom is left-handed, isn't he?	ტომი ცაციაა, არა?
+You are in need of a holiday.	შენ დასვენება გჭირდება.
+You are in need of a holiday.	შენ შვებულებაში გასვლა გჭირდება.
+I can't believe you'd do that.	არ მჯერა რომ მაგას იზამდი.
+I know that Tom is very lucky.	ვიცი რომ ტომს ძალიან გაუმართლა.
+I learned to live without her.	მის გარეშე ცხოვრებას შევეჩვიე.
+I'm still changing my clothes.	მე კიდევ ტანსაცმელს ვიცვლი.
+Please ask Tom to come inside.	გთხოვ უთხარი ტომს რომ შიგნით შემოვიდეს.
+The train arrived on schedule.	მატარებელი დროზე მოვიდა.
+There's a cake inside the box.	ყუთში ტორტია.
+Tom and I are both therapists.	ტომი და მე თერაპისტები ვართ.
+Why do you need my permission?	რატომ გჭირდება ჩემი ნებართვა?
+I'm not asking your permission.	მე არ გთხოვთ თქვენ ნებართვას.
+I've made a mistake, haven't I?	შეცდომა დავუშვი, არა?
+I've seen you somewhere before.	სადღაც მინახავხარ.
+Please accept this little gift.	გთხოვ მიიღე ეს პატარა საჩუქარი.
+Please wait for thirty minutes.	ნახევარი საათი მოიცადე.
+Tom won three thousand dollars.	ტომმა სამი ათასი დოლარი მოიგო.
+What did you say your name was?	რა თქვი რა გქვია?
+Who would do a thing like that?	ვინ იზამდა ეგეთ რამეს?
+Can you cut my sandwich in half?	შეგიძლია სენდვიჩი შუაზე გამიჭრა?
+Do you realize what you've done?	აცნობიერებ რა გააკეთე?
+I didn't want to move to Boston.	არ მინდა ბოსტონში გადასვლა.
+I left my umbrella on the train.	ქოლგა მატარებელში დავტოვე.
+I told Tom that I wasn't hungry.	ტომს ვუთხარი რომ მშიერი არ ვიყავი.
+I'm a member of the tennis club.	მე ამ ტენის კლუბის წევრი ვარ.
+I've gotten used to being alone.	მარტო ყოფნას მივეჩვიე.
+Life cannot exist without water.	ცხოვრება არ იარსებებდა წყლის გარეშე.
+Tom is a teacher, too, isn't he?	ტომიც მასწავლებელია, არა?
+I'm cold. May I close the window?	მცივა. შეიძლება ფანჯარა დავხურო?
+It's a great pleasure to be here.	ძალიან სასიამოვნოა, რომ აქ ვარ.
+No one should desert his friends.	არავინ არ უნდა მიატოვოს თავისი მეგობარი.
+Our meeting was quite accidental.	ჩვენი შეხვედრა შემთხვევითი იყო.
+Over 30 people committed suicide.	30-ზე მეტმა ადამიანმა თავი მოიკლა.
+The mail is delivered once a day.	წერილი ბარდება დღეში ერთხელ.
+Tom got a text message from Mary.	ტომმა მერისგან შეტყობინება მიიღო
+Tom is Mary's neighbor, isn't he?	ტომი მარის მეზობელია, არა?
+Tom wears jeans almost every day.	ტომს ჯინსი აცვია თითქმის ყოველდღე.
+I can't predict what might happen.	ვერ ვივარაუდებ რა შეიძლება მოხდეს.
+I didn't tell him you were coming.	მისთვის არ მითქვამს რომ მოდიოდი.
+I found the book very interesting.	ამ წიგნმა ძალიან დამაინტერესა.
+I saw a beautiful waterfall there.	მე იქ ლამაზი ჩანჩქერი დავინახე.
+Tom was sitting at a nearby table.	ტომი ახლომახლო მაგიდასთან იჯდა.
+Do you have any other bright ideas?	სხვა ნათელი იდეა ხომ არ გაქვს?
+Let's find out who stole our money.	მოდი გავარკვიოთ, ვინ მოიპარა ჩვენი ფული.
+There is no simple road to success.	წარმატების მისაღწევად მარტივი გზა არ არსებობს.
+Yesterday was Sunday, not Saturday.	გუშინ იყო კვირა, შაბათი კი არა.
+Don't tell anyone about what we did.	არავის არ უთხრა რა ვქენით.
+I had a lot of fun talking with Tom.	ძალიან გავერთე ტომთან საუბრით.
+Tom says he likes living by himself.	ტომი ამბობს, რომ მარტო ცხოვრება მოსწონს.
+Tom has never actually taught French.	ტომს არასდროს უსწავლებია ფრანგული.
+He never hears what I'm trying to say.	არასოდეს არ ისმენს რისი თქმაც მინდა.
+Tom said that Mary was born in Boston.	ტომმა თქვა რომ მარი ბოსტონში დაიბადა.
+A man on horseback came along the path.	ცხენზე შემჯდარმა კაცმა ჩამოგვიარა.
+I don't know whether it is true or not.	არ ვიცი სიმართლეა თუ ტყუილი.
+Tom has been married for some time now.	ტომი უკვე რამდენიმე ხანია დაქორწინებულია
+We caught a lot of fish this afternoon.	ამ შუადღეს ბევრი თევზი დავიჭირეთ
+We'll talk to Tom then make a decision.	ჩვენ დაველაპარაკებით ტომს და გადაწყვეტილებას მივიღებთ.
+What is this animal called in Japanese?	ამ ცხოველს იაპონურად რა ქვია?
+He must have gone to see his old friend.	ალბათ თავისი ძველი მეგობრის სანახავად წავიდა.
+It's going to be hard to find a job now.	ახლა რთული იქნება სამსახურის პოვნა.
+Tom had trouble resolving the situation.	ტომს უჭირდა სიტუაციის გამოსწორება.
+Tom hasn't been to a bar in a long time.	ტომი დიდი ხანია ბარში არ ყოფილა.
+What is your ultimate goal in your life?	რა არის შენი ცხოვრების მიზანი?
+What time does your watch say it is now?	რა დროს აჩვენებს შენი საათი?
+You will never get bored in her company.	მის კომპანიაში არასოდეს მოიწყენ.
+I know where we can get something to eat.	ვიცი სადაცშეგვიძლია რაიმეს მირთმევა.
+I'll give this apple to whoever wants it.	ამ ვაშლს ვისაც უნდა იმას მივცემ.
+The new store is going to open next week.	ახალი მაღაზია მომავალ კვირას გაიხსნება.
+Tom and his brother are not at all alike.	ტომი და თავისი ძმა ერთმანეთს არ გვანან.
+Why is Mary going with him to the picnic?	რატომ მიდის მარი მასთან ერთად პიკნიკზე?
+I don't want to go outside this afternoon.	სახლიდან გასხვლა არ მინდა ამ საღამოს.
+Mary wasn't one of the most popular girls.	მარი ერთ-ერათი ყველაზე პოპულარული გოგო იყო.
+My father has never been sick in his life.	მამაჩემი არასდროს ყოფილა ცუდად თავის ცხოვრებაში.
+Our school has twenty-four classes in all.	ჩვეს სკოლას ჯამში აქვს ოცდაოთხი კლასი.
+Tom didn't know he didn't have to do that.	ტომმა არ იცოდა, რომ მას ეს არ უნდა ექნა.
+Mary was not one of the most popular girls.	მარი ერთ-ერათი ყველაზე პოპულარული გოგო იყო.
+Tom is arriving soon. You should get ready.	ტომი მალე მოვა. უნდა გაემზადო.
+I don't think Tom has ever done that before.	არ მგონია რომ ტომს ოდესმე ეგ უქნია.
+I don't want to work under these conditions.	მე მუშაობა არ მინდა ასეთ პირობებში.
+I only have toast and coffee in the morning.	დილაობით მხოლოდ ტოსტს და ყავას მივირთმევ.
+Tom said that we shouldn't leave until 2:30.	ტომმა თქვა რომ 2:30–მდე არ უნდა წავიდეთ.
+Didn't you know Tom was still studying French?	იცოდი რომ ტომი კიდევ სწავლობს ფრანგულს?
+The coffee at this restaurant isn't very good.	ყავა ამ რესტორანში არაა ძალიან კარგი
+Tom is hesitant to visit Mary in the hospital.	ტომი თავს იკავებს რომ მერის ესტუმროს საავადმყოფოში.
+I know that you might think that I'm too young.	ვიცი, ალბათ ფიქრობ, რომ ზედმეტად ახალგაზრდა ვარ.
+It looks like it's going to be another nice day.	როგორც ჩანს, კიდევ ერთი სასიამოვნო დღე იქნება.
+I was absorbed in a book and didn't hear you call.	წიგნმა "ჩამითრია" და შენი ხმა ვერ გავიგე.
+Tom said he'd be able to do that without any help.	ტომმა თქვა რომ ამის გაკეთებას შეძლებდა დახმარების გარეშე.
+Tom told me that he plans on staying at the Hilton.	ტომმა მითხრა რომ ჰილტონში აპირებს დარჩენას.
+After the war was over, everything had to be rebuilt.	ომის დამთავრების შემდეგ, ყველაფერი თავიდან იყო ასაშენებელი.
+The police took immediate action to deal with the riot.	პოლიციამ დაუყოვნებლივი ქმედება მიიღო, აჯანყებასთან გასამკლავებლად.
+We agreed to refrain from smoking while we are at work.	ჩვენ შევთანხმდით, რომ სამსახურში თავს შევიკავებდით მოწევისაგან.
+It's not going to be as hard to do as you think it'll be.	არ იქნება ისეთი რთული გასაკეთებელი როგორიც შენ გგონია.
+I never thought it'd be this easy to hack into your website.	არასდროს მეგონა რომ ასეთი ადვილი იქნებოდა შენს ვებსაიტში დაჰაკვა.
+I'm pretty sure that Tom didn't know Mary was going to do that.	დარწმუნებული ვარ, ტომმა არ იცოდა, რომ მერი ამის გაკეთებას აპირებდა.
+Present-day Japan is going down the route to self destruction, isn't it?	დღესდღეობით იაპონია მიდის თვითგანადგურების გზაზე, არა?
+Tom is having trouble coping with the fact that his son committed suicide.	ტომს უჭირს გაუმკლავდეს ფაქტს, რომ მისმა შვილმა თავი მოიკლა.
+Do you drink coffee? If so, how many cups of coffee do you drink every day?	ყავას სვამ? თუ კი, დღეში რამდენ ჭიქა ყავას სვამ?
+The bear left no stone unturned in his search for fat bugs under the rocks.	დათვმა არცერთი ქვა არ დატოვა ამოუტრიალებელი მსუქალი ხოჭოების ძებნისას.
+A woman wrote 30 books about how to become happy, and then committed suicide.	ქალმა 30 წიგნი დაწერა იმაზე, თუ როგორ გავხდეთ ბედნიერი, და შემდეგ თავი მოიკლა.
+Certainly he is handsome and intelligent, but there is something about him that I can't like.	ის ნამდვილად სიმპათიური და ინტელიგენტურია, მაგრამ რაღაც არის რაც არ მომწონს.

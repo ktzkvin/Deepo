@@ -1,0 +1,172 @@
+Goodbye!	Da bo chi!
+Goodbye.	Da bo chi.
+I'm fine.	Dw i'n braf.
+It's hot.	Mae’n boeth.
+I'm happy.	Dwi'n hapus.
+I'm happy.	Dwi’n hapus.
+I'm tired.	Dw i wedi blino.
+Keep them.	Cadwch nhw.
+I had a cat.	Roedd gen' i gath.
+I'm driving.	Dw i’n gyrru.
+I don't know.	Dwi ddim yn gwybod.
+Stay with us.	Arhoswch gyda ni.
+We are happy.	'Rydyn ni'n hapus.
+I have a book.	Mae gennyf lyfr.
+I have a book.	Mae llyfr gen i.
+Is that a cat?	Cath ydy honno?
+May I go home?	Ga' i fynd adref?
+I'm behind him.	'Rwyf tu ôl iddo.
+How old are you?	Faint ydy dy oed di?
+I have two cats.	Mae dwy gath gen' i.
+I've got a book.	Mae llyfr gen i.
+We have to stop.	Rhaid i ni stopio.
+Do you live here?	Wyt ti'n byw yma?
+I begin tomorrow.	Dw i'n dechrau yfory.
+I have hay fever.	Mae clefyd y gwair arnaf i.
+I'm not sleeping.	Dydw i ddim yn cysgu.
+She is beautiful.	Mae hi'n brydferth.
+Do you understand?	Wyt ti'n deall?
+Do you understand?	Ydych chi'n deall?
+Don't forget that.	Paid ag anghofio hynny.
+Don't forget that.	Na anghofier hynny.
+Don't let Tom run.	Paid â gadael i Tom redeg.
+How tired are you?	Pa mor flinedig wyt ti?
+I got another job.	Mae swydd arall gen i.
+I got another job.	Ces i swydd arall.
+I want to go home.	Dw i eisiau mynd adref.
+It'll happen soon.	Bydd yn digwydd yn fuan.
+The water's clean.	Mae’r dŵr yn lân.
+They will survive.	Byddant yn goroesi.
+Tom is testing me.	Mae Tom yn fy mhrofi i.
+Do you like cheese?	Wyt ti’n hoffi caws?
+I often eat apples.	Dw i'n bwyta afalau'n aml.
+I'm quite stubborn.	Dw i'n eitha' styfnig.
+The water is clean.	Mae’r dŵr yn lân.
+Whales are mammals.	Mae morfilod yn famaliaid.
+What a pretty girl!	Am ferch ddel!
+What are you doing?	Beth wyt ti'n wneud?
+Where are you from?	O le 'dych chi'n dod?
+Where is her house?	Ble mae'i thŷ?
+Where is his house?	Ble mae'i dŷ?
+Whose food is this?	Pwy sy' bia'r bwyd yma?
+Did they come today?	Heddiw ddaethon nhw?
+He lives in England.	Mae o’n byw yn Lloegr.
+I'm pretty stubborn.	Dw i'n eitha' styfnig.
+This is my computer.	Dyma fy nghyfrifiadur.
+Tom has gone to bed.	Mae Tom wedi mynd i'r gwely.
+Tom has large hands.	Mae gan Tom ddwylo mawrion.
+Tom went to the gym.	Aeth Tom i'r gampfa.
+We can't fight this.	Gallem frwydro hyn.
+When will you begin?	Pryd dechreuwch chi?
+When will you start?	Pryd dechreuwch chi?
+You were right, too.	'Roeddet ti'n iawn, hefyd.
+I have a credit card.	Mae gennyf gerdyn gredid.
+There's no beer here.	Nid oes cwrw yma.
+Tom knows where I am.	Mae Tom yn gwybod lle ydw i.
+We have enough water.	Mae gennym ddigon o ddŵr.
+Do you like this city?	Ydych chi'n hoffi'r ddinas hon?
+I don't speak Swedish.	Dydw i ddim yn siarad Swedeg.
+I got out of the taxi.	Des i allan o'r tacsi.
+I just don't like you.	Dw i jyst ddim yn dy hoffi di.
+Don't let Tom bite you.	Paid â gadael i Tom dy frathu di.
+I like speaking French.	Dw i'n hoffi siarad Ffrangeg.
+Tom was confident, too.	Roedd Tom yn hyderus, hefyd.
+I go fishing every week.	Bob wythnos yr â i bysgota.
+I'm sorry if I hurt you.	Mae'n ddrwg gennyf os y'th frifais.
+No one but Tom did that.	Neb ond Tom wnaeth hynny.
+Nobody but Tom did that.	Neb ond Tom wnaeth hynny.
+That book is a new book.	Llyfr newydd yw'r llyfr hwnnw.
+The boy is eating bread.	Mae'r bachgen yn bwyta bara.
+They have two daughters.	Mae ganddyn nhw ddwy ferch.
+We've got to try harder.	Mae'n rhaid i ni geisio'n galetach.
+You have a lot of books.	Mae gennych lawer o lyfrau.
+I have to write a letter.	Mae'n rhaid i mi ysgrifennu llythyr.
+I'm going to be an uncle.	Dw i'n mynd i fod yn ewythr.
+Keep this lesson in mind.	Cadwch y wers hon yn y cof.
+My husband is a good man.	Mae fy ngŵr yn ddyn da.
+Tokyo is a very big city.	Mae Tokyo'n ddinas fawr iawn.
+What are you doing today?	Beth wyt ti'n 'neud heddiw?
+Why do you want to leave?	Pam wyt ti eisiau gadael?
+I don't have a ticket yet.	Does gen' i ddim tocyn eto.
+She wants to be a heroine.	Mae hi eisiau bod yn arwres.
+Support is very important.	Mae cefnogaeth yn bwysig iawn.
+We decided not to do that.	Penderfynom beidio â gwneud hynny.
+Your mother is very young.	Mae dy fam yn ifanc iawn.
+He's doing something there.	Mae o'n gwneud rhywbeth yno.
+Her villa sits on the hill.	Saif ei fila ar y bryn.
+I already know some French.	Dw i'n gwybod tipyn bach o Ffrangeg yn barod.
+That's what my mom told me.	Dyna ddywedodd fy mam wrtha' i.
+Where did you put your key?	Lle rhoddaist dy agoriad?
+He will be writing a letter.	Bydd o'n ysgrifennu llythyr.
+I'd like to know what it is.	Hoffwn wybod beth yw hi.
+I'm convinced Tom is guilty.	Dw i'n sicr bod Tom yn euog.
+I'm not sure Tom likes that.	Dw i ddim yn siŵr bod Tom yn hoffi hynny.
+Is English spoken in Canada?	A siaredir Saesneg yng Nghanada?
+Tom is helping us with that.	Mae Tom yn ein helpu efo hynny.
+Who do you play tennis with?	Gyda phwy wyt ti'n chwarae tenis?
+Have you ever sung in French?	Ydych chi erioed wedi canu mewn Ffrangeg?
+I see your cat in the garden.	Gwelaf dy gath yn yr ardd.
+I'd like to live in New York.	Hoffwn i fyw yn Efrog Newydd.
+One language is never enough.	Nid yw un iaith byth yn ddigon.
+We haven't turned a stove on.	Dydyn ni ddim wedi troi stôf ymlaen.
+How many children do you have?	Sawl plentyn sy’ gen ti?
+Is it you who'll buy the food?	Ai ti brynith y bwyd?
+Do you think Tom is still poor?	Wyt ti'n meddwl bod Tom dal yn dlawd?
+I'm glad you're over your cold.	Dwi'n falch eich bod chi dros eich annwyd.
+One of my friend's dogs is fat.	Mae un o gŵn fy ffrind yn dew.
+Tom says he's waiting for Mary.	Dywedodd Tom ei fod yn aros am Mari.
+It's not going to happen to Tom.	Dydy hi ddim yn mynd i ddigwydd i Tom.
+He found the box under the table.	Daeth o hyd i focs o dan y bwrdd.
+I'm not sure that Tom likes that.	Dw i ddim yn siŵr bod Tom yn hoffi hynny.
+You know how to drive, don't you?	Rwyt ti'n gwybod sut i yrru, 'dwyt?
+How did Tom know where Mary lived?	Sut oedd Tom yn gwybod lle 'roedd Mari'n byw?
+I don't know what Tom did with it.	Dw i ddim yn gwybod beth wnaeth Tom gyda hi.
+I think that I'm fluent in French.	Dw i'n meddwl fy mod i'n rhugl yn y Ffrangeg.
+Tom allowed Mary to drive his car.	Caniataodd Tom i Mair yrru'i gar.
+Tom should've been sent to prison.	Ddylai Tom ddim wedi cael ei anfon i'r carchar.
+Brussels is the capital of Belgium.	Mae Brwsel yn brifddinas Gwlad Belg.
+To obey the law is everyone's duty.	Dyletswydd ar bawb yw dilyn y gyfraith.
+Tom didn't want to be a pharmacist.	Doedd Tom ddim eisiau bod yn fferyllydd.
+Tom got hurt in a traffic accident.	Cafodd Tom ei anafu mewn damwain draffig.
+Forty-eight sailors are on the ship.	Mae wyth morwr ar ddeugain ar y llong.
+I couldn't do anything at that time.	Do'n i methu gwneud dim ar y pryd.
+I'm waiting for the light to change.	Dw i'n aros i'r golau newid.
+Is this the right way to the museum?	Ai dyma’r ffordd iawn i’r amgueddfa?
+Since it was raining, I stayed home.	Gan fod yn bwrw glaw, arhosais adref.
+You don't know how much money I owe.	Dwyt ti ddim yn gwybod faint o arian sy' arnaf i.
+I keep hearing good things about Tom.	Dw i o hyd yn clywed pethau da am Tom.
+Tom is better at the piano than I am.	Mae Tom yn well ar y piano na fi.
+Tom is responsible for this accident.	Mae Tom yn gyfrifol am y ddamwain hon.
+You know that I can't sing very well.	Rwyt ti'n gwybod nad ydw i'n dda iawn yn canu.
+I know Tom doesn't know Mary did that.	Dw i'n gwybod nad ydy Tom yn gwybod y gwnaeth Mari hynny.
+There is a kite flying above the tree.	Mae barcut yn hedfan uwch ben y goeden.
+Tom and I have been friends for years.	Mae Tom a fi wedi bod yn ffrindiau am flynyddoedd.
+Tom said he wasn't worried about that.	Dywedodd Tom nad oedd yn poeni am hynny.
+You didn't tell Tom anything, did you?	Ni ddywedaist ddim wrth Tom, naddo?
+All of our students are studying French.	Mae pob un o'n myfyrwyr yn astudio Ffrangeg.
+Both Tom and Mary speak French fluently.	Mae Tom a Mair ill dau'n siarad Ffrangeg yn rhugl.
+Does Tom have to stay in Boston all week?	Oes rhaid i Tom aros ym Moston trwy'r wythnos?
+We have to leave at the end of the month.	Mae’n rhaid i ni adael ar ddiwedd y mis.
+I'll never tell anyone who you really are.	Ddyweda i byth wrth neb pwy wyt ti mewn gwirionedd.
+Tom promised to go to Australia with Mary.	Addawodd Tom i fynd i Awstralia gyda Mair.
+I don't want to know why you don't like me.	Dw i ddim eisiau gwybod pam nad wyt ti'n fy hoffi.
+He always eats eggs without salt and pepper.	Mae o wastad yn bwyta wyau heb halen a phupur.
+Tom's got a tremendous amount of work to do.	Mae gan Tom bentwr o waith i'w wneud.
+I noticed a new set of footprints in the snow.	Sylweddolais ar bâr ffres o ôl-troed yn yr eira.
+Tom didn't know there were wolves in the area.	Doedd Tom ddim yn gwybod bod bleiddiau yn yr ardal.
+While you drive, you should focus on the road.	Wrth i ti yrru, dylet ganolbwyntio ar y ffordd.
+Success can only be achieved through hard work.	Ni chyflawnir llwyddiant trwy waith caled.
+Success can only be achieved through hard work.	Egni a lwydd.
+I know that Tom doesn't know that Mary did that.	Dw i'n gwybod nad ydy Tom yn gwybod y gwnaeth Mari hynny.
+I think nothing is more important than friendship.	Dw i'n meddwl bod dim byd yn bwysicach na chyfeillgarwch.
+There's a man at the door who wants to talk to you.	Mae dyn wrth y drws sy' eisiau siarad efo ti.
+Tom didn't know that there were wolves in the area.	Doedd Tom ddim yn gwybod bod bleiddiau yn yr ardal.
+I thought college would be a more interesting place.	Ro'n i'n meddwl byddai'r coleg yn lle mwy diddorol.
+There's a man at the door who wants to speak with you.	Mae dyn wrth y drws sy' eisiau siarad efo ti.
+I added a picture and hope that you find it appropriate.	Ychwanegais lun a gobeithio dy fod ti'n ei weld yn addas.
+If it weren't for music, the world would be a boring place.	Pe na bai cerddoriaeth, byddai'r byd yn lle diflas.
+I don't think Tom will ever be able to sing as well as Mary.	Dydw i ddim yn meddwl bydd Tom byth yn medru canu cystal â Mari.
+I think that Tom lived in Boston when he was in high school.	Dw i'n meddwl bod Tom yn byw ym Moston pan oedd o yn yr ysgol uwchradd.
+Tom told the police detective that he didn't recognize the man in the photo.	Dywedodd Tom wrth y detectif heddlu nad oedd yn adnabod y dyn yn y llun.
+I see you have your guitar with you. Are you planning on playing something for us?	Dw i'n gweld bod gen ti dy gitâr efo ti. Wyt ti'n bwriadu chwarae rhywbeth i ni?
+A man who has never gone to school may steal from a freight car, but if he has a university education, he may steal the whole railroad.	Byddai modd i ddyn na aeth i'r ysgol ddwyn o drên nwyddau, ond pe bai addysg brifysgol ganndo, byddai modd iddo ddwyn y rheilffordd i gyd.
