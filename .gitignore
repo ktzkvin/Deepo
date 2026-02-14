@@ -12,6 +12,7 @@ test-results/
 .dvc/cache/
 
 raw_data/
+clean_data/
 zip_data/
 
 draft.py
