@@ -14,5 +14,6 @@ test-results/
 raw_data/
 clean_data/
 zip_data/
+datasets/
 
 draft.py
