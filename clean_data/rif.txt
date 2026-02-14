@@ -1,169 +1,169 @@
-Run!	Azzer!
-Stop here.	Bed danita.
-Come to me.	As-dd ɣar-i
-Come to us.	As-dd ɣar-neɣ
-I miss you.	Zuyṯɣ-cek
-How are you?	Mamec Tedjid
-It's spring.	D-tafsut
-Don't scream.	Wer sɣuyu
-I like bears.	Nec xseɣ ibubazen.
-I like bears.	Nec xseɣ ulusen.
-I like bears.	Nec xseɣ urseren.
-Stay with me.	qqim kid-i
-Open the door.	Arzem tawaart.
-Where are you?	Mani qac
-Where are you?	Mani Ṯedjiḏ
-Clean the room.	Sizdiy Axxam!
-It's your move.	Nnuba nec.
-This is a bear.	Wanita abubaz.
-You talk a lot.	Tesawred aṭṭas
-Open the window.	Arzem serjem.
-Tom must choose.	Ixṣa ad yixḍar tom
-Where can we go?	Mani nezmmr anruḥ?
-Where can we go?	Mani nezmmr anraḥ?
-He went shopping.	Iruḥ ad isewweq
-Where can Tom be?	Mani izemmr ad yiři?
-Where can Tom be?	Mani izmmer ad yili Tom?
-I'm not from here.	Necc wadjiɣ bu sa
-Tom went to lunch.	Tom iraḥ ad yecc
-Tom went to lunch.	Tom iraḥ ad icc
-Where can they be?	Mani zemmren ad iři?
-Where can they be?	Mani zemmren ad ilin?
-Where do you live?	Mani tezdeɣ?
-Our house is small.	Taddart neɣ tamzyant.
-Where are you from?	Manis cek?
-Which boy did that?	Man aḥnjar iegg manaya?
-Put your phone down.	Sars tilifun nec.
-Where did Tom point?	Mani yeswiẓḍ Tom?
-Why are you running?	Mayemi tazzer?
-Does this hold water?	Wa ma ikkesi aman?
-Drowsy driving kills.	iḍṣ di tandaht ineqq.
-Drowsy driving kills.	Anudem deg undah ineqq.
-Education is crucial.	Ařmad d-ijjen n wacq d-ameqqran aṭṭas
-Everyone has a voice.	Kuř Ataras Ɣar-s tinɣt
-Everything looks bad.	Kulci tbanen muɣnen.
-Gather up your stuff.	Smun txanuct-nec
-Gather up your stuff.	Smun aruḍ-nec
-Go easy on the booze.	Wer teɣla ca s-waṭṭas
-God will forgive you.	Ad ak yewdam wakuc
-God will forgive you.	Ad ac isamḥ rebi
-I bought a new house.	Sɣiɣ ijen taddart tamaynut.
-Tom doesn't eat fish.	Tom waittettca aselman.
-Tom truly loved Mary.	Tom ixseɣ Mary s tidett.
-Tom truly loved Mary.	Tom nican ixseɣ Mary.
-Are you all listening?	Ma tsriɣ?
-I'm used to it by now.	Numɣ manaynni lux
-I'm used to it by now.	Numɣ manaynni řuxanni
-I'm very unhappy here.	Wadjiɣ bu mliḥ da
-I'm very unhappy here.	Wer lliɣ bu mliḥ da
-I'm waiting for lunch.	Qa trajiɣ amecři
-I'm waiting for lunch.	Qa trajiɣ amecli
-I'm watching the news.	Qa ẓarɣ inɣmisen
-I'm watching the news.	Qa tfyrujɣ di rxba
-This is a great place.	Amcan-a isbeḥ.
-Tom finally confessed.	Deg ungaru yenna-t Tom.
-Tom gave Mary nothing.	Tom wer yuci walu i Mary
-Tom gave Mary the gun.	Tom yuca i Mary lagrata
-Tom got all emotional.	Tedweř Tom d-uḥnin
-Tom got back into bed.	Yedwal Tom Ar qama
-Tom got back into bed.	Yedwař Tom Ar qama
-Where did the time go?	Mani yeggur lwqt?
-Where did the time go?	Mani yeggur wakuḍ?
-Mary has lost her keys.	Mary twḍḍar swaret nes.
-Where are we going now?	Mani teggurd Lux?
-Where are we going now?	Mani teggurd řux?
-Where are we going now?	Mani teggurd řexxu?
-Where are we going now?	Mani teggurd řexxtu?
-Where are we going now?	Mani teggurd lexxtu?
-Where are we going now?	Mani teggurd leqqu ?
-Where are we going now?	Mani teggurd Lexxu?
-Where did Tom get that?	Manis i dd-yegguy Tom manaynni?
-Where did Tom take you?	Mani c yegguy Tom?
-Where did Tom take you?	Mani cem yegguy Tom?
-Where did Tom take you?	Mani i c yegguy Tom?
-Where did Tom take you?	Mani c yewwuy Tom?
-Why did Tom abandon me?	Maɣer da-yi yejjq tum
-I want to stay with you.	Nec xseɣ ad qim akidk.
-Tom agreed to come back.	Yexs Tom Ad yedwar
-Tom agreed to help Mary.	Yexs Tom ad iɛwen Mary
-Tom asked Mary to lunch.	Tom, yetar zi Mary ad yeččen amecri
-Tom doesn't like onions.	Tum wer yetaxes ṭabsrt
-Tom has to approve this.	Tom, ixṣa-yi ad yexs manaya
-What do you want to say?	Min texsed atinnid
-Where are you all going?	Mani teggurd maṛṛa kid-wem?
-Where did Tom take Mary?	Mani yegguy Tom Mary?
-Where did Tom take Mary?	Tom mani yegguy Mary?
-Where did they get that?	Manis i dd-gguyen manaynni?
-Where did they get that?	Manis i dd-wwuyen manaynni?
-Where did they take Tom?	Mani uyen Tom?
-Where did they take Tom?	Mani isin Tom?
-Where did you get these?	Manis i dd-tewwuyd ta?
-Excuses won't work on me.	Wer ɣar Min da-yi ɣa ṯinniḏ ɛqḏ
-Excuses won't work on me.	Wer ɣar-k yeqqim Min da-yi - a ṯinniď!
-He lives in a huge house.	Netta izdeɣ g ijen taddart tameqrant.
-Do we have to do all that?	Ma ixes ad negg manaya marra?
-Where are they taking you?	Mani C tawuyen?
-Where are they taking you?	Mani cek tawuyen?
-Where are we going anyway?	Mani neggur waha?
-Where are you going to be?	Min ɣa texdmd zi sa tswant?
-Do you want me to help you?	? Zemmreɣ ac ɛwnɣ
-Everyone has their own way.	Kur ijjen d-abrid-nnes
-Tom walked back to his car.	Tom iɛqeb ar tumubin nes.
-Where are they going to go?	Mani gguren?
-Where are you going anyway?	Mani teggurd waha?
-Where did you get the eggs?	Manis i dd-tewwuyd timǧarin nni?
-Where did you get the eggs?	Manis i dd-tewwuyd timllalin nni?
-When's that going to happen?	Meřmi ɣa yiři
-Where are all our suitcases?	Mani ǧan maṛṛa i qurab-neɣ?
-Where are all our suitcases?	Iqurab-neɣ maṛṛa mani ǧan?
-Where are all our suitcases?	Mani llan maṛṛa Iqurab-neɣ?
-Where are you going to live?	Mani ɣa tezzdɣed?
-Where are you going to live?	Mani ɣa ṯiřid?
-Where are you going to live?	Mani ɣa teddred?
-Where are you going to live?	Mani ɣa tilid?
-Where did they get all this?	Manis d-assen-dd yekka manaya?
-Where did you get all these?	Manis d-ac-dd yekka manaya?
-Where did you get all these?	Manis d-am-dd yekka manaya?
-Where did you get that idea?	Manis d-ac-dd tekka tawngimt nni?
-Where did you get that idea?	Manis d-ac-dd yekka uxariṣ nni?
-Where did you get the money?	Manis i dd-tewwuyd tinɛacin?
-Where are you going to sleep?	Mani teggurd ateṭṣd
-Where are you going to sleep?	Mani teggurd ad teṭṣd?
-Where did this one come from?	Manis i dd-yekka manaya?
-Where did you get that thing?	Manis i dd-tewwuyd manaynni?
-Where did you get that water?	Manis i dd-tewwuyd aman nni?
-Where're we going for dinner?	Mani neggur anečč amensi
-Where are you going with this?	Mani teggurd akeḏ wa?
-Where are you going with this?	Mani teggurd aked wanita?
-Where are you going with this?	Mani teggurd ked wa?
-Where are we getting the money?	Manis i dd ɣa nawuy izřwaɣ?
-Where are we getting the money?	Manis i dd ɣa nawuy tinɛacin?
-Where are you going with those?	Mani teggurd akeḏ yina?
-Where are you going with those?	Mani teggurd ked yina?
-Where are you going with those?	Mani teggurd ked tina?
-Where did you find her picture?	Mani tufiɣ tawlaft nes?
-Where did you get on the train?	Mani texxd ar maccina?
-Where did you get on the train?	Mani tewḍed ɣar maccina?
-At least three people were hurt.	Netḥaka nedfan tlata n tarasen.
-I fell asleep while watching TV.	Ṭṣɣ nec ẓarɣ tifaza.
-I fell asleep while watching TV.	Ṭṣɣ nec tfyrujɣ di talfaza.
-Tom is much wiser than he looks.	Tom yeqqza attas zeg Ami nessen.
-Tom is much wiser than he looks.	Tom yeqqza xarebbi zi min tuɣa netḥaka.
-Where did you get these clothes?	Manis i dd-tewwuyd aruḍ-a?
-Why did you make such a mistake?	Maɣer teggid fayu-ya?
-Why did you make such a mistake?	Mayemmi teggid azgil-a
-Why do you want such an old car?	Maɣer texsd am tunubin-a taqdimt?
-Why do you want such an old car?	Mayemmi texsd amcnaw tunubin-a n zic?
-Where did you get these pictures?	Manis i dd-tewwuyd tiwlafin-a?
-Where did you get these pictures?	Manis i dd-tewwuyd tawlaft-a?
-Tom thought Mary was John's cousin.	Yetɣir Tom qa Mary d-yeǧis n ɛzizs n John's
-Personally, I can't see a difference.	S-ixef-inu wer zemmerɣ ad ẓrɣ beṭṭu
-What did you do with your old guitar?	Min teg s lguitar aqbur nec?
-Where are you going on your honeymoon?	Mani ɣa truḥd awarenni urar-nem?
-Where are you going on your honeymoon?	Mani ɣa truḥd awarenni urcař-nem?
-Where are you going on your honeymoon?	Mani ɣa truḥd awarenni tamɣra-nem?
-Where did you get all this information?	Manis d-ac-dd kkint tilɣa-ya maṛṛa?
-I don't want to embarrass you in front of your friends.	Wer xsɣ ac snikriɣ zdat imddukkal-nec.
-I don't want to embarrass you in front of your friends.	Wer xsɣ ac snikriɣ zdat imddukkař-nec
-I don't want to embarrass you in front of your friends.	Wer xsɣ ca acek snikriɣ zdat imddukkař-nec
-Tom didn't realize Mary wasn't going to be able to do that.	Tom tuɣa wer yessin qa Mary Wer Temmer ategg manaynni.
+>>rif<< Run!	Azzer!
+>>rif<< Stop here.	Bed danita.
+>>rif<< Come to me.	As-dd ɣar-i
+>>rif<< Come to us.	As-dd ɣar-neɣ
+>>rif<< I miss you.	Zuyṯɣ-cek
+>>rif<< How are you?	Mamec Tedjid
+>>rif<< It's spring.	D-tafsut
+>>rif<< Don't scream.	Wer sɣuyu
+>>rif<< I like bears.	Nec xseɣ ibubazen.
+>>rif<< I like bears.	Nec xseɣ ulusen.
+>>rif<< I like bears.	Nec xseɣ urseren.
+>>rif<< Stay with me.	qqim kid-i
+>>rif<< Open the door.	Arzem tawaart.
+>>rif<< Where are you?	Mani qac
+>>rif<< Where are you?	Mani Ṯedjiḏ
+>>rif<< Clean the room.	Sizdiy Axxam!
+>>rif<< It's your move.	Nnuba nec.
+>>rif<< This is a bear.	Wanita abubaz.
+>>rif<< You talk a lot.	Tesawred aṭṭas
+>>rif<< Open the window.	Arzem serjem.
+>>rif<< Tom must choose.	Ixṣa ad yixḍar tom
+>>rif<< Where can we go?	Mani nezmmr anruḥ?
+>>rif<< Where can we go?	Mani nezmmr anraḥ?
+>>rif<< He went shopping.	Iruḥ ad isewweq
+>>rif<< Where can Tom be?	Mani izemmr ad yiři?
+>>rif<< Where can Tom be?	Mani izmmer ad yili Tom?
+>>rif<< I'm not from here.	Necc wadjiɣ bu sa
+>>rif<< Tom went to lunch.	Tom iraḥ ad yecc
+>>rif<< Tom went to lunch.	Tom iraḥ ad icc
+>>rif<< Where can they be?	Mani zemmren ad iři?
+>>rif<< Where can they be?	Mani zemmren ad ilin?
+>>rif<< Where do you live?	Mani tezdeɣ?
+>>rif<< Our house is small.	Taddart neɣ tamzyant.
+>>rif<< Where are you from?	Manis cek?
+>>rif<< Which boy did that?	Man aḥnjar iegg manaya?
+>>rif<< Put your phone down.	Sars tilifun nec.
+>>rif<< Where did Tom point?	Mani yeswiẓḍ Tom?
+>>rif<< Why are you running?	Mayemi tazzer?
+>>rif<< Does this hold water?	Wa ma ikkesi aman?
+>>rif<< Drowsy driving kills.	iḍṣ di tandaht ineqq.
+>>rif<< Drowsy driving kills.	Anudem deg undah ineqq.
+>>rif<< Education is crucial.	Ařmad d-ijjen n wacq d-ameqqran aṭṭas
+>>rif<< Everyone has a voice.	Kuř Ataras Ɣar-s tinɣt
+>>rif<< Everything looks bad.	Kulci tbanen muɣnen.
+>>rif<< Gather up your stuff.	Smun txanuct-nec
+>>rif<< Gather up your stuff.	Smun aruḍ-nec
+>>rif<< Go easy on the booze.	Wer teɣla ca s-waṭṭas
+>>rif<< God will forgive you.	Ad ak yewdam wakuc
+>>rif<< God will forgive you.	Ad ac isamḥ rebi
+>>rif<< I bought a new house.	Sɣiɣ ijen taddart tamaynut.
+>>rif<< Tom doesn't eat fish.	Tom waittettca aselman.
+>>rif<< Tom truly loved Mary.	Tom ixseɣ Mary s tidett.
+>>rif<< Tom truly loved Mary.	Tom nican ixseɣ Mary.
+>>rif<< Are you all listening?	Ma tsriɣ?
+>>rif<< I'm used to it by now.	Numɣ manaynni lux
+>>rif<< I'm used to it by now.	Numɣ manaynni řuxanni
+>>rif<< I'm very unhappy here.	Wadjiɣ bu mliḥ da
+>>rif<< I'm very unhappy here.	Wer lliɣ bu mliḥ da
+>>rif<< I'm waiting for lunch.	Qa trajiɣ amecři
+>>rif<< I'm waiting for lunch.	Qa trajiɣ amecli
+>>rif<< I'm watching the news.	Qa ẓarɣ inɣmisen
+>>rif<< I'm watching the news.	Qa tfyrujɣ di rxba
+>>rif<< This is a great place.	Amcan-a isbeḥ.
+>>rif<< Tom finally confessed.	Deg ungaru yenna-t Tom.
+>>rif<< Tom gave Mary nothing.	Tom wer yuci walu i Mary
+>>rif<< Tom gave Mary the gun.	Tom yuca i Mary lagrata
+>>rif<< Tom got all emotional.	Tedweř Tom d-uḥnin
+>>rif<< Tom got back into bed.	Yedwal Tom Ar qama
+>>rif<< Tom got back into bed.	Yedwař Tom Ar qama
+>>rif<< Where did the time go?	Mani yeggur lwqt?
+>>rif<< Where did the time go?	Mani yeggur wakuḍ?
+>>rif<< Mary has lost her keys.	Mary twḍḍar swaret nes.
+>>rif<< Where are we going now?	Mani teggurd Lux?
+>>rif<< Where are we going now?	Mani teggurd řux?
+>>rif<< Where are we going now?	Mani teggurd řexxu?
+>>rif<< Where are we going now?	Mani teggurd řexxtu?
+>>rif<< Where are we going now?	Mani teggurd lexxtu?
+>>rif<< Where are we going now?	Mani teggurd leqqu ?
+>>rif<< Where are we going now?	Mani teggurd Lexxu?
+>>rif<< Where did Tom get that?	Manis i dd-yegguy Tom manaynni?
+>>rif<< Where did Tom take you?	Mani c yegguy Tom?
+>>rif<< Where did Tom take you?	Mani cem yegguy Tom?
+>>rif<< Where did Tom take you?	Mani i c yegguy Tom?
+>>rif<< Where did Tom take you?	Mani c yewwuy Tom?
+>>rif<< Why did Tom abandon me?	Maɣer da-yi yejjq tum
+>>rif<< I want to stay with you.	Nec xseɣ ad qim akidk.
+>>rif<< Tom agreed to come back.	Yexs Tom Ad yedwar
+>>rif<< Tom agreed to help Mary.	Yexs Tom ad iɛwen Mary
+>>rif<< Tom asked Mary to lunch.	Tom, yetar zi Mary ad yeččen amecri
+>>rif<< Tom doesn't like onions.	Tum wer yetaxes ṭabsrt
+>>rif<< Tom has to approve this.	Tom, ixṣa-yi ad yexs manaya
+>>rif<< What do you want to say?	Min texsed atinnid
+>>rif<< Where are you all going?	Mani teggurd maṛṛa kid-wem?
+>>rif<< Where did Tom take Mary?	Mani yegguy Tom Mary?
+>>rif<< Where did Tom take Mary?	Tom mani yegguy Mary?
+>>rif<< Where did they get that?	Manis i dd-gguyen manaynni?
+>>rif<< Where did they get that?	Manis i dd-wwuyen manaynni?
+>>rif<< Where did they take Tom?	Mani uyen Tom?
+>>rif<< Where did they take Tom?	Mani isin Tom?
+>>rif<< Where did you get these?	Manis i dd-tewwuyd ta?
+>>rif<< Excuses won't work on me.	Wer ɣar Min da-yi ɣa ṯinniḏ ɛqḏ
+>>rif<< Excuses won't work on me.	Wer ɣar-k yeqqim Min da-yi - a ṯinniď!
+>>rif<< He lives in a huge house.	Netta izdeɣ g ijen taddart tameqrant.
+>>rif<< Do we have to do all that?	Ma ixes ad negg manaya marra?
+>>rif<< Where are they taking you?	Mani C tawuyen?
+>>rif<< Where are they taking you?	Mani cek tawuyen?
+>>rif<< Where are we going anyway?	Mani neggur waha?
+>>rif<< Where are you going to be?	Min ɣa texdmd zi sa tswant?
+>>rif<< Do you want me to help you?	? Zemmreɣ ac ɛwnɣ
+>>rif<< Everyone has their own way.	Kur ijjen d-abrid-nnes
+>>rif<< Tom walked back to his car.	Tom iɛqeb ar tumubin nes.
+>>rif<< Where are they going to go?	Mani gguren?
+>>rif<< Where are you going anyway?	Mani teggurd waha?
+>>rif<< Where did you get the eggs?	Manis i dd-tewwuyd timǧarin nni?
+>>rif<< Where did you get the eggs?	Manis i dd-tewwuyd timllalin nni?
+>>rif<< When's that going to happen?	Meřmi ɣa yiři
+>>rif<< Where are all our suitcases?	Mani ǧan maṛṛa i qurab-neɣ?
+>>rif<< Where are all our suitcases?	Iqurab-neɣ maṛṛa mani ǧan?
+>>rif<< Where are all our suitcases?	Mani llan maṛṛa Iqurab-neɣ?
+>>rif<< Where are you going to live?	Mani ɣa tezzdɣed?
+>>rif<< Where are you going to live?	Mani ɣa ṯiřid?
+>>rif<< Where are you going to live?	Mani ɣa teddred?
+>>rif<< Where are you going to live?	Mani ɣa tilid?
+>>rif<< Where did they get all this?	Manis d-assen-dd yekka manaya?
+>>rif<< Where did you get all these?	Manis d-ac-dd yekka manaya?
+>>rif<< Where did you get all these?	Manis d-am-dd yekka manaya?
+>>rif<< Where did you get that idea?	Manis d-ac-dd tekka tawngimt nni?
+>>rif<< Where did you get that idea?	Manis d-ac-dd yekka uxariṣ nni?
+>>rif<< Where did you get the money?	Manis i dd-tewwuyd tinɛacin?
+>>rif<< Where are you going to sleep?	Mani teggurd ateṭṣd
+>>rif<< Where are you going to sleep?	Mani teggurd ad teṭṣd?
+>>rif<< Where did this one come from?	Manis i dd-yekka manaya?
+>>rif<< Where did you get that thing?	Manis i dd-tewwuyd manaynni?
+>>rif<< Where did you get that water?	Manis i dd-tewwuyd aman nni?
+>>rif<< Where're we going for dinner?	Mani neggur anečč amensi
+>>rif<< Where are you going with this?	Mani teggurd akeḏ wa?
+>>rif<< Where are you going with this?	Mani teggurd aked wanita?
+>>rif<< Where are you going with this?	Mani teggurd ked wa?
+>>rif<< Where are we getting the money?	Manis i dd ɣa nawuy izřwaɣ?
+>>rif<< Where are we getting the money?	Manis i dd ɣa nawuy tinɛacin?
+>>rif<< Where are you going with those?	Mani teggurd akeḏ yina?
+>>rif<< Where are you going with those?	Mani teggurd ked yina?
+>>rif<< Where are you going with those?	Mani teggurd ked tina?
+>>rif<< Where did you find her picture?	Mani tufiɣ tawlaft nes?
+>>rif<< Where did you get on the train?	Mani texxd ar maccina?
+>>rif<< Where did you get on the train?	Mani tewḍed ɣar maccina?
+>>rif<< At least three people were hurt.	Netḥaka nedfan tlata n tarasen.
+>>rif<< I fell asleep while watching TV.	Ṭṣɣ nec ẓarɣ tifaza.
+>>rif<< I fell asleep while watching TV.	Ṭṣɣ nec tfyrujɣ di talfaza.
+>>rif<< Tom is much wiser than he looks.	Tom yeqqza attas zeg Ami nessen.
+>>rif<< Tom is much wiser than he looks.	Tom yeqqza xarebbi zi min tuɣa netḥaka.
+>>rif<< Where did you get these clothes?	Manis i dd-tewwuyd aruḍ-a?
+>>rif<< Why did you make such a mistake?	Maɣer teggid fayu-ya?
+>>rif<< Why did you make such a mistake?	Mayemmi teggid azgil-a
+>>rif<< Why do you want such an old car?	Maɣer texsd am tunubin-a taqdimt?
+>>rif<< Why do you want such an old car?	Mayemmi texsd amcnaw tunubin-a n zic?
+>>rif<< Where did you get these pictures?	Manis i dd-tewwuyd tiwlafin-a?
+>>rif<< Where did you get these pictures?	Manis i dd-tewwuyd tawlaft-a?
+>>rif<< Tom thought Mary was John's cousin.	Yetɣir Tom qa Mary d-yeǧis n ɛzizs n John's
+>>rif<< Personally, I can't see a difference.	S-ixef-inu wer zemmerɣ ad ẓrɣ beṭṭu
+>>rif<< What did you do with your old guitar?	Min teg s lguitar aqbur nec?
+>>rif<< Where are you going on your honeymoon?	Mani ɣa truḥd awarenni urar-nem?
+>>rif<< Where are you going on your honeymoon?	Mani ɣa truḥd awarenni urcař-nem?
+>>rif<< Where are you going on your honeymoon?	Mani ɣa truḥd awarenni tamɣra-nem?
+>>rif<< Where did you get all this information?	Manis d-ac-dd kkint tilɣa-ya maṛṛa?
+>>rif<< I don't want to embarrass you in front of your friends.	Wer xsɣ ac snikriɣ zdat imddukkal-nec.
+>>rif<< I don't want to embarrass you in front of your friends.	Wer xsɣ ac snikriɣ zdat imddukkař-nec
+>>rif<< I don't want to embarrass you in front of your friends.	Wer xsɣ ca acek snikriɣ zdat imddukkař-nec
+>>rif<< Tom didn't realize Mary wasn't going to be able to do that.	Tom tuɣa wer yessin qa Mary Wer Temmer ategg manaynni.

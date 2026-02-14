@@ -1,193 +1,193 @@
-Go.	Idi.
-Run!	Trči!
-Run!	Bježi!
-Who?	Ko?
-Duck!	Čučni!
-Fire!	Požar!
-Help!	Upomoć!
-Hide.	Sakrij se.
-Jump.	Skok.
-Jump.	Skoči!
-Stay.	Ostani.
-Stop!	Stani!
-Stop!	Dosta!
-Wait!	Čekaj!
-Wait.	Čekaj.
-Begin.	Počni.
-Hurry!	Požuri!
-Relax.	Opusti se.
-Shoot!	Pucaj!
-Smile.	Nasmij se.
-Sorry?	Oprosti?
-Sorry?	Oprostite?
-Attack!	U napada!
-Cheers!	Živjeli!
-Cheers!	Živio!
-Freeze!	Stoj!
-Listen.	Slušaj.
-No way!	Nema šanse!
-No way!	Nikako!
-Really?	Stvarno?
-Thanks!	Hvala!
-Awesome!	Odlično!
-Get out.	Izađi.
-Perfect!	Savršeno!
-Welcome.	Dobrodošli.
-Welcome.	Dobrodošao.
-Have fun.	Lijepo se provedi.
-Hurry up.	Požuri.
-Look out!	Pazi!
-Terrific!	Sjajno!
-Too late.	Kasno.
-Too late.	Prekasno.
-Fantastic!	Fantastično!
-Forget it.	Zaboravi.
-I fainted.	Onesvijestio sam se.
-I fainted.	Izgubio sam svijest.
-Seriously?	Ozbiljno?
-Take care.	Čuvaj se.
-Take care.	Čuvajte se.
-Wonderful!	Predivno!
-You tried.	Pokušao si.
-Bottoms up!	Na iskap!
-Definitely!	Definitivno!
-Never mind!	Nema veze!
-Never mind!	Ne brini!
-I saw a dog.	Vidio sam psa.
-I was happy.	Bio sam sretan.
-Money talks.	Novac vodi riječ.
-Nobody came.	Niko nije došao.
-Tom is here.	Tom je ovdje.
-Fish, please.	Ribu, molim.
-I drink milk.	Pijem mlijeko.
-Please hurry.	Molim te požuri.
-Please hurry.	Molim Vas požurite.
-Unbelievable!	Nevjerovatno!
-Check, please.	Račun, molim.
-Draw a circle.	Nacrtaj krug.
-I was jealous.	Bio sam ljubomoran.
-I was jealous.	Bila sam ljubomorna.
-Do you love me?	Voliš li me?
-Happy birthday!	Sretan rođendan!
-Stop grumbling.	Prestani gunđati.
-Congratulations!	Čestitam!
-I have two cats.	Imam dvije mačke.
-I was a teacher.	Bio sam učitelj.
-I was a teacher.	Bila sam učiteljica.
-I was at school.	Bio sam u školi.
-I'm at the bank.	Ja sam u banci.
-Merry Christmas!	Srećan Božić!
-My throat hurts.	Boli me grlo.
-Remove your hat.	Skini kapu.
-The sea is blue.	More je plavo.
-Come to my house.	Dođi kod mene kući.
-Come to my house.	Dođi u moju kuću.
-Come to my house.	Dođi mojoj kući.
-I love this song.	Volim ovu pjesmu.
-It was destroyed.	Uništeno je.
-We heard her cry.	Čuli smo je kako plače.
-We heard her cry.	Čuli smo da ona plače.
-Do you like music?	Voliš li glazbu?
-I'm drinking milk.	Pijem mlijeko.
-I'm ready to talk.	Spreman sam da govorim.
-I'm ready to talk.	Spremna sam da govorim.
-My knife is sharp.	Moj nož je oštar.
-Tom became a hero.	Tom je postao heroj.
-It wasn't my fault.	Nije to bila moja greška.
-Please wear a mask.	Molim vas nosite masku.
-Tom seemed annoyed.	Tom je djelovao iznervirano.
-Come again any time.	Dođi opet bilo kada.
-He's an unlucky guy.	On je nesrećan muškarac.
-I finally got a job.	Konačno sam dobio posao.
-I want to buy a book.	Želim kupiti knjigu.
-We can depend on Tom.	Možemo se osloniti na Toma.
-What a wonderful day!	Kakav divan dan!
-What would Tom think?	Šta bi Tom pomislio?
-What would Tom think?	Šta bi Tom mislio?
-I hope that's the truth.	Nadam se da je to istina.
-That's not your problem.	To nije tvoj problem.
-The hospital is crowded.	Bolnica je prepuna.
-We'll fight to the last.	Borićemo se do zadnjeg.
-What does he mean to do?	Šta želi on da uradi?
-Where are our umbrellas?	Gdje su naši kišobrani?
-You're everything to me.	Ti si sve za mene.
-Your jokes aren't funny.	Tvoje šale nisu smiješne.
-I regard him as an enemy.	Ja njega smatram za neprijatelja.
-I regard him as an enemy.	Smatram ga neprijateljom.
-The house is owned by him.	Kuća je u njegovom posjedstvu.
-Things can change quickly.	Stvari se mogu brzo promijeniti.
-We went in search of gold.	Otišli smo u potragu za zlatom.
-I'm waiting to talk to Tom.	Čekam da razgovaram sa Tomom.
-Maybe Tom can speak French.	Možda Tom zna francuski.
-Maybe Tom can speak French.	Možda Tom zna da priča francuski.
-People have short memories.	Ljudi imaju kratko pamćenje.
-How did you accomplish this?	Kako si ovo uspio?
-How did you accomplish this?	Kako si uspio da ostvariš ovo?
-My family are all very well.	Svi u mojoj porodici su dobro.
-Tom looks totally wiped out.	Tom izgleda potpuno uništeno.
-Tom says he wants to change.	Tom kaže da želi da se promijeni.
-I don't like to be surprised.	Ne volim da se iznenadim.
-Tom was wounded in the fight.	Tom je ranjen u borbi.
-We saw another ship far away.	Vidjeli smo još jedan brod u daljini.
-His way of speaking annoys me.	Njegov način govorenja mi dosađuje.
-I don't want to live with you.	Ne želim živjeti s tobom.
-Tom couldn't finish his lunch.	Tom nije mogao da završi svoj ručak.
-Tom couldn't finish his lunch.	Tom nije mogao da završi ručak.
-Tom knew Mary didn't like him.	Tom je znao da se ne sviđa Mariji.
-Tom knew Mary didn't like him.	Tom je znao da ga Marija ne voli.
-We discussed our future plans.	Razgovarali smo o planovima za budućnost.
-We sang as loudly as we could.	Pjevali smo glasno koliko smo mogli.
-Tom wanted me to give you this.	Tom je htio da ti dam ovo.
-We're anxious about her health.	Zabrinuti smo za njeno zdravlje.
-We've had bad weather recently.	Imali smo loše vrijeme nedavno.
-French isn't my native language.	Francuski nije moj maternji jezik.
-I doubt if Tom will be truthful.	Sumnjam da će Tom biti iskren.
-Learning a language is not easy.	Učenje jezika nije lak.
-Tom rarely eats with his family.	Tom rijetko jede sa svojom porodicom.
-It looks like we have everything.	Izgleda da imamo sve.
-Tom told me to knock on the door.	Tom mi je rekao da pokucam na vrata.
-We objected, but Tom left anyway.	Protivili smo se, ali Tom je otišao svakako.
-Are Tom and Mary in Australia now?	Da li su sada Tom i Marija u Australiji?
-Insofar as we know, Tom is guilty.	Koliko znamo do sada, Tom je kriv.
-Tom can be trusted to some degree.	Tomu se može vjerovati donekle.
-Tom isn't here. He's already left.	Tom nije ovde. Već je otišao.
-Tom wasn't able to shoot the deer.	Tom nije mogao da upuca jelena.
-We went as far as Boston together.	Išli smo sve do Bostona zajedno.
-We're engaged in a difficult task.	Uljučeni smo u težak zadatak.
-Do you know how this machine works?	Znaš li kako radi ova mašina?
-I wanted to help Tom pay his bills.	Želio sam da pomognem Tomu da plati račune.
-I'm sure the two of you will agree.	Siguran sam da ćete se vas dvoje složiti.
-I'm sure the two of you will agree.	Siguran sam da ćete se vas dvojica složiti.
-That's the book I bought yesterday.	To je knjiga koju sam kupio juče.
-The lion is the king of the jungle.	Lav je kralj džungle.
-The storm shouldn't affect our plans.	Oluja ne bi trebala da utiče na naše planove.
-We can't follow your plan any longer.	Ne možemo više da pratimo tvoj plan.
-We learn to read and write in school.	Učimo da čitamo i pišemo u školi.
-We learn to read and write in school.	U školi učimo da čitamo i pišemo.
-We must obey the traffic regulations.	Moramo poštovati pravila saobraćaja.
-We must obey the traffic regulations.	Moramo poštovati saobraćajna pravila.
-We'll get through the jungle somehow.	Nekako ćemo proći kroz džunglu.
-We'll get through the jungle somehow.	Proćićemo kroz džunglu nekako.
-I can't give you an answer right away.	Ne mogu ti odgovoriti odmah.
-I told Tom that you were in Australia.	Rekao sam Tomu da si u Australiji.
-She was educated in the United States.	Ona se školovala u Sjedinjenim Američkim Državama.
-She was educated in the United States.	Ona je školovana u Sjedinjenim Državama.
-This phone isn't working as it should.	Ovaj telefon ne radi kako bi trebao.
-I don't know why I even bother anymore.	Ne znam zašto se uopšte više brinem.
-I don't know why I even bother anymore.	Ne znam zašto više obraćam pažnju uopšte.
-There's a party at Tom's house tonight.	Parti je u Tomovoj kući večeras.
-Tom is listening to his phone messages.	Tom preslušava svoje poruke na telefonu.
-Have you tried restarting your computer?	Da li si probao da ponovo pokreneš računar?
-Have you tried restarting your computer?	Da li ste probali da ponovo pokrenete računar?
-I've been sick in bed since last Monday.	Ležim bolestan u krevetu još od prošlog ponedeljka.
-We had a serious conversation about that.	Imali smo ozbiljan razgovor o tome.
-What I want now is a glass of cold water.	Ono što želim sada je čaša hladne vode.
-We have a washing machine in the basement.	Imamo mašinu za pranje veša u podrumu.
-This phone isn't working the way it should.	Ovaj telefon ne radi na način kako bi trebao.
-We'll discuss the problem with them tomorrow.	Sutra ćemo razgovarati sa njima o problemu.
-I don't think you need to tell Tom what to do.	Mislim da ne treba da govoriš Tomu šta da radi.
-I wonder if Tom likes dancing as much as Mary.	Pitam se da li Tom voli plesanje koliko Marija.
-I've been to more than ten foreign countries so far.	Bio sam u više od deset stranih država do sada.
-I didn't know that soccer was such a dangerous sport.	Nisam znao da je fudbal tako opasan sport.
-Tom asked Mary some questions that she couldn't answer.	Tom je pitao Mariju neka pitanja na koja ona nije mogla da odgovori.
-Tom asked Mary some questions that she couldn't answer.	Tom je postavio Mariji neka pitanja na koja ona nije mogla odgovoriti.
+>>bos<< Go.	Idi.
+>>bos<< Run!	Trči!
+>>bos<< Run!	Bježi!
+>>bos<< Who?	Ko?
+>>bos<< Duck!	Čučni!
+>>bos<< Fire!	Požar!
+>>bos<< Help!	Upomoć!
+>>bos<< Hide.	Sakrij se.
+>>bos<< Jump.	Skok.
+>>bos<< Jump.	Skoči!
+>>bos<< Stay.	Ostani.
+>>bos<< Stop!	Stani!
+>>bos<< Stop!	Dosta!
+>>bos<< Wait!	Čekaj!
+>>bos<< Wait.	Čekaj.
+>>bos<< Begin.	Počni.
+>>bos<< Hurry!	Požuri!
+>>bos<< Relax.	Opusti se.
+>>bos<< Shoot!	Pucaj!
+>>bos<< Smile.	Nasmij se.
+>>bos<< Sorry?	Oprosti?
+>>bos<< Sorry?	Oprostite?
+>>bos<< Attack!	U napada!
+>>bos<< Cheers!	Živjeli!
+>>bos<< Cheers!	Živio!
+>>bos<< Freeze!	Stoj!
+>>bos<< Listen.	Slušaj.
+>>bos<< No way!	Nema šanse!
+>>bos<< No way!	Nikako!
+>>bos<< Really?	Stvarno?
+>>bos<< Thanks!	Hvala!
+>>bos<< Awesome!	Odlično!
+>>bos<< Get out.	Izađi.
+>>bos<< Perfect!	Savršeno!
+>>bos<< Welcome.	Dobrodošli.
+>>bos<< Welcome.	Dobrodošao.
+>>bos<< Have fun.	Lijepo se provedi.
+>>bos<< Hurry up.	Požuri.
+>>bos<< Look out!	Pazi!
+>>bos<< Terrific!	Sjajno!
+>>bos<< Too late.	Kasno.
+>>bos<< Too late.	Prekasno.
+>>bos<< Fantastic!	Fantastično!
+>>bos<< Forget it.	Zaboravi.
+>>bos<< I fainted.	Onesvijestio sam se.
+>>bos<< I fainted.	Izgubio sam svijest.
+>>bos<< Seriously?	Ozbiljno?
+>>bos<< Take care.	Čuvaj se.
+>>bos<< Take care.	Čuvajte se.
+>>bos<< Wonderful!	Predivno!
+>>bos<< You tried.	Pokušao si.
+>>bos<< Bottoms up!	Na iskap!
+>>bos<< Definitely!	Definitivno!
+>>bos<< Never mind!	Nema veze!
+>>bos<< Never mind!	Ne brini!
+>>bos<< I saw a dog.	Vidio sam psa.
+>>bos<< I was happy.	Bio sam sretan.
+>>bos<< Money talks.	Novac vodi riječ.
+>>bos<< Nobody came.	Niko nije došao.
+>>bos<< Tom is here.	Tom je ovdje.
+>>bos<< Fish, please.	Ribu, molim.
+>>bos<< I drink milk.	Pijem mlijeko.
+>>bos<< Please hurry.	Molim te požuri.
+>>bos<< Please hurry.	Molim Vas požurite.
+>>bos<< Unbelievable!	Nevjerovatno!
+>>bos<< Check, please.	Račun, molim.
+>>bos<< Draw a circle.	Nacrtaj krug.
+>>bos<< I was jealous.	Bio sam ljubomoran.
+>>bos<< I was jealous.	Bila sam ljubomorna.
+>>bos<< Do you love me?	Voliš li me?
+>>bos<< Happy birthday!	Sretan rođendan!
+>>bos<< Stop grumbling.	Prestani gunđati.
+>>bos<< Congratulations!	Čestitam!
+>>bos<< I have two cats.	Imam dvije mačke.
+>>bos<< I was a teacher.	Bio sam učitelj.
+>>bos<< I was a teacher.	Bila sam učiteljica.
+>>bos<< I was at school.	Bio sam u školi.
+>>bos<< I'm at the bank.	Ja sam u banci.
+>>bos<< Merry Christmas!	Srećan Božić!
+>>bos<< My throat hurts.	Boli me grlo.
+>>bos<< Remove your hat.	Skini kapu.
+>>bos<< The sea is blue.	More je plavo.
+>>bos<< Come to my house.	Dođi kod mene kući.
+>>bos<< Come to my house.	Dođi u moju kuću.
+>>bos<< Come to my house.	Dođi mojoj kući.
+>>bos<< I love this song.	Volim ovu pjesmu.
+>>bos<< It was destroyed.	Uništeno je.
+>>bos<< We heard her cry.	Čuli smo je kako plače.
+>>bos<< We heard her cry.	Čuli smo da ona plače.
+>>bos<< Do you like music?	Voliš li glazbu?
+>>bos<< I'm drinking milk.	Pijem mlijeko.
+>>bos<< I'm ready to talk.	Spreman sam da govorim.
+>>bos<< I'm ready to talk.	Spremna sam da govorim.
+>>bos<< My knife is sharp.	Moj nož je oštar.
+>>bos<< Tom became a hero.	Tom je postao heroj.
+>>bos<< It wasn't my fault.	Nije to bila moja greška.
+>>bos<< Please wear a mask.	Molim vas nosite masku.
+>>bos<< Tom seemed annoyed.	Tom je djelovao iznervirano.
+>>bos<< Come again any time.	Dođi opet bilo kada.
+>>bos<< He's an unlucky guy.	On je nesrećan muškarac.
+>>bos<< I finally got a job.	Konačno sam dobio posao.
+>>bos<< I want to buy a book.	Želim kupiti knjigu.
+>>bos<< We can depend on Tom.	Možemo se osloniti na Toma.
+>>bos<< What a wonderful day!	Kakav divan dan!
+>>bos<< What would Tom think?	Šta bi Tom pomislio?
+>>bos<< What would Tom think?	Šta bi Tom mislio?
+>>bos<< I hope that's the truth.	Nadam se da je to istina.
+>>bos<< That's not your problem.	To nije tvoj problem.
+>>bos<< The hospital is crowded.	Bolnica je prepuna.
+>>bos<< We'll fight to the last.	Borićemo se do zadnjeg.
+>>bos<< What does he mean to do?	Šta želi on da uradi?
+>>bos<< Where are our umbrellas?	Gdje su naši kišobrani?
+>>bos<< You're everything to me.	Ti si sve za mene.
+>>bos<< Your jokes aren't funny.	Tvoje šale nisu smiješne.
+>>bos<< I regard him as an enemy.	Ja njega smatram za neprijatelja.
+>>bos<< I regard him as an enemy.	Smatram ga neprijateljom.
+>>bos<< The house is owned by him.	Kuća je u njegovom posjedstvu.
+>>bos<< Things can change quickly.	Stvari se mogu brzo promijeniti.
+>>bos<< We went in search of gold.	Otišli smo u potragu za zlatom.
+>>bos<< I'm waiting to talk to Tom.	Čekam da razgovaram sa Tomom.
+>>bos<< Maybe Tom can speak French.	Možda Tom zna francuski.
+>>bos<< Maybe Tom can speak French.	Možda Tom zna da priča francuski.
+>>bos<< People have short memories.	Ljudi imaju kratko pamćenje.
+>>bos<< How did you accomplish this?	Kako si ovo uspio?
+>>bos<< How did you accomplish this?	Kako si uspio da ostvariš ovo?
+>>bos<< My family are all very well.	Svi u mojoj porodici su dobro.
+>>bos<< Tom looks totally wiped out.	Tom izgleda potpuno uništeno.
+>>bos<< Tom says he wants to change.	Tom kaže da želi da se promijeni.
+>>bos<< I don't like to be surprised.	Ne volim da se iznenadim.
+>>bos<< Tom was wounded in the fight.	Tom je ranjen u borbi.
+>>bos<< We saw another ship far away.	Vidjeli smo još jedan brod u daljini.
+>>bos<< His way of speaking annoys me.	Njegov način govorenja mi dosađuje.
+>>bos<< I don't want to live with you.	Ne želim živjeti s tobom.
+>>bos<< Tom couldn't finish his lunch.	Tom nije mogao da završi svoj ručak.
+>>bos<< Tom couldn't finish his lunch.	Tom nije mogao da završi ručak.
+>>bos<< Tom knew Mary didn't like him.	Tom je znao da se ne sviđa Mariji.
+>>bos<< Tom knew Mary didn't like him.	Tom je znao da ga Marija ne voli.
+>>bos<< We discussed our future plans.	Razgovarali smo o planovima za budućnost.
+>>bos<< We sang as loudly as we could.	Pjevali smo glasno koliko smo mogli.
+>>bos<< Tom wanted me to give you this.	Tom je htio da ti dam ovo.
+>>bos<< We're anxious about her health.	Zabrinuti smo za njeno zdravlje.
+>>bos<< We've had bad weather recently.	Imali smo loše vrijeme nedavno.
+>>bos<< French isn't my native language.	Francuski nije moj maternji jezik.
+>>bos<< I doubt if Tom will be truthful.	Sumnjam da će Tom biti iskren.
+>>bos<< Learning a language is not easy.	Učenje jezika nije lak.
+>>bos<< Tom rarely eats with his family.	Tom rijetko jede sa svojom porodicom.
+>>bos<< It looks like we have everything.	Izgleda da imamo sve.
+>>bos<< Tom told me to knock on the door.	Tom mi je rekao da pokucam na vrata.
+>>bos<< We objected, but Tom left anyway.	Protivili smo se, ali Tom je otišao svakako.
+>>bos<< Are Tom and Mary in Australia now?	Da li su sada Tom i Marija u Australiji?
+>>bos<< Insofar as we know, Tom is guilty.	Koliko znamo do sada, Tom je kriv.
+>>bos<< Tom can be trusted to some degree.	Tomu se može vjerovati donekle.
+>>bos<< Tom isn't here. He's already left.	Tom nije ovde. Već je otišao.
+>>bos<< Tom wasn't able to shoot the deer.	Tom nije mogao da upuca jelena.
+>>bos<< We went as far as Boston together.	Išli smo sve do Bostona zajedno.
+>>bos<< We're engaged in a difficult task.	Uljučeni smo u težak zadatak.
+>>bos<< Do you know how this machine works?	Znaš li kako radi ova mašina?
+>>bos<< I wanted to help Tom pay his bills.	Želio sam da pomognem Tomu da plati račune.
+>>bos<< I'm sure the two of you will agree.	Siguran sam da ćete se vas dvoje složiti.
+>>bos<< I'm sure the two of you will agree.	Siguran sam da ćete se vas dvojica složiti.
+>>bos<< That's the book I bought yesterday.	To je knjiga koju sam kupio juče.
+>>bos<< The lion is the king of the jungle.	Lav je kralj džungle.
+>>bos<< The storm shouldn't affect our plans.	Oluja ne bi trebala da utiče na naše planove.
+>>bos<< We can't follow your plan any longer.	Ne možemo više da pratimo tvoj plan.
+>>bos<< We learn to read and write in school.	Učimo da čitamo i pišemo u školi.
+>>bos<< We learn to read and write in school.	U školi učimo da čitamo i pišemo.
+>>bos<< We must obey the traffic regulations.	Moramo poštovati pravila saobraćaja.
+>>bos<< We must obey the traffic regulations.	Moramo poštovati saobraćajna pravila.
+>>bos<< We'll get through the jungle somehow.	Nekako ćemo proći kroz džunglu.
+>>bos<< We'll get through the jungle somehow.	Proćićemo kroz džunglu nekako.
+>>bos<< I can't give you an answer right away.	Ne mogu ti odgovoriti odmah.
+>>bos<< I told Tom that you were in Australia.	Rekao sam Tomu da si u Australiji.
+>>bos<< She was educated in the United States.	Ona se školovala u Sjedinjenim Američkim Državama.
+>>bos<< She was educated in the United States.	Ona je školovana u Sjedinjenim Državama.
+>>bos<< This phone isn't working as it should.	Ovaj telefon ne radi kako bi trebao.
+>>bos<< I don't know why I even bother anymore.	Ne znam zašto se uopšte više brinem.
+>>bos<< I don't know why I even bother anymore.	Ne znam zašto više obraćam pažnju uopšte.
+>>bos<< There's a party at Tom's house tonight.	Parti je u Tomovoj kući večeras.
+>>bos<< Tom is listening to his phone messages.	Tom preslušava svoje poruke na telefonu.
+>>bos<< Have you tried restarting your computer?	Da li si probao da ponovo pokreneš računar?
+>>bos<< Have you tried restarting your computer?	Da li ste probali da ponovo pokrenete računar?
+>>bos<< I've been sick in bed since last Monday.	Ležim bolestan u krevetu još od prošlog ponedeljka.
+>>bos<< We had a serious conversation about that.	Imali smo ozbiljan razgovor o tome.
+>>bos<< What I want now is a glass of cold water.	Ono što želim sada je čaša hladne vode.
+>>bos<< We have a washing machine in the basement.	Imamo mašinu za pranje veša u podrumu.
+>>bos<< This phone isn't working the way it should.	Ovaj telefon ne radi na način kako bi trebao.
+>>bos<< We'll discuss the problem with them tomorrow.	Sutra ćemo razgovarati sa njima o problemu.
+>>bos<< I don't think you need to tell Tom what to do.	Mislim da ne treba da govoriš Tomu šta da radi.
+>>bos<< I wonder if Tom likes dancing as much as Mary.	Pitam se da li Tom voli plesanje koliko Marija.
+>>bos<< I've been to more than ten foreign countries so far.	Bio sam u više od deset stranih država do sada.
+>>bos<< I didn't know that soccer was such a dangerous sport.	Nisam znao da je fudbal tako opasan sport.
+>>bos<< Tom asked Mary some questions that she couldn't answer.	Tom je pitao Mariju neka pitanja na koja ona nije mogla da odgovori.
+>>bos<< Tom asked Mary some questions that she couldn't answer.	Tom je postavio Mariji neka pitanja na koja ona nije mogla odgovoriti.

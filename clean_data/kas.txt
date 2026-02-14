@@ -1,135 +1,135 @@
-Run!	Dav!
-Run!	Doar!
-Wow!	Waah!
-Help!	Hieth!
-Help!	Madad!
-Jump.	Japh.
-Jump.	Wuatth.
-Jump.	Scaal.
-Stop!	Thav!
-Hello!	Ho!
-Hello!	Hata!
-Hello!	Hato!
-Hello!	Hatay!
-Really?	Pazy?
-Thanks!	Shukrya!
-Perfect!	Pursyod!
-Welcome.	Marhabaa.
-Welcome.	Maazarath.
-Welcome.	Maazarec.
-Nonsense!	Bakh!
-Let's try!	Walyuw saraw yi!
-Wonderful!	Zabar!
-I love you.	B laave cie.
-I'm nervous.	B tchus viesor.
-I'm a farmer.	B tchus akh gryoost.
-Let's try it.	Walyuw saraw yi!
-I believe you.	B baawre cie.
-I have a visa.	Mie tchu akh Visa.
-I lied to Tom.	Mie won apoz Tom'as.
-I was coughing.	B oasus caasaan.
-I was coughing.	B oasus zuasaan.
-Congratulations!	Wadav!
-Congratulations!	Saaway!
-Congratulations!	Mubaarakh!
-I'm easily bored.	B tchus astay diekhaan.
-I'm leaving town.	B tchus traavaan shiehr.
-I'm leaving town.	B tchus traavaan nagar.
-I'm leaving town.	B traavaan shiehr.
-I'm leaving town.	B traavaan nagar.
-Do I have a fever?	Mie tchaa taph?
-I love this video.	B laave yi Video.
-I won't betray you.	B scalay'ne cie.
-I didn't understand.	Mie cyoon'ne.
-I'm going to fix it.	B siezraaw ath.
-I ate ice cream, too.	Mie khiey Ice Cream ti.
-I think we can do it.	Mie baasaan eys hiekaw yi kerith.
-I'm not exactly sure.	Mie tchu'ne nishchay.
-Tom would understand.	Tom cein'i.
-We'll do it together.	Eys karaw yi samith.
-I dislike all of them.	B dweishaan timan saarny.
-I dislike all of them.	Tim seary tche mie kharaan.
-I don't want to drive.	B tchus'ne davnaawun yiexaan.
-I doubt Tom will come.	Mie tchu dara Tom yiy.
-I have a plan in mind.	Mie tchu akh paay manas manz.
-I have to go to sleep.	Mie tchu shuangni gaxun.
-I stole this from Tom.	Mie son yi Tom'as nish.
-I've just been mugged.	B tchus veyny loottne aamut.
-What am I doing wrong?	Qyah tchus B karaan wooj?
-I just touched a snake.	Mie soar veyny akh sarup.
-I've got to get inside.	Mie tchu gaxun andar.
-I don't like that dress.	Mie gaxi'ne su palav.
-I hope to hear from you.	B yiexe boazun cie nish.
-I think the same as you.	B tchus cie somuy ceinaan.
-I'm not swallowing that.	B hiek'ne yi meanith.
-I don't know either girl.	B tchus'ne zaanaan kuesy koari.
-I told Tom to come early.	Mie won Tom'as suly yine kheatre.
-I like to play with words.	Mie gaxi waadan sueyth gindun.
-I like to play with words.	Mie loobaan waadan sueyth gindun.
-I was trying to reach you.	B oasus saraan cie praawnas.
-I was trying to reach you.	B oasus saraan cie nish waatnas.
-I'm not done with Tom yet.	Veyn sapud'ne myoan zaka Tom'as sueyth.
-I've got no time for that.	Mie tchu'ne tath kyut taam.
-We need to try everything.	Aysi pazi sarun prathkienh.
-I didn't answer right away.	Mie dyut'ne jawaab sueyty.
-I don't watch TV very much.	B tchus'ne wetchaan TV vaarya.
-I have something in my eye.	Mie tchu qyahtaam eytch manz.
-I have something in my eye.	Mie tchu kiehtaayn eytch manz.
-I won't accept these gifts.	B nim'ne yim weayd.
-I'll send a message to Tom.	B soaz'e akh shiech Tom'as.
-I nearly had a heart attack.	Mie oas neezkhy aamut akh hried choakh.
-I couldn't keep lying to Tom.	B hyokus'ne roozith Tom'as apoz wanaan.
-I know I did the wrong thing.	B zaane mie ker wooj keam.
-I never thought I'd say that.	Mie oas'ne zah cyoothmut B wan'e tih.
-I was hoping to surprise Tom.	B oasus yiexaan Tom aashcarun.
-I wonder why the bus is late.	B wanaan Bus qyazi tcha ceir.
-We don't have any more bread.	Aysi tcha'ne biey cott.
-I didn't expect this question.	Mie oas'ne yi prax proarmut.
-I didn't expect this question.	Mie proar'ne yi prax.
-I feel very lonely these days.	Mie tchu vaarya kunier baasaan yiman duahan.
-I have a package here for you.	Mie tchu akh phuttul yayt cie kheatre.
-I want to leave this box here.	B yiexe yi ddaba yayty traawun.
-I got back to Boston yesterday.	B woatus byey Boston kaala.
-I like a pen with a fine point.	Mie gaxi akh jaane pyot qalam aasun.
-I like a pen with a fine point.	Mie loobaan akh jaane pyot qalam.
-I need to lose a little weight.	Mie pazi raxaa guabier tchuanun.
-I wonder how Tom is holding up.	B wanaan Tom qith peaytth tchu paanas searith.
-Today, I had a lot of troubles.	Az, mie eays siettha duakh.
-I don't think Tom likes anybody.	Mie tchu'ne baasaan Tom'as gaxi kanh.
-I don't think Tom likes anybody.	Mie tchu'ne baasaan Tom'as loobaan kanh.
-I want everything to be perfect.	B yiexaan prathkienh aasi pursyod.
-I think we should stay and fight.	Mie baasaan aysi pazi roazun te laddun.
-Did I hear you talking to someone?	Mie boozkhaa C kath karaan kuesi sueyth?
-I can't be certain what Tom wants.	B hiek'ne nishchay thawith zi Tom'as qyah gaxi.
-I don't know what that means, Tom.	B zaan'ne tath qyah marm, Tom.
-I think Tom didn't understand you.	Mie baasaan Tom'an cyoothukh'ne C.
-I've been trying not to get angry.	B tchus saraan na roashnas.
-I don't have any problem with that.	Mie tcha'ne kanh parwaay tath sueyth.
-I don't understand the plan at all.	B tchus'ne ceintaan paay kienh ti.
-I heard that Tom crashed the party.	Mie booz zi Tom'an ker dduddagy saybi manz.
-I think Tom and Mary are Canadians.	Mie baasaan Tom te Mary tche Canada'yk.
-I want to hear about what happened.	B yiexe boazun qyah gow.
-I want to hear about what happened.	B yiexe boazun qyah sapud.
-I've always played with my brother.	Mie tchu prathvizi gindmut myaani beayis sueyth.
-I still have a lot of pages to read.	Mie tche veyn ti vaarya paase pareyn.
-I want to thank you for coming here.	B yiexaan cie shukrya karun yoar yine baapath.
-I always wonder what happened to him.	B tchus ceintaan aasaan qyah gow emis.
-I don't expect any special treatment.	B tchus'ne kanhsi khaas satkaaras praaraan.
-I just wanted to see how you'd react.	B oasus yiexaan wutchun C qyah karakh.
-I wish you could be a little quieter.	B yiexe C roazheak raxaa scuap.
-Could I have a glass of water, please?	Hiekaa B nith akh aab gilaas, mehrbeany?
-I didn't think anybody would get hurt.	Mie oas'ne baasaan kanh gaxi zakhmy.
-I know you don't have time to help us.	B zaane cie tchuy'ne taam hiethnas aysi.
-I can't accept responsibility for that.	B hiek'ne boar hieth tamyuk.
-I can't do two things at the same time.	B hiek'ne zu kaar karith seym taame.
-I can't do two things at the same time.	B hiek'ne zu kaar karith ayk vizi.
-I have three years left until retirement.	Mie tche trie vary rooydmit khalwatas taam.
-I can't put up with his rudeness any more.	B hiek'ne cealith husund vienaay biey.
-I can't put up with his rudeness any more.	B hiek'ne cealith tasund vienaay biey.
-I'm seriously thinking of selling my house.	B tchus ceintaan panun gare kennas.
-I'm seriously thinking of selling my house.	Mie baasaan B ken'e panun gar.
-I've lost my umbrella. I must buy a new one.	Mie raawreaw panen tchater. Mie pazi akh new hyien.
-I'm asking you to do this because I trust you.	B tchus wanaan cie yi karnas tiqyazi B pacaan cie.
-I'm pretty sure that Tom just made up that story.	Mie tchu nishchay zi Tom'an won ttar.
-I searched in my pocket for a coin to make a phone call.	Mie scoar pannis chandas ayki poase baapath Call karne heeth.
-I have an appointment at eleven tomorrow, but can I change the time?	Mie tchu akh meil pagah kah bajei, magar B hiekaa taam badlith?
+>>kas<< Run!	Dav!
+>>kas<< Run!	Doar!
+>>kas<< Wow!	Waah!
+>>kas<< Help!	Hieth!
+>>kas<< Help!	Madad!
+>>kas<< Jump.	Japh.
+>>kas<< Jump.	Wuatth.
+>>kas<< Jump.	Scaal.
+>>kas<< Stop!	Thav!
+>>kas<< Hello!	Ho!
+>>kas<< Hello!	Hata!
+>>kas<< Hello!	Hato!
+>>kas<< Hello!	Hatay!
+>>kas<< Really?	Pazy?
+>>kas<< Thanks!	Shukrya!
+>>kas<< Perfect!	Pursyod!
+>>kas<< Welcome.	Marhabaa.
+>>kas<< Welcome.	Maazarath.
+>>kas<< Welcome.	Maazarec.
+>>kas<< Nonsense!	Bakh!
+>>kas<< Let's try!	Walyuw saraw yi!
+>>kas<< Wonderful!	Zabar!
+>>kas<< I love you.	B laave cie.
+>>kas<< I'm nervous.	B tchus viesor.
+>>kas<< I'm a farmer.	B tchus akh gryoost.
+>>kas<< Let's try it.	Walyuw saraw yi!
+>>kas<< I believe you.	B baawre cie.
+>>kas<< I have a visa.	Mie tchu akh Visa.
+>>kas<< I lied to Tom.	Mie won apoz Tom'as.
+>>kas<< I was coughing.	B oasus caasaan.
+>>kas<< I was coughing.	B oasus zuasaan.
+>>kas<< Congratulations!	Wadav!
+>>kas<< Congratulations!	Saaway!
+>>kas<< Congratulations!	Mubaarakh!
+>>kas<< I'm easily bored.	B tchus astay diekhaan.
+>>kas<< I'm leaving town.	B tchus traavaan shiehr.
+>>kas<< I'm leaving town.	B tchus traavaan nagar.
+>>kas<< I'm leaving town.	B traavaan shiehr.
+>>kas<< I'm leaving town.	B traavaan nagar.
+>>kas<< Do I have a fever?	Mie tchaa taph?
+>>kas<< I love this video.	B laave yi Video.
+>>kas<< I won't betray you.	B scalay'ne cie.
+>>kas<< I didn't understand.	Mie cyoon'ne.
+>>kas<< I'm going to fix it.	B siezraaw ath.
+>>kas<< I ate ice cream, too.	Mie khiey Ice Cream ti.
+>>kas<< I think we can do it.	Mie baasaan eys hiekaw yi kerith.
+>>kas<< I'm not exactly sure.	Mie tchu'ne nishchay.
+>>kas<< Tom would understand.	Tom cein'i.
+>>kas<< We'll do it together.	Eys karaw yi samith.
+>>kas<< I dislike all of them.	B dweishaan timan saarny.
+>>kas<< I dislike all of them.	Tim seary tche mie kharaan.
+>>kas<< I don't want to drive.	B tchus'ne davnaawun yiexaan.
+>>kas<< I doubt Tom will come.	Mie tchu dara Tom yiy.
+>>kas<< I have a plan in mind.	Mie tchu akh paay manas manz.
+>>kas<< I have to go to sleep.	Mie tchu shuangni gaxun.
+>>kas<< I stole this from Tom.	Mie son yi Tom'as nish.
+>>kas<< I've just been mugged.	B tchus veyny loottne aamut.
+>>kas<< What am I doing wrong?	Qyah tchus B karaan wooj?
+>>kas<< I just touched a snake.	Mie soar veyny akh sarup.
+>>kas<< I've got to get inside.	Mie tchu gaxun andar.
+>>kas<< I don't like that dress.	Mie gaxi'ne su palav.
+>>kas<< I hope to hear from you.	B yiexe boazun cie nish.
+>>kas<< I think the same as you.	B tchus cie somuy ceinaan.
+>>kas<< I'm not swallowing that.	B hiek'ne yi meanith.
+>>kas<< I don't know either girl.	B tchus'ne zaanaan kuesy koari.
+>>kas<< I told Tom to come early.	Mie won Tom'as suly yine kheatre.
+>>kas<< I like to play with words.	Mie gaxi waadan sueyth gindun.
+>>kas<< I like to play with words.	Mie loobaan waadan sueyth gindun.
+>>kas<< I was trying to reach you.	B oasus saraan cie praawnas.
+>>kas<< I was trying to reach you.	B oasus saraan cie nish waatnas.
+>>kas<< I'm not done with Tom yet.	Veyn sapud'ne myoan zaka Tom'as sueyth.
+>>kas<< I've got no time for that.	Mie tchu'ne tath kyut taam.
+>>kas<< We need to try everything.	Aysi pazi sarun prathkienh.
+>>kas<< I didn't answer right away.	Mie dyut'ne jawaab sueyty.
+>>kas<< I don't watch TV very much.	B tchus'ne wetchaan TV vaarya.
+>>kas<< I have something in my eye.	Mie tchu qyahtaam eytch manz.
+>>kas<< I have something in my eye.	Mie tchu kiehtaayn eytch manz.
+>>kas<< I won't accept these gifts.	B nim'ne yim weayd.
+>>kas<< I'll send a message to Tom.	B soaz'e akh shiech Tom'as.
+>>kas<< I nearly had a heart attack.	Mie oas neezkhy aamut akh hried choakh.
+>>kas<< I couldn't keep lying to Tom.	B hyokus'ne roozith Tom'as apoz wanaan.
+>>kas<< I know I did the wrong thing.	B zaane mie ker wooj keam.
+>>kas<< I never thought I'd say that.	Mie oas'ne zah cyoothmut B wan'e tih.
+>>kas<< I was hoping to surprise Tom.	B oasus yiexaan Tom aashcarun.
+>>kas<< I wonder why the bus is late.	B wanaan Bus qyazi tcha ceir.
+>>kas<< We don't have any more bread.	Aysi tcha'ne biey cott.
+>>kas<< I didn't expect this question.	Mie oas'ne yi prax proarmut.
+>>kas<< I didn't expect this question.	Mie proar'ne yi prax.
+>>kas<< I feel very lonely these days.	Mie tchu vaarya kunier baasaan yiman duahan.
+>>kas<< I have a package here for you.	Mie tchu akh phuttul yayt cie kheatre.
+>>kas<< I want to leave this box here.	B yiexe yi ddaba yayty traawun.
+>>kas<< I got back to Boston yesterday.	B woatus byey Boston kaala.
+>>kas<< I like a pen with a fine point.	Mie gaxi akh jaane pyot qalam aasun.
+>>kas<< I like a pen with a fine point.	Mie loobaan akh jaane pyot qalam.
+>>kas<< I need to lose a little weight.	Mie pazi raxaa guabier tchuanun.
+>>kas<< I wonder how Tom is holding up.	B wanaan Tom qith peaytth tchu paanas searith.
+>>kas<< Today, I had a lot of troubles.	Az, mie eays siettha duakh.
+>>kas<< I don't think Tom likes anybody.	Mie tchu'ne baasaan Tom'as gaxi kanh.
+>>kas<< I don't think Tom likes anybody.	Mie tchu'ne baasaan Tom'as loobaan kanh.
+>>kas<< I want everything to be perfect.	B yiexaan prathkienh aasi pursyod.
+>>kas<< I think we should stay and fight.	Mie baasaan aysi pazi roazun te laddun.
+>>kas<< Did I hear you talking to someone?	Mie boozkhaa C kath karaan kuesi sueyth?
+>>kas<< I can't be certain what Tom wants.	B hiek'ne nishchay thawith zi Tom'as qyah gaxi.
+>>kas<< I don't know what that means, Tom.	B zaan'ne tath qyah marm, Tom.
+>>kas<< I think Tom didn't understand you.	Mie baasaan Tom'an cyoothukh'ne C.
+>>kas<< I've been trying not to get angry.	B tchus saraan na roashnas.
+>>kas<< I don't have any problem with that.	Mie tcha'ne kanh parwaay tath sueyth.
+>>kas<< I don't understand the plan at all.	B tchus'ne ceintaan paay kienh ti.
+>>kas<< I heard that Tom crashed the party.	Mie booz zi Tom'an ker dduddagy saybi manz.
+>>kas<< I think Tom and Mary are Canadians.	Mie baasaan Tom te Mary tche Canada'yk.
+>>kas<< I want to hear about what happened.	B yiexe boazun qyah gow.
+>>kas<< I want to hear about what happened.	B yiexe boazun qyah sapud.
+>>kas<< I've always played with my brother.	Mie tchu prathvizi gindmut myaani beayis sueyth.
+>>kas<< I still have a lot of pages to read.	Mie tche veyn ti vaarya paase pareyn.
+>>kas<< I want to thank you for coming here.	B yiexaan cie shukrya karun yoar yine baapath.
+>>kas<< I always wonder what happened to him.	B tchus ceintaan aasaan qyah gow emis.
+>>kas<< I don't expect any special treatment.	B tchus'ne kanhsi khaas satkaaras praaraan.
+>>kas<< I just wanted to see how you'd react.	B oasus yiexaan wutchun C qyah karakh.
+>>kas<< I wish you could be a little quieter.	B yiexe C roazheak raxaa scuap.
+>>kas<< Could I have a glass of water, please?	Hiekaa B nith akh aab gilaas, mehrbeany?
+>>kas<< I didn't think anybody would get hurt.	Mie oas'ne baasaan kanh gaxi zakhmy.
+>>kas<< I know you don't have time to help us.	B zaane cie tchuy'ne taam hiethnas aysi.
+>>kas<< I can't accept responsibility for that.	B hiek'ne boar hieth tamyuk.
+>>kas<< I can't do two things at the same time.	B hiek'ne zu kaar karith seym taame.
+>>kas<< I can't do two things at the same time.	B hiek'ne zu kaar karith ayk vizi.
+>>kas<< I have three years left until retirement.	Mie tche trie vary rooydmit khalwatas taam.
+>>kas<< I can't put up with his rudeness any more.	B hiek'ne cealith husund vienaay biey.
+>>kas<< I can't put up with his rudeness any more.	B hiek'ne cealith tasund vienaay biey.
+>>kas<< I'm seriously thinking of selling my house.	B tchus ceintaan panun gare kennas.
+>>kas<< I'm seriously thinking of selling my house.	Mie baasaan B ken'e panun gar.
+>>kas<< I've lost my umbrella. I must buy a new one.	Mie raawreaw panen tchater. Mie pazi akh new hyien.
+>>kas<< I'm asking you to do this because I trust you.	B tchus wanaan cie yi karnas tiqyazi B pacaan cie.
+>>kas<< I'm pretty sure that Tom just made up that story.	Mie tchu nishchay zi Tom'an won ttar.
+>>kas<< I searched in my pocket for a coin to make a phone call.	Mie scoar pannis chandas ayki poase baapath Call karne heeth.
+>>kas<< I have an appointment at eleven tomorrow, but can I change the time?	Mie tchu akh meil pagah kah bajei, magar B hiekaa taam badlith?
