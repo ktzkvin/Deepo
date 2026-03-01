@@ -11,4 +11,8 @@ test-results/
 
 .dvc/cache/
 
+
+// Ignore scratch files
 draft.py
+draft_2.py
+draft_3.py
