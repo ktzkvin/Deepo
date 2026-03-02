@@ -1,3 +1,5 @@
+.env
+
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -13,9 +15,16 @@ test-results/
 
 raw_data/
 clean_data/
-zip_data/
 datasets/
 
 draft.py
 draft_2.py
 draft_3.py
+
+# MLflow local tracking
+mlruns/
+mlflow.db
+
+models/lstm_seq2seq/best.pt
+zip_data/fra-eng.zip
+ml/artifacts/
