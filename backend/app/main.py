@@ -40,7 +40,8 @@ app.add_middleware(
 
 # --- MLflow Models Registry Initialization ---
 STAGE = os.getenv("MODEL_STAGE", "Production")
-SUPPORTED_LANGS = {"fr": "fra", "zh": "cmn", "es": "spa"} 
+# Ajout du portugais (pt: por) et restriction stricte aux 4 langues + pivot
+SUPPORTED_LANGS = {"fr": "fra", "zh": "cmn", "es": "spa", "pt": "por"} 
 
 models_registry = {}
 
@@ -66,8 +67,8 @@ def health():
 def languages():
     """Returns the list of supported languages for the frontend."""
     return {
-        "source": ["en", "fr", "es", "zh", "ar"], 
-        "target": ["en", "fr", "es", "zh", "ar"],
+        "source": ["en", "fr", "es", "zh", "pt"], 
+        "target": ["en", "fr", "es", "zh", "pt"],
         "defaults": {"source": "fr", "target": "en"},
     }
 
@@ -80,7 +81,7 @@ def translate(payload: TranslateRequest):
     """
     t0 = time.perf_counter()
     
-    lang_map = {"fr": "fra", "es": "spa", "zh": "cmn", "ar": "ara", "en": "eng"}
+    lang_map = {"fr": "fra", "es": "spa", "zh": "cmn", "pt": "por", "en": "eng"}
     source_code = lang_map.get(payload.source_lang)
     target_code = lang_map.get(payload.target_lang)
 

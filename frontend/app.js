@@ -65,11 +65,10 @@ function langName(code) {
     en: "Anglais",
     es: "Espagnol",
     zh: "Mandarin",
-    ar: "Arabe",
+    pt: "Portugais",
   };
   return map[code] || code;
 }
-
 function refreshLangLabels() {
   sourceLabel.textContent = langName(sourceLang);
   targetLabel.textContent = langName(targetLang);
