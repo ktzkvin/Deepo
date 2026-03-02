@@ -1,0 +1,31 @@
+name: 1. PR to Dev Environment
+
+on:
+  pull_request:
+    branches:
+      - dev
+
+jobs:
+  test-and-build:
+    name: Run Tests and Build Docker Image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r backend/requirements.txt
+          pip install -r ml/requirements.txt
+          pip install pytest httpx
+
+      - name: Execute Test Suite
+        run: pytest tests/
+
+      - name: Build Docker Image
+        run: docker compose build

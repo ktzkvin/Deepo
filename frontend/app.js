@@ -64,8 +64,7 @@ function langName(code) {
     fr: "Français",
     en: "Anglais",
     es: "Espagnol",
-    de: "Allemand",
-    it: "Italien",
+    zh: "Mandarin",
     ar: "Arabe",
   };
   return map[code] || code;
@@ -183,8 +182,7 @@ async function translateNow() {
       body: JSON.stringify({
         text,
         source_lang: sourceLang,
-        target_lang: targetLang,
-        mode: "lorem",
+        target_lang: targetLang
       }),
     });
 

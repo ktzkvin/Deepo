@@ -1,14 +1,60 @@
+# ==========================================
+# ENVIRONMENT & SECRETS
+# ==========================================
+.env
+
+# ==========================================
+# PYTHON & CACHE
+# ==========================================
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# ==========================================
+# TESTING & QA
+# ==========================================
 .pytest_cache/
 .mypy_cache/
 .coverage
 htmlcov/
-
-node_modules/
-playwright-report/
 test-results/
+playwright-report/
 
+# ==========================================
+# FRONTEND
+# ==========================================
+node_modules/
+
+# ==========================================
+# DVC & DATA PIPELINE
+# ==========================================
 .dvc/cache/
+raw_data/
+clean_data/
+datasets/
+# Track DVC metadata, ignore raw archives
+zip_data/*.zip
+!zip_data/*.dvc
 
-draft.py
+# ==========================================
+# MLOPS & MODEL ARTIFACTS
+# ==========================================
+# Ignore local tracking
+mlruns/
+mlflow.db
+ml/artifacts/
+# Ignore massive binary files (handled by MLflow)
+*.pt
+models/lstm_seq2seq/*.pt
+
+# ==========================================
+# BUILD & SYSTEM
+# ==========================================
+dist/
+build/
+.DS_Store
+
+# ==========================================
+# SCRATCH & DRAFTS
+# ==========================================
+draft*.py
