@@ -42,7 +42,7 @@ zip_data/*.zip
 # Ignore local tracking
 mlruns/
 mlflow.db
-ml/artifacts/
+ml/artifacts/*.txt
 # Ignore massive binary files (handled by MLflow)
 *.pt
 models/lstm_seq2seq/*.pt
