@@ -1,3 +1,7 @@
+"""
+Model definitions and text processing utilities for the Seq2Seq LSTM.
+Includes Bahdanau Attention mechanism and bidirectional encoding.
+"""
 import torch
 import torch.nn as nn
 import re
@@ -5,6 +9,10 @@ import re
 UNK = '<unk>'
 
 class Attention(nn.Module):
+    """
+    Bahdanau Attention mechanism to compute attention weights 
+    over encoder outputs based on the current decoder hidden state.
+    """
     def __init__(self, enc_hid_dim, dec_hid_dim):
         super().__init__()
         self.attn = nn.Linear(enc_hid_dim * 2 + dec_hid_dim, dec_hid_dim)
@@ -17,6 +25,9 @@ class Attention(nn.Module):
         return torch.softmax(self.v(energy).squeeze(2), dim=1)
 
 class Encoder(nn.Module):
+    """
+    Bidirectional LSTM Encoder for processing source sequences.
+    """
     def __init__(self, vocab_size, emb_dim, hid_dim, pad_id, num_layers):
         super().__init__()
         self.hid_dim    = hid_dim
@@ -37,6 +48,9 @@ class Encoder(nn.Module):
         return outputs, h, c
 
 class Decoder(nn.Module):
+    """
+    LSTM Decoder with attention for generating target sequences.
+    """
     def __init__(self, vocab_size, emb_dim, enc_hid_dim, dec_hid_dim, pad_id, num_layers):
         super().__init__()
         self.emb  = nn.Embedding(vocab_size, emb_dim, padding_idx=pad_id)
@@ -53,17 +67,20 @@ class Decoder(nn.Module):
         out, (h, c)  = self.rnn(rnn_input, (h, c))
         return self.fc(out.squeeze(1)), h, c
 
-def tokenize(s):
+def tokenize(s: str) -> list:
+    """Tokenizes input string, handling CJK characters separately."""
     s = s.strip()
     if any('\u3000' <= c <= '\u9fff' or '\uac00' <= c <= '\ud7af' for c in s):
         return list(s.replace(' ', ''))
     return s.split()
 
-def preprocess(sentence):
+def preprocess(sentence: str) -> str:
+    """Normalizes spacing and removes specific punctuation."""
     sentence = re.sub(r"[?.!,;:]", " ", sentence)
     return re.sub(r" +", " ", sentence).strip()
 
-def postprocess(tokens):
+def postprocess(tokens: list) -> str:
+    """Reconstructs a clean string from a list of tokens."""
     tokens = [t for t in tokens if t != UNK]
     text = ' '.join(tokens)
     text = re.sub(r" ' ", "'", text)

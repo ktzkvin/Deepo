@@ -3,6 +3,7 @@ import json
 import os
 import subprocess
 import time
+import sys
 from pathlib import Path
 from typing import Any
 import torch
@@ -14,7 +15,6 @@ from mlflow.tracking import MlflowClient
 ROOT = Path(__file__).resolve().parents[1]
 ART = ROOT / "ml" / "artifacts"
 ART.mkdir(parents=True, exist_ok=True)
-CKPT_PATH = ROOT / "models" / "lstm_seq2seq" / "best.pt"
 
 def get_git_sha() -> str:
     sha = os.getenv("GITHUB_SHA", "").strip()
@@ -25,13 +25,9 @@ def get_git_sha() -> str:
     except Exception:
         return "unknown"
 
-def get_dvc_data_version() -> str:
-    # (Garde ta fonction get_dvc_data_version d'origine ici)
-    return "unknown"
-
 class DeepoTranslatorWrapper(PythonModel):
     def load_context(self, context):
-        import model_def # Importé via code_paths de MLflow
+        import model_def 
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         ckpt = torch.load(context.artifacts["ckpt"], map_location=self.device)
         
@@ -64,9 +60,8 @@ class DeepoTranslatorWrapper(PythonModel):
         results = []
         for row in model_input:
             text = str(row.get("text", ""))
-            target_lang = str(row.get("target_lang", "fr"))
+            target_lang = str(row.get("target_lang", "fra"))
             
-            # Format attendu par ton modèle : ">>fra<< Hello"
             src_with_tag = f">>{target_lang}<< {text.capitalize()}"
             clean = self.model_def.preprocess(src_with_tag)
             
@@ -89,26 +84,39 @@ class DeepoTranslatorWrapper(PythonModel):
         return results
 
 def main() -> None:
+    # Accept language suffix as argument (e.g. python train_register.py fra)
+    if len(sys.argv) < 2:
+        print("Usage: python train_register.py <lang_suffix> (e.g., fra, cmn)")
+        sys.exit(1)
+        
+    lang_suffix = sys.argv[1]
+    ckpt_path = ROOT / "models" / "lstm_seq2seq" / f"{lang_suffix}.pt"
+    
+    if not ckpt_path.exists():
+        print(f"Error: Model file {ckpt_path} not found.")
+        sys.exit(1)
+
     tracking_uri = os.environ.get("MLFLOW_TRACKING_URI", "http://localhost:5000")
     mlflow.set_tracking_uri(tracking_uri)
-    model_name = os.getenv("MODEL_NAME", "deepo-translator")
+    
+    # Unique model name per language
+    model_name = f"deepo-translator-{lang_suffix}"
     mlflow.set_experiment(os.getenv("MLFLOW_EXPERIMENT_NAME", "deepo-training"))
 
     with mlflow.start_run() as run:
         mlflow.log_param("git_sha", get_git_sha())
-        mlflow.log_param("model_kind", "seq2seq_lstm")
+        mlflow.log_param("model_kind", "seq2seq_lstm_bidirectional")
+        mlflow.log_param("language", lang_suffix)
 
-        # Test smoke
         t0 = time.perf_counter()
         wrapper = DeepoTranslatorWrapper()
         
-        # On log le modèle dans MLflow avec ses dépendances
         mlflow.pyfunc.log_model(
             artifact_path="model",
             python_model=wrapper,
             registered_model_name=model_name,
-            artifacts={"ckpt": str(CKPT_PATH)},
-            code_paths=[str(ROOT / "ml" / "model_def.py")] # Injecte tes classes
+            artifacts={"ckpt": str(ckpt_path)},
+            code_paths=[str(ROOT / "ml" / "model_def.py")]
         )
         
         latency_ms = int((time.perf_counter() - t0) * 1000)
@@ -118,9 +126,11 @@ def main() -> None:
         client = MlflowClient()
         versions = client.search_model_versions(f"name='{model_name}'")
         newest = max(int(v.version) for v in versions)
-        ART.joinpath("model_version.txt").write_text(str(newest), encoding="utf-8")
+        
+        # Save version info dynamically
+        ART.joinpath(f"model_version_{lang_suffix}.txt").write_text(str(newest), encoding="utf-8")
         ART.joinpath("run_id.txt").write_text(run.info.run_id, encoding="utf-8")
-        print(f"Modèle enregistré (Version {newest})")
+        print(f"Modèle {model_name} enregistré (Version {newest})")
 
 if __name__ == "__main__":
     main()
