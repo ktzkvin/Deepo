@@ -62,6 +62,11 @@ jobs:
       - name: Deploy to App Runner
         id: deploy-apprunner
         uses: awslabs/amazon-app-runner-deploy@main
+        env:
+          MLFLOW_TRACKING_URI: ${{ secrets.MLFLOW_TRACKING_URI }}
+          MLFLOW_TRACKING_USERNAME: ${{ secrets.MLFLOW_TRACKING_USERNAME }}
+          MLFLOW_TRACKING_PASSWORD: ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
+          MODEL_STAGE: Production
         with:
           service: deepo-staging
           image: 009933302006.dkr.ecr.eu-west-3.amazonaws.com/deepo-app:${{ github.sha }}
@@ -71,8 +76,4 @@ jobs:
           memory: 2
           port: 8000
           wait-for-service-stability-seconds: 1200
-          env-vars: |
-            MLFLOW_TRACKING_URI=${{ secrets.MLFLOW_TRACKING_URI }}
-            MLFLOW_TRACKING_USERNAME=${{ secrets.MLFLOW_TRACKING_USERNAME }}
-            MLFLOW_TRACKING_PASSWORD=${{ secrets.MLFLOW_TRACKING_PASSWORD }}
-            MODEL_STAGE=Production
+          copy-env-vars: MLFLOW_TRACKING_URI, MLFLOW_TRACKING_USERNAME, MLFLOW_TRACKING_PASSWORD, MODEL_STAGE
