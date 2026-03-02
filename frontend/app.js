@@ -241,7 +241,7 @@ themeBtn.addEventListener("click", () => {
 });
 
 demoBtn.addEventListener("click", () => {
-  inputText.value = "Hello world. This is a Deepo interface prototype.";
+  inputText.value = "As-tu vu mon ordinateur ?";
   updateCount();
   scheduleTranslate(200);
 });
