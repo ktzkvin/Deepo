@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import time
 import os
+import re
 from pathlib import Path
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -123,6 +124,10 @@ def translate(payload: TranslateRequest):
         model_2 = models_registry[target_code]
         input_2 = [{"text": intermediate_en.capitalize(), "target_lang": target_code}]
         translated = model_2.predict(input_2)[0]
+
+    # --- CORRECTIF POUR LES RÉPÉTITIONS DE MOTS ---
+    # Cette ligne supprime les mots consécutifs identiques (ex: "favorito favorito" -> "favorito")
+    translated = re.sub(r'\b(\w+)( \1\b)+', r'\1', translated)
 
     elapsed_ms = int((time.perf_counter() - t0) * 1000)
 
