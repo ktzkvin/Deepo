@@ -1,0 +1,5 @@
+outs:
+- md5: 0bc7e7f09e68d49158c2a49d6ee01f8a
+  size: 1337935
+  hash: md5
+  path: cmn-eng.zip
