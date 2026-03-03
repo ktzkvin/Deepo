@@ -115,7 +115,7 @@ def main() -> None:
             artifact_path="model",
             python_model=wrapper,
             registered_model_name=model_name,
-            artifacts={"ckpt": str(ckpt_path)},
+            artifacts={"ckpt": str(ckpt_path).replace("\\", "/")},
             code_paths=[str(ROOT / "ml" / "model_def.py")]
         )
         
