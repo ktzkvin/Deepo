@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 from typing import Any
 import torch
-
+import model_def 
 import mlflow
 from mlflow.pyfunc import PythonModel
 from mlflow.tracking import MlflowClient
@@ -27,9 +27,14 @@ def get_git_sha() -> str:
 
 class DeepoTranslatorWrapper(PythonModel):
     def load_context(self, context):
-        import model_def 
+
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        ckpt = torch.load(context.artifacts["ckpt"], map_location=self.device)
+        
+        ckpt_path = context.artifacts["ckpt"]
+        ckpt_path = str(ckpt_path).replace("\\", "/")
+
+        print(f"Loading checkpoint from: {ckpt_path}") # Debug log
+        ckpt = torch.load(ckpt_path, map_location=self.device)
         
         self.src_itos = ckpt['src_itos']
         self.tgt_itos = ckpt['tgt_itos']
