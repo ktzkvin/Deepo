@@ -1,0 +1,34 @@
+name: 3. Promote to Production (Main)
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  quality-gate:
+    name: Check Quality Gates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Quality Gate Script
+        env:
+          GATE_SMOKE_MIN: "1.0"
+          GATE_LATENCY_MAX_MS: "500.0"
+        run: python ml/gates.py
+
+  deploy-prod:
+    name: Deploy to Production
+    needs: quality-gate
+    if: github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Production Deployment Notice
+        run: echo "Quality gates passed. Deploying to production environment..."

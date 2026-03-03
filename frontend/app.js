@@ -64,13 +64,11 @@ function langName(code) {
     fr: "Français",
     en: "Anglais",
     es: "Espagnol",
-    de: "Allemand",
-    it: "Italien",
-    ar: "Arabe",
+    zh: "Mandarin",
+    pt: "Portugais",
   };
   return map[code] || code;
 }
-
 function refreshLangLabels() {
   sourceLabel.textContent = langName(sourceLang);
   targetLabel.textContent = langName(targetLang);
@@ -183,8 +181,7 @@ async function translateNow() {
       body: JSON.stringify({
         text,
         source_lang: sourceLang,
-        target_lang: targetLang,
-        mode: "lorem",
+        target_lang: targetLang
       }),
     });
 
@@ -244,7 +241,7 @@ themeBtn.addEventListener("click", () => {
 });
 
 demoBtn.addEventListener("click", () => {
-  inputText.value = "Hello world. This is a Deepo interface prototype.";
+  inputText.value = "As-tu vu mon ordinateur ?";
   updateCount();
   scheduleTranslate(200);
 });

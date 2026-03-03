@@ -1,0 +1,79 @@
+name: 2. Deploy to Staging (AWS App Runner)
+
+on:
+  push:
+    branches:
+      - staging
+
+jobs:
+  test-and-build:
+    name: Build, Test & Push Docker Image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r backend/requirements.txt
+          pip install -r ml/requirements.txt
+          pip install pytest httpx
+
+      - name: Execute Full Test Suite
+        run: pytest tests/
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+
+      - name: Build, Tag, and Push Image to AWS ECR
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          ECR_REPOSITORY: deepo-app
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+
+  deploy:
+    name: Deploy to AWS App Runner
+    needs: test-and-build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Deploy to App Runner
+        id: deploy-apprunner
+        uses: awslabs/amazon-app-runner-deploy@main
+        env:
+          MLFLOW_TRACKING_URI: ${{ secrets.MLFLOW_TRACKING_URI }}
+          MLFLOW_TRACKING_USERNAME: ${{ secrets.MLFLOW_TRACKING_USERNAME }}
+          MLFLOW_TRACKING_PASSWORD: ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
+          MODEL_STAGE: Production
+        with:
+          service: deepo-staging
+          image: 009933302006.dkr.ecr.eu-west-3.amazonaws.com/deepo-app:${{ github.sha }}
+          access-role-arn: arn:aws:iam::009933302006:role/AppRunnerECRAccessRole
+          region: ${{ secrets.AWS_REGION }}
+          cpu: 1
+          memory: 2
+          port: 8000
+          wait-for-service-stability-seconds: 1200
+          copy-env-vars: MLFLOW_TRACKING_URI, MLFLOW_TRACKING_USERNAME, MLFLOW_TRACKING_PASSWORD, MODEL_STAGE
